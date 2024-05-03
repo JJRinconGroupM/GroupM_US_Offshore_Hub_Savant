@@ -57,7 +57,7 @@ class MyConfigParser:
                     value = float(value)
                 elif value == 'null':
                     value = None
-                elif option in ['cut_off_point', 'reference_start_date1', 'reference_end_date1', 'reference_start_date2', 'reference_end_date2']:
+                elif option in ['cut_off_point', 'reference_start_date1', 'reference_end_date1', 'reference_start_date2', 'reference_end_date2','optimization_start_date','optimization_end_date']:
                     try:
                         value = datetime.datetime.strptime(value, '%Y-%m-%d')#.date()
                     except:

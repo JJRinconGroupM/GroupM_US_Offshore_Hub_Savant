@@ -43,9 +43,13 @@ class SavantPSO:
     def _get_before_after_variable(self):
         ### Check if NY budget meets the requirement 
         # update the searching term based on the customized period
+        self.cut_off_point = self.config_file['PROPHETSETTING']['cut_off_point']
+        self.optimization_start_date = self.config_file['PROPHETSETTING']['optimization_start_date']
+        pre_optimization_months = pd.date_range(start=self.cut_off_point, end=self.optimization_start_date, freq='ME').strftime('%b').tolist()
+
         try:
-            variable_list_latest = [x for x in self.decisionVariableArray if 'Mar' in x]
-            variable_list_before = [x for x in self.decisionVariableArray if 'Mar' not in x]
+            variable_list_before = [ x for x in self.decisionVariableArray if any(month in x for month in pre_optimization_months) ]
+            variable_list_latest = [ x for x in self.decisionVariableArray if any(month not in x for month in pre_optimization_months) ]
         except error:
             variable_list_latest = self.decisionVariableArray
             
