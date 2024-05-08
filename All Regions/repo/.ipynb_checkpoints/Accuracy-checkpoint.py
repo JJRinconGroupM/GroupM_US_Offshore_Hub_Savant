@@ -120,42 +120,42 @@ def MakeFuture(model, model_df, values, periods, future_input_df: pd.DataFrame =
         pass    
 
     
-    if values.weekday_or_weekend in ('additive', 'multiplicative'):
+    if str(values.weekday_or_weekend).lower() in ('additive', 'multiplicative'):
         future['weekday_or_weekend'] = future['ds'].apply(lambda x: 1 if x.dayofweek > 4 else 0)
 
-    if values.covid_year_dummy in ('additive', 'multiplicative'):
+    if str(values.covid_year_dummy).lower() in ('additive', 'multiplicative'):
         future['covid_year_dummy'] = future['ds'].apply(lambda x: 1 if (x >= datetime.date(2020,1,1)) & (x <= datetime.date(2020,12,31)) else 0)
 
-    if values.covid_year_exclude == 'Exclude':
+    if str(values.covid_year_exclude).lower() == 'true':
         future.drop(future[(future['ds'] >= '2020-01-01')&(future['ds']<='2020-12-31')].index, axis = 0, inplace = True)
         
-    if values.anomaly_2021 in ('additive', 'multiplicative'):
+    if str(values.anomaly_2021).lower() in ('additive', 'multiplicative'):
         future['anomaly_2021'] = future['ds'].apply(lambda x: 1 if (x >= datetime.date(2021,8,1))\
                                      & (x <= datetime.date(2021,10,31)) else 0)
         
-    if values.new_confirmed in ('additive', 'multiplicative'):
+    if str(values.new_confirmed).lower() in ('additive', 'multiplicative'):
         future = future.merge(model_df[['ds', 'new_confirmed']], how = 'left', on = 'ds')  
 
-    if values.generic_cost_split in ('additive', 'multiplicative'):
+    if str(values.generic_cost_split).lower() in ('additive', 'multiplicative'):
         future = future.merge(model_df[['ds', 'generic_cost_split']], how = 'left', on = 'ds')
             
-    if values.competitor_cost_split in ('additive', 'multiplicative'):
-
+    if str(values.competitor_cost_split).lower() in ('additive', 'multiplicative'):
         future = future.merge(model_df[['ds', 'competitor_cost_split']], how = 'left', on = 'ds')  
 
-    future['Mar_2018'] = 0
+
+    future['mar_2018'] = 0
     future.loc[(future['ds'] <= '2018-03-31') & (future['ds'] >= '2018-03-01'), 'Mar_2018'] = 1
 
-    future['Nov_Dec_2018'] = 0
+    future['nov_dec_2018'] = 0
     future.loc[(future['ds'] <= '2018-12-31') & (future['ds'] >= '2018-11-01'), 'Nov_Dec_2018'] = 1
 
-    future['Apr_2019'] = 0
+    future['apr_2019'] = 0
     future.loc[(future['ds'] <= '2019-04-30') & (future['ds'] >= '2019-04-01'), 'Apr_2019'] = 1
 
-    future['May_2019'] = 0
+    future['may_2019'] = 0
     future.loc[(future['ds'] <= '2019-05-31') & (future['ds'] >= '2019-05-01'), 'May_2019'] = 1
 
-    future['Jul_Dec_2019'] = 0
+    future['jul_dec_2019'] = 0
     future.loc[(future['ds'] <= '2019-12-31') & (future['ds'] >= '2019-07-01'), 'Jul_Dec_2019'] = 1
     
     future = pd.merge(future, model_df, how = 'left', on = ['ds']).fillna(0) 
@@ -167,10 +167,13 @@ def MakeFuture(model, model_df, values, periods, future_input_df: pd.DataFrame =
             future[new_col_name] = future.apply(lambda x: max(x[new_col_name+'_x'], x[new_col_name+'_y']), axis=1)
     future = future.fillna(0)
     
-    if values.growth == 'logistic':
+    if str(values.growth).lower() == 'logistic':
         future['cap'] = future.ROAS * future.X / future.AOV
         future.loc[future.cap == 0, 'cap'] = future.cap.max()
         future['floor'] = 0
+    else:
+        future.drop(columns=['cap','floor'], axis=1, inplace=True, errors='ignore')
+
 #     print(values)
 #     print("a0:", future.cap.min())
 
@@ -345,7 +348,7 @@ class ProphetParameterSearch:
                 'input_mode': ['additive','multiplicative'], #], #
                 'weekday_or_weekend':['na', 'additive', 'multiplicative'],  #
                 'include_holiday': ['na', 'default', 'customized'],#
-                'covid_year_exclude':['na', 'additive'],
+                'covid_year_exclude':['False', 'True'],
                 'covid_year_dummy':['na', 'additive'],
                 'anomaly_2021':['na', 'additive'],
                 'generic_cost_split':['na', 'additive'],#

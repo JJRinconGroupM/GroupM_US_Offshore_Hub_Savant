@@ -49,9 +49,12 @@ class SavantPSO:
 
         try:
             variable_list_before = [ x for x in self.decisionVariableArray if any(month in x for month in pre_optimization_months) ]
-            variable_list_latest = [ x for x in self.decisionVariableArray if any(month not in x for month in pre_optimization_months) ]
-        except error:
+            variable_list_latest = list( set(self.decisionVariableArray) - set(variable_list_before) )
+            variable_list_latest = sorted(variable_list_latest)
+
+        except Exception as e:
             variable_list_latest = self.decisionVariableArray
+            #print("Error occurred:", str(e))  # Optional: Print or log the error message
             
         return variable_list_before, variable_list_latest
                 
