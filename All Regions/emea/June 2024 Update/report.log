@@ -1,0 +1,148 @@
+2024-05-22 20:59:41,727 - pyswarms.single.global_best - INFO - Optimize for 150 iters with {'c1': 0.20255337412386598, 'c2': 0.034812002156869526, 'w': 0.8707709059066462}
+2024-05-22 21:10:45,216 - pyswarms.single.global_best - INFO - Optimize for 150 iters with {'c1': 0.20255337412386598, 'c2': 0.034812002156869526, 'w': 0.8707709059066462}
+2024-05-24 15:55:08,573 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -933000.0, best pos: [0.96478746 1.14912943 0.89973027 0.92303745 0.90982768 1.12506817
+ 0.98458989 1.11298998 1.0548621  0.97008627 0.93949565 0.93711799
+ 0.96954491 0.86302463 0.93294883 0.95734643 1.03904693 1.0022761
+ 0.95246016 1.03537301 1.03847183 1.0361165  0.96826795 1.0434304
+ 0.97890546 1.03685957 0.94989925 1.04094557 0.98292754 0.99749254
+ 0.9650383  1.02590593 1.00906472 1.06339935 1.07499232 0.89155122
+ 1.11389115 0.92212906 0.99875125 0.94746456 0.93585201 0.99801148
+ 0.95748438 1.04455448 1.0305143  0.94131383 0.94792517 1.07562769
+ 0.98573386 1.14495376 0.9565517  1.04760712 1.01573118 0.99781159
+ 0.99458574 1.03219201 1.1394569  0.9542927  1.03238254 0.97752874
+ 1.05053144 1.00086616 1.19920606 1.00918286 1.01609064 0.9430243
+ 0.97271526 0.90165982 1.11617128 1.03690825 0.98483917 0.99827528
+ 0.98892685 1.1861752  0.94120318 1.12366785 0.90966094 1.03669144
+ 0.87354174 1.12557289 0.93509592 1.10768504 0.99507285 1.01694214
+ 0.96658254 0.95227731 1.10526492 1.07405355 1.12918436 0.88820231
+ 1.11110773 0.74081676 0.72700465 0.73157983 0.73348064 0.72859217
+ 0.74314906 0.75233625 0.75659185 0.78405362 0.75073062 0.75923879
+ 0.77597046 0.75727533 0.9815439  1.11996267 1.00462195 1.04054429
+ 0.95741616 1.01293377 0.95128279 1.0778227  1.10455234 1.07529252
+ 1.1481847  0.95769753 1.00450895]
+2024-05-30 19:10:37,555 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:10:37,559 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:10:37,573 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:10:37,763 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:10:37,766 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:10:37,770 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:10:37,774 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:03,550 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:03,554 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:03,566 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:03,591 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:03,594 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:03,597 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:03,602 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:33,056 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:33,060 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:33,071 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:33,098 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:33,101 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:33,104 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:11:33,107 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:10,590 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:10,594 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:10,619 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:10,656 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:10,659 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:10,666 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:31,284 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:31,290 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:31,313 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:31,350 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:31,353 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:31,357 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-30 19:17:31,360 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-05-31 20:03:37,201 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.20255337412386598, 'c2': 0.034812002156869526, 'w': 0.8707709059066462}
+2024-06-01 11:53:13,357 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -930971.0, best pos: [0.94771291 1.0197138  1.03626339 0.98133364 1.07516482 1.01591983
+ 0.92533078 1.03537445 1.0805007  0.88476551 0.99656055 0.9351797
+ 0.99597815 0.91638153 0.97045636 1.01593101 1.00476921 0.88188921
+ 0.92882224 1.09443099 1.01884417 1.0532267  0.92570267 1.01491619
+ 0.97833851 1.06024172 1.02350833 0.93954939 0.98155474 1.03757281
+ 1.0544161  1.02143322 1.06693566 1.03968935 1.01792057 0.93430535
+ 1.18388396 0.85909722 1.00375991 0.89225836 1.06755588 0.94707654
+ 0.96496621 0.992773   0.86353365 0.9761764  1.07969842 1.14187383
+ 0.92320014 1.13184107 0.90420413 1.06183258 0.96588929 1.002045
+ 0.98604207 1.00082018 1.04310809 0.98814825 0.99014571 1.02865928
+ 0.99735295 1.00219889 1.11271294 0.99262072 0.98335084 1.04549254
+ 1.08443072 1.04934434 0.86308487 0.96095735 0.9715331  0.86878722
+ 1.03298227 1.07039411 0.96311074 1.12755721 0.99047469 0.88210784
+ 0.93421699 0.97025804 0.96381951 1.02733262 1.03718882 0.99079622
+ 1.05925703 0.9894564  1.06442631 0.95754807 1.14608982 1.12480031
+ 1.09844476 0.74173523 0.74685776 0.75972599 0.71298709 0.78271297
+ 0.81703402 0.78156691 0.80190707 0.79781786 0.82481608 0.77570762
+ 0.73689464 0.74902187 1.01339444 1.04995913 0.9941851  0.93973486
+ 0.91696974 1.06030443 0.9446326  0.9354275  1.10637277 1.09340749
+ 1.14109439 0.89688871 1.03753707]
+2024-06-01 14:19:16,992 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.20255337412386598, 'c2': 0.034812002156869526, 'w': 0.8707709059066462}
+2024-06-02 02:26:03,608 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -930832.0, best pos: [1.04885233 0.97336622 0.99773924 1.09672572 1.02113443 1.10030027
+ 0.88952644 1.15374783 0.9112079  1.12064171 0.99252338 1.02247178
+ 1.09142111 1.13426485 0.88139876 1.1277847  0.94035866 1.07767396
+ 1.1019095  0.90063815 1.03760669 1.12419412 1.14627535 1.13301494
+ 0.94050672 1.15658514 0.8390549  1.0583508  1.14708323 1.17449251
+ 0.85257041 1.02309526 1.12854084 0.93016689 0.97568388 1.06739023
+ 1.14126174 0.91401831 1.08591452 0.86383203 1.19079664 1.11390992
+ 0.96220719 1.11352169 0.92074811 0.80905769 0.91625922 0.89081341
+ 0.99102398 1.10463933 0.90175452 0.86430352 1.00944212 1.12724055
+ 0.89163479 0.99436131 0.93644167 0.9210967  1.01643237 0.9630598
+ 0.94511446 0.89785141 1.11405698 1.03113824 0.85783535 0.88498038
+ 0.85027579 0.98245329 0.90007778 1.0036183  0.95913607 1.04622884
+ 0.9663424  1.19132978 0.85486109 1.04842965 0.8962722  0.95780784
+ 1.07227389 1.05887222 0.8844873  1.15354753 1.07652369 0.97948796
+ 1.03798608 1.0999551  1.08823659 0.95709168 1.14687783 0.96282728
+ 1.31010137 0.71948523 0.74240112 0.74851771 0.76759987 0.7923738
+ 0.77718434 0.7663226  0.77772116 0.82542911 0.80340351 0.79720319
+ 0.76262977 0.74562832 0.93048429 0.90113944 0.94048923 1.14668318
+ 1.08767388 1.12654311 0.89627018 0.93773547 0.97364043 0.94061576
+ 1.14208162 0.82831654 0.98725913]
+2024-06-04 13:48:30,034 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.20255337412386598, 'c2': 0.034812002156869526, 'w': 0.8707709059066462}
+2024-06-04 13:53:37,806 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-04 13:53:37,809 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-04 13:53:37,822 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-04 13:53:37,847 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-04 13:53:37,850 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-04 13:53:37,852 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-04 13:53:37,855 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-06-05 02:03:37,882 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -930423.0, best pos: [0.96011075 0.82731245 0.94122461 1.05183363 1.16798632 1.11190375
+ 0.94667567 1.02372869 1.06710437 0.97425249 1.07174395 0.91487339
+ 1.06895104 0.94450803 0.97994911 1.08027814 1.16038106 0.96961125
+ 0.9376159  0.88357789 0.98416148 0.99420391 1.03612945 1.13808019
+ 0.96719462 1.02927923 0.81284107 1.07294041 0.87801931 0.91766185
+ 1.07492996 0.93254037 1.17886367 1.03143603 0.9466271  1.05915588
+ 1.15207669 0.81799803 1.05315914 1.12635563 1.04760099 0.97188221
+ 0.91956772 0.89913238 1.05257728 1.04580053 0.92487319 1.18422292
+ 0.89898367 1.10960342 0.86692838 1.05056959 0.92715486 0.87414689
+ 0.99158721 1.19733823 0.82794179 1.07087826 0.96932262 0.98111344
+ 1.06209299 1.08020264 1.02561562 1.01082739 0.94228405 1.00430427
+ 0.8489531  0.9885481  1.05866167 1.07343284 1.11124554 0.97076766
+ 1.00603622 0.8944799  1.13241807 1.1376094  1.01384163 1.01239729
+ 1.00092969 1.12062034 1.02985529 0.94164819 0.841552   0.87867784
+ 0.9366981  1.19853969 1.02796645 1.03744058 1.15040734 1.05973966
+ 1.16199861 0.74308645 0.71368751 0.72478251 0.75210975 0.81233339
+ 0.77398289 0.83098443 0.81926026 0.81308717 0.79833288 0.7597631
+ 0.71863924 0.7092981  0.88276427 0.99434804 1.02579261 1.18880665
+ 0.9593682  1.07155474 0.97558668 0.94040071 1.13301463 0.94489324
+ 1.15273965 0.95964803 0.85327105]
+2024-06-05 02:43:59,802 - pyswarms.single.global_best - INFO - Optimize for 150 iters with {'c1': 0.20255337412386598, 'c2': 0.034812002156869526, 'w': 0.8707709059066462}
+2024-06-05 02:51:16,477 - pyswarms.single.global_best - INFO - Optimize for 150 iters with {'c1': 0.20255337412386598, 'c2': 0.034812002156869526, 'w': 0.8707709059066462}
+2024-06-06 15:02:22,601 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -933168.0, best pos: [1.07324342 1.06459205 1.034973   0.9048344  0.8958091  1.07931612
+ 0.99346109 0.95719748 1.04928782 1.01965728 1.09894354 1.00923894
+ 0.92469294 0.93981434 0.883503   0.87945536 1.01232685 1.06590767
+ 0.94048623 0.92374912 0.92685924 1.08342763 1.00572031 1.07130902
+ 0.94013052 0.99278173 0.96121493 1.0247204  0.97314444 1.09135413
+ 0.96368841 0.88873417 1.08031739 0.9411011  1.00255826 0.97464578
+ 1.10875852 0.97234764 1.00210464 0.93126503 0.98088403 1.09897432
+ 1.10392129 1.04493476 1.01914494 1.0381038  1.0039907  1.07992139
+ 1.0824461  1.09318735 0.93619807 0.94174812 0.99144999 0.85998602
+ 1.10897454 0.96501514 1.01201328 0.97370364 1.08388342 0.96585756
+ 1.03433455 0.93272731 1.11204061 0.91839019 1.03418664 1.02419202
+ 1.00655767 0.89361036 1.01479791 0.97193831 0.93854853 1.07744828
+ 0.9729741  1.0974863  0.97931044 1.16114832 0.93790317 1.01896538
+ 0.92479404 0.96977607 0.96089597 0.97922602 1.0791071  0.98847193
+ 1.12498179 0.98945706 1.07482632 0.96141389 1.16304264 0.94970706
+ 1.26213255 0.74548383 0.75373136 0.7426764  0.73198445 0.79184742
+ 0.78572409 0.80383551 0.79011992 0.79266376 0.79669375 0.7606263
+ 0.7535451  0.77271778 0.92414264 0.94745991 1.0946087  0.89290269
+ 0.87444161 0.99901328 0.96179277 1.03273355 0.94787941 1.02688818
+ 1.16834972 0.97680725 1.02903663]
