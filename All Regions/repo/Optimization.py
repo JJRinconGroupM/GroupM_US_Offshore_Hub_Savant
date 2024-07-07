@@ -183,6 +183,7 @@ class SavantPSO:
 
         ## Check if spend is same as what UPS planned
         total_spend_next_period = analytical_file_temp.loc[:,'X'].sum()
+        #print(f'total spend {total_spend_next_period}')
 
         total_budget = self.client_budget + self.pre_forecast_period_budget
         # print("Total Budget:", total_budget, "client_budget:", self.client_budget, "pre_forecast_period_budget:", self.pre_forecast_period_budget)

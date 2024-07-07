@@ -100,7 +100,7 @@ def CreateModel(training_dataset, row):
 
     for i in row.keys():
         if i in ['weekday_or_weekend', 'covid_year_dummy', 'anomaly_2021', \
-                 'generic_cost_split', 'competitor_cost_split', 'new_confirmed', 'nov_dec_2018', 'jul_dec_2019']\
+                 'generic_cost_split', 'competitor_cost_split', 'new_confirmed', 'nov_dec_2018', 'jul_dec_2019', 'dec_2022']\
             and str(row[i]).lower() in ('additive', 'multiplicative'):
             model.add_regressor(i, mode = row[i])
             

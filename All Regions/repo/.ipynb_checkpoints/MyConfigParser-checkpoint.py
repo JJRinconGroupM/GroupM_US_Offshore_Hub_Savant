@@ -17,13 +17,14 @@ import configparser
 
 class MyConfigParser:
     """
-    Function used to convert config object to dictonary for the convenience of using.
-    Data types are converted according to the nature of keys.
+    Function used to convert a .ini config object to dictonary for the convenience of using.
+    Data is converted according to the nature of keys; str (default), float (for numeric keys), and datetime.datetime for dates, which need to be in '%Y-%m-%d' str format.
     
     Parameters:
     -------
-    config: config
-        config object.
+    config_file_path: str 
+        .ini config file path
+
     
     Arguments:
     -------
@@ -35,36 +36,59 @@ class MyConfigParser:
     dic: dictionary
         converted dictionary
     """
-    def __init__(self):
-        pass
-        # self.config = configparser.ConfigParser()
-        # self.config.read(config_file_path)
     
-    def GetDict(self, config):
-        self.config = config
-
-        sections_dict = {}
+    # initialize the config parser, read the config file 
+    def __init__(self, config_file_path): 
+        
+        # initialize the configparser function
+        self.config = configparser.ConfigParser() 
+        
+        # read the .ini config file 
+        self.config.read(config_file_path) 
+    
+    
+     # create a dictionary from the self.config object
+    def GetDict(self):
+    
+        # sets an empty dict to add every section of the config object
+        sections_dict = {} 
 
         # get sections and iterate over each
-        sections = self.config.sections()
+        sections = self.config.sections() 
 
+        # loop over each section to get each element name and value, parse it and store it into the dict
         for section in sections:
+            
+            # get the config key names (option) in the section
             options = self.config.options(section)
+            
+            # create a temp dict that will create the key names and elements (values)
             temp_dict = {}
+            
+            # loop over each key (option) of the section in the config object
             for option in options:
-                value = self.config.get(section,option)
-                if option in ['base_periods', 'periods', 'weekstarting']:
-                    value = float(value)
-                elif value == 'null':
-                    value = None
-                elif option in ['cut_off_point', 'reference_start_date1', 'reference_end_date1', 'reference_start_date2', 'reference_end_date2','optimization_start_date','optimization_end_date']:
-                    try:
-                        value = datetime.datetime.strptime(value, '%Y-%m-%d')#.date()
-                    except:
-                        pass
-                temp_dict[option] = value
                 
+                # get the option value
+                value = self.config.get(section,option)
+                
+                # parse the value to the element type. 
+                    #Try to parse as float (number), 
+                    # if it does not parse it to float try to parse it to a date type by the format '%Y-%m-%d' 
+                    # else parse the element as a str (default), if str.lower() == 'null' parse it as a None value.
+                try: 
+                    value = float(value)
+                except ValueError:
+                    try: 
+                        value = datetime.datetime.strptime(value, '%Y-%m-%d')
+                    except ValueError:
+                        if value.lower() == 'null':
+                            value = None
+                    
+                # add the option key and value to the temp dict
+                temp_dict[option] = value
+            
+            # add each section dict to the full dict to be returned 
             sections_dict[section] = temp_dict
-        # print(sections_dict)
+
         return sections_dict
 

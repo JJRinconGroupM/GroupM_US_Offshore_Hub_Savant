@@ -144,19 +144,22 @@ def MakeFuture(model, model_df, values, periods, future_input_df: pd.DataFrame =
 
 
     future['mar_2018'] = 0
-    future.loc[(future['ds'] <= '2018-03-31') & (future['ds'] >= '2018-03-01'), 'Mar_2018'] = 1
+    future.loc[(future['ds'] <= '2018-03-31') & (future['ds'] >= '2018-03-01'), 'mar_2018'] = 1
 
     future['nov_dec_2018'] = 0
-    future.loc[(future['ds'] <= '2018-12-31') & (future['ds'] >= '2018-11-01'), 'Nov_Dec_2018'] = 1
+    future.loc[(future['ds'] <= '2018-12-31') & (future['ds'] >= '2018-11-01'), 'nov_dec_2018'] = 1
 
     future['apr_2019'] = 0
-    future.loc[(future['ds'] <= '2019-04-30') & (future['ds'] >= '2019-04-01'), 'Apr_2019'] = 1
+    future.loc[(future['ds'] <= '2019-04-30') & (future['ds'] >= '2019-04-01'), 'apr_2019'] = 1
 
     future['may_2019'] = 0
-    future.loc[(future['ds'] <= '2019-05-31') & (future['ds'] >= '2019-05-01'), 'May_2019'] = 1
+    future.loc[(future['ds'] <= '2019-05-31') & (future['ds'] >= '2019-05-01'), 'may_2019'] = 1
 
     future['jul_dec_2019'] = 0
-    future.loc[(future['ds'] <= '2019-12-31') & (future['ds'] >= '2019-07-01'), 'Jul_Dec_2019'] = 1
+    future.loc[(future['ds'] <= '2019-12-31') & (future['ds'] >= '2019-07-01'), 'jul_dec_2019'] = 1
+    
+    future['dec_2022'] = 0
+    future.loc[(future['ds'] <= '2022-12-31') & (future['ds'] >= '2022-12-01'), 'dec_2022'] = 1
     
     future = pd.merge(future, model_df, how = 'left', on = ['ds']).fillna(0) 
     ls = future.columns
