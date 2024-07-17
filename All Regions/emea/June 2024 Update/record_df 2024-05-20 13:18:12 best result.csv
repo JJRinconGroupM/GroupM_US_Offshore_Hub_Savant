@@ -1,2 +1,0 @@
-,market,account_type,funnel,periods_for_acc_cal,changepoint_prior_scale,seasonality_prior_scale,holidays_prior_scale,seasonality_mode,input_mode,weekday_or_weekend,include_holiday,covid_year_exclude,covid_year_dummy,anomaly_2021,generic_cost_split,competitor_cost_split,new_confirmed,dec_2022,power,growth,MAPE,period_AE
-0,SM,-,-,183,0.001,0.01,0.01,additive,multiplicative,na,default,False,na,na,additive,additive,na,multiplicative,na,logistic,11.42,3.37

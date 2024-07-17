@@ -17,6 +17,7 @@ from prophet import Prophet
 from .FileSaving import *
 import gcsfs
 import numpy as np
+import pandas as pd
 
 # Holidays
 Blackfriday = pd.DataFrame({
@@ -77,31 +78,32 @@ def CreateModel(training_dataset, row):
 
     """
     pt_kwargs = {k: row[k] for k in row.keys() if k in ['changepoint_prior_scale', 'seasonality_prior_scale', 'holidays_prior_scale', 'seasonality_mode']}
-    if str(row.growth).lower() == 'power':
+
+    if row.growth == 'power':
         training_dataset.X = np.power(training_dataset.X, float(row.power))
         growth = 'linear'
     else: 
-        growth = str(row.growth).lower()
-    if str(row.include_holiday).lower() in ['default','true']:
+        growth = row.growth
+
+    if row.include_holiday in ('Default', True):
         model = Prophet(growth = growth,  **pt_kwargs) #
         model.add_country_holidays(country_name = row.market)
-    elif str(row.include_holiday).lower() in ['custom','customized']:
+    elif row.include_holiday == 'Custom':
         model = Prophet(growth = growth, holidays = customized_holidays, **pt_kwargs) #
     else:
-#         print('Holiday not included')
         model = Prophet(growth = growth, **pt_kwargs)
     
-    if str(row.input_mode).lower() in ('additive', 'multiplicative'):
+    if row.input_mode in ('additive', 'multiplicative'):
         model.add_regressor('X', mode = row.input_mode)
     
-    if str(row.covid_year_exclude).lower() == 'true':
+    if row.covid_year_exclude == 'Exclude':
         training_dataset.drop(training_dataset[(training_dataset['ds'] >= '2020-01-01')&\
                                                (training_dataset['ds']<='2020-12-31')].index, axis = 0, inplace = True)
 
     for i in row.keys():
         if i in ['weekday_or_weekend', 'covid_year_dummy', 'anomaly_2021', \
-                 'generic_cost_split', 'competitor_cost_split', 'new_confirmed', 'nov_dec_2018', 'jul_dec_2019', 'dec_2022']\
-            and str(row[i]).lower() in ('additive', 'multiplicative'):
+                 'generic_cost_split', 'competitor_cost_split', 'new_confirmed', 'Nov_Dec_2018', 'Jul_Dec_2019']\
+            and row[i] in ('additive', 'multiplicative'):
             model.add_regressor(i, mode = row[i])
             
     model.fit(training_dataset)
@@ -142,10 +144,10 @@ class GenerateModelFile:
             elif len(breakdown_ls) == 1:
                 model_df = df[(df[breakdown_ls[0]] == values[breakdown_ls[0]])].reset_index(drop = True)
             
-            #try:
-            #    training_dataset = model_df[(model_df['ds'] < new_cut_off_point) & (model_df['ds'] >= values.starting_date)]
-            #except:
-            training_dataset = model_df[(model_df['ds'] < values.cutoff_month)]
+            try:
+                training_dataset = model_df[(model_df['ds'] < new_cut_off_point) & (model_df['ds'] >= values.starting_date)]
+            except:
+                training_dataset = model_df[(model_df['ds'] < values.cutoff_month)]
 #             print(values.cutoff_month, training_dataset.head())
             model = CreateModel(training_dataset, values)
 

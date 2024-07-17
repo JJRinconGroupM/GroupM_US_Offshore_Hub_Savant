@@ -43,18 +43,11 @@ class SavantPSO:
     def _get_before_after_variable(self):
         ### Check if NY budget meets the requirement 
         # update the searching term based on the customized period
-        self.cut_off_point = self.config_file['PROPHETSETTING']['cut_off_point']
-        self.optimization_start_date = self.config_file['PROPHETSETTING']['optimization_start_date']
-        pre_optimization_months = pd.date_range(start=self.cut_off_point, end=self.optimization_start_date, freq='ME').strftime('%b').tolist()
-
         try:
-            variable_list_before = [ x for x in self.decisionVariableArray if any(month in x for month in pre_optimization_months) ]
-            variable_list_latest = list( set(self.decisionVariableArray) - set(variable_list_before) )
-            variable_list_latest = sorted(variable_list_latest)
-
-        except Exception as e:
+            variable_list_latest = [x for x in self.decisionVariableArray if 'Mar' in x]
+            variable_list_before = [x for x in self.decisionVariableArray if 'Mar' not in x]
+        except error:
             variable_list_latest = self.decisionVariableArray
-            #print("Error occurred:", str(e))  # Optional: Print or log the error message
             
         return variable_list_before, variable_list_latest
                 
@@ -183,7 +176,6 @@ class SavantPSO:
 
         ## Check if spend is same as what UPS planned
         total_spend_next_period = analytical_file_temp.loc[:,'X'].sum()
-        #print(f'total spend {total_spend_next_period}')
 
         total_budget = self.client_budget + self.pre_forecast_period_budget
         # print("Total Budget:", total_budget, "client_budget:", self.client_budget, "pre_forecast_period_budget:", self.pre_forecast_period_budget)

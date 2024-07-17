@@ -1,3 +1,0 @@
-market,account_type,funnel,changepoint_prior_scale,seasonality_prior_scale,holidays_prior_scale,seasonality_mode,input_mode,weekday_or_weekend,include_holiday,covid_year_exclude,covid_year_dummy,anomaly_2021,generic_cost_split,competitor_cost_split,new_confirmed,power,growth
-Canada,-,Brand,0.5,0.01,1,multiplicative,na,multiplicative,na,na,na,na,na,na,na,na,logistic
-Canada,-,Non_Brand,0.001,0.01,10,multiplicative,na,multiplicative,na,na,na,na,na,na,na,na,linear
