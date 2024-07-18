@@ -1,0 +1,15 @@
+,market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+0,France,Desktop,-,2023-10-01,17720.0,15283.51,13.750000000000002,16.93,17.990000000000002,UnderPredicted
+1,France,Desktop,-,2023-11-01,15664.0,14815.2,5.42,16.93,17.990000000000002,UnderPredicted
+2,France,Desktop,-,2023-12-01,14951.0,13863.71,7.2700000000000005,16.93,17.990000000000002,UnderPredicted
+3,France,Desktop,-,2024-01-01,13279.0,13689.43,-3.09,16.93,17.990000000000002,UnderPredicted
+4,France,Desktop,-,2024-02-01,14112.0,11728.46,16.89,16.93,17.990000000000002,UnderPredicted
+5,France,Desktop,-,2024-03-01,14208.0,11098.51,21.89,16.93,17.990000000000002,UnderPredicted
+6,France,Desktop,-,2024-04-01,20867.0,10394.18,50.19,16.93,17.990000000000002,UnderPredicted
+7,France,Mobile & Tablet,-,2023-10-01,655.0,271.78,58.51,38.9,32.4,UnderPredicted
+8,France,Mobile & Tablet,-,2023-11-01,618.0,580.75,6.03,38.9,32.4,UnderPredicted
+9,France,Mobile & Tablet,-,2023-12-01,602.0,743.9200000000001,-23.57,38.9,32.4,UnderPredicted
+10,France,Mobile & Tablet,-,2024-01-01,554.0,495.64,10.530000000000001,38.9,32.4,UnderPredicted
+11,France,Mobile & Tablet,-,2024-02-01,545.0,410.9,24.610000000000003,38.9,32.4,UnderPredicted
+12,France,Mobile & Tablet,-,2024-03-01,580.0,98.9,82.95,38.9,32.4,UnderPredicted
+13,France,Mobile & Tablet,-,2024-04-01,591.0,200.26,66.12,38.9,32.4,UnderPredicted

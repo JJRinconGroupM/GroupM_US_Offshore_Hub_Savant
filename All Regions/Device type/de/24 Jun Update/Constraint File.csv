@@ -1,0 +1,19 @@
+market,account_type,funnel,Month,Year,variable_splits,Constrain_Variable_Name,periods_for_acc_cal,changepoint_prior_scale,seasonality_prior_scale,holidays_prior_scale,seasonality_mode,input_mode,weekday_or_weekend,include_holiday,covid_year_exclude,covid_year_dummy,anomaly_2021,generic_cost_split,competitor_cost_split,new_confirmed,power,growth,MAPE,period_AE,periods,cutoff_month,MinWeight,MaxWeight
+Germany,Desktop,-,Apr,2024,Germany_Desktop_-_Apr_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Desktop,-,May,2024,Germany_Desktop_-_May_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Desktop,-,Jun,2024,Germany_Desktop_-_Jun_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Desktop,-,Jul,2024,Germany_Desktop_-_Jul_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Desktop,-,Aug,2024,Germany_Desktop_-_Aug_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Desktop,-,Sep,2024,Germany_Desktop_-_Sep_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Desktop,-,Oct,2024,Germany_Desktop_-_Oct_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Desktop,-,Nov,2024,Germany_Desktop_-_Nov_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.7,0.8
+Germany,Desktop,-,Dec,2024,Germany_Desktop_-_Dec_2024,cost,183,0.1,10,1,additive,additive,na,Default,na,na,na,na,na,na,na,linear,11.55,5.09,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,Apr,2024,Germany_Mobile_&_Tablet_-_Apr_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,May,2024,Germany_Mobile_&_Tablet_-_May_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,Jun,2024,Germany_Mobile_&_Tablet_-_Jun_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,Jul,2024,Germany_Mobile_&_Tablet_-_Jul_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,Aug,2024,Germany_Mobile_&_Tablet_-_Aug_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,Sep,2024,Germany_Mobile_&_Tablet_-_Sep_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,Oct,2024,Germany_Mobile_&_Tablet_-_Oct_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2
+Germany,Mobile & Tablet,-,Nov,2024,Germany_Mobile_&_Tablet_-_Nov_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.7,0.8
+Germany,Mobile & Tablet,-,Dec,2024,Germany_Mobile_&_Tablet_-_Dec_2024,cost,183,0.05,10,10,additive,multiplicative,additive,na,na,na,na,na,na,na,na,logistic,21.78,22.26,251.0,2024-04-25,0.8,1.2

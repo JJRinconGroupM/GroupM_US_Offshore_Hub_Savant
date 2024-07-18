@@ -1,0 +1,19 @@
+market,account_type,funnel,Month,Year,variable_splits,Constrain_Variable_Name,periods_for_acc_cal,changepoint_prior_scale,seasonality_prior_scale,holidays_prior_scale,seasonality_mode,input_mode,weekday_or_weekend,include_holiday,covid_year_exclude,covid_year_dummy,anomaly_2021,generic_cost_split,competitor_cost_split,new_confirmed,power,growth,MAPE,period_AE,periods,cutoff_month,MinWeight,MaxWeight
+UK,Desktop,-,Apr,2024,UK_Desktop_-_Apr_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Desktop,-,May,2024,UK_Desktop_-_May_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Desktop,-,Jun,2024,UK_Desktop_-_Jun_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Desktop,-,Jul,2024,UK_Desktop_-_Jul_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Desktop,-,Aug,2024,UK_Desktop_-_Aug_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Desktop,-,Sep,2024,UK_Desktop_-_Sep_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Desktop,-,Oct,2024,UK_Desktop_-_Oct_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Desktop,-,Nov,2024,UK_Desktop_-_Nov_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,1.0,1.1
+UK,Desktop,-,Dec,2024,UK_Desktop_-_Dec_2024,cost,183,0.1,10.0,10.0,multiplicative,multiplicative,multiplicative,Default,na,na,na,na,na,na,na,linear,14.73,1.63,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,Apr,2024,UK_Mobile_&_Tablet_-_Apr_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,May,2024,UK_Mobile_&_Tablet_-_May_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,Jun,2024,UK_Mobile_&_Tablet_-_Jun_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,Jul,2024,UK_Mobile_&_Tablet_-_Jul_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,Aug,2024,UK_Mobile_&_Tablet_-_Aug_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,Sep,2024,UK_Mobile_&_Tablet_-_Sep_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,Oct,2024,UK_Mobile_&_Tablet_-_Oct_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2
+UK,Mobile & Tablet,-,Nov,2024,UK_Mobile_&_Tablet_-_Nov_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,1.0,1.1
+UK,Mobile & Tablet,-,Dec,2024,UK_Mobile_&_Tablet_-_Dec_2024,cost,183,0.1,1.0,1.0,multiplicative,multiplicative,additive,Default,na,na,na,na,na,na,na,logistic,18.32,15.68,251.0,2024-04-25,0.8,1.2

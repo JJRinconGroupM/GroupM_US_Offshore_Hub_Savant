@@ -1,0 +1,429 @@
+,Region,Market,device_segment,Ds,OptimalConversionQuantity,OptimalSpendValue,Month,Year,BaseConversionQuantity,BaseSpend,SavedDate
+37,Germany,Germany,Desktop,2024-06-01,0.0,557.52,Jun,2024,0.0,503.18,2024-06-05
+38,Germany,Germany,Desktop,2024-06-02,0.0,459.04,Jun,2024,0.0,414.3,2024-06-05
+39,Germany,Germany,Desktop,2024-06-03,1402.0,5633.13,Jun,2024,1369.0,5084.03,2024-06-05
+40,Germany,Germany,Desktop,2024-06-04,1482.0,6405.64,Jun,2024,1445.0,5781.24,2024-06-05
+41,Germany,Germany,Desktop,2024-06-05,1390.0,5158.65,Jun,2024,1359.0,4655.8,2024-06-05
+42,Germany,Germany,Desktop,2024-06-06,1180.0,2214.91,Jun,2024,1167.0,1999.01,2024-06-05
+43,Germany,Germany,Desktop,2024-06-07,999.0,3376.41,Jun,2024,979.0,3047.28,2024-06-05
+44,Germany,Germany,Desktop,2024-06-08,0.0,589.42,Jun,2024,0.0,531.97,2024-06-05
+45,Germany,Germany,Desktop,2024-06-09,0.0,510.5,Jun,2024,0.0,460.74,2024-06-05
+46,Germany,Germany,Desktop,2024-06-10,1459.0,6523.37,Jun,2024,1421.0,5887.49,2024-06-05
+47,Germany,Germany,Desktop,2024-06-11,1462.0,5868.13,Jun,2024,1427.0,5296.12,2024-06-05
+48,Germany,Germany,Desktop,2024-06-12,1446.0,5789.77,Jun,2024,1412.0,5225.4,2024-06-05
+49,Germany,Germany,Desktop,2024-06-13,1373.0,5019.42,Jun,2024,1343.0,4530.14,2024-06-05
+50,Germany,Germany,Desktop,2024-06-14,1058.0,3881.14,Jun,2024,1035.0,3502.82,2024-06-05
+51,Germany,Germany,Desktop,2024-06-15,0.0,870.31,Jun,2024,0.0,785.48,2024-06-05
+52,Germany,Germany,Desktop,2024-06-16,0.0,753.6,Jun,2024,0.0,680.14,2024-06-05
+53,Germany,Germany,Desktop,2024-06-17,1730.0,10481.45,Jun,2024,1669.0,9459.75,2024-06-05
+54,Germany,Germany,Desktop,2024-06-18,1349.0,3468.96,Jun,2024,1328.0,3130.82,2024-06-05
+55,Germany,Germany,Desktop,2024-06-19,1392.0,4401.41,Jun,2024,1367.0,3972.38,2024-06-05
+56,Germany,Germany,Desktop,2024-06-20,1336.0,3961.94,Jun,2024,1313.0,3575.74,2024-06-05
+57,Germany,Germany,Desktop,2024-06-21,1021.0,2863.42,Jun,2024,1004.0,2584.3,2024-06-05
+58,Germany,Germany,Desktop,2024-06-22,0.0,392.82,Jun,2024,0.0,354.53,2024-06-05
+59,Germany,Germany,Desktop,2024-06-23,0.0,275.92,Jun,2024,0.0,249.03,2024-06-05
+60,Germany,Germany,Desktop,2024-06-24,1340.0,3794.84,Jun,2024,1317.0,3424.93,2024-06-05
+61,Germany,Germany,Desktop,2024-06-25,1427.0,4628.91,Jun,2024,1400.0,4177.7,2024-06-05
+62,Germany,Germany,Desktop,2024-06-26,1401.0,4459.28,Jun,2024,1375.0,4024.6,2024-06-05
+63,Germany,Germany,Desktop,2024-06-27,1210.0,1836.61,Jun,2024,1199.0,1657.58,2024-06-05
+64,Germany,Germany,Desktop,2024-06-28,879.0,547.05,Jun,2024,876.0,493.72,2024-06-05
+65,Germany,Germany,Desktop,2024-06-29,0.0,747.84,Jun,2024,0.0,674.95,2024-06-05
+66,Germany,Germany,Desktop,2024-06-30,0.0,826.15,Jun,2024,0.0,745.62,2024-06-05
+67,Germany,Germany,Desktop,2024-07-01,1555.0,7471.63,Jul,2024,1517.0,6851.35,2024-06-05
+68,Germany,Germany,Desktop,2024-07-02,1588.0,7416.14,Jul,2024,1551.0,6800.47,2024-06-05
+69,Germany,Germany,Desktop,2024-07-03,1593.0,7754.5,Jul,2024,1554.0,7110.73,2024-06-05
+70,Germany,Germany,Desktop,2024-07-04,1520.0,7089.87,Jul,2024,1485.0,6501.28,2024-06-05
+71,Germany,Germany,Desktop,2024-07-05,1013.0,2841.55,Jul,2024,998.0,2605.65,2024-06-05
+72,Germany,Germany,Desktop,2024-07-06,0.0,406.82,Jul,2024,0.0,373.04,2024-06-05
+73,Germany,Germany,Desktop,2024-07-07,0.0,394.72,Jul,2024,0.0,361.95,2024-06-05
+74,Germany,Germany,Desktop,2024-07-08,1371.0,4426.33,Jul,2024,1349.0,4058.86,2024-06-05
+75,Germany,Germany,Desktop,2024-07-09,1418.0,4558.04,Jul,2024,1395.0,4179.64,2024-06-05
+76,Germany,Germany,Desktop,2024-07-10,1396.0,4436.71,Jul,2024,1374.0,4068.38,2024-06-05
+77,Germany,Germany,Desktop,2024-07-11,1263.0,2729.96,Jul,2024,1249.0,2503.32,2024-06-05
+78,Germany,Germany,Desktop,2024-07-12,1123.0,4552.07,Jul,2024,1100.0,4174.16,2024-06-05
+79,Germany,Germany,Desktop,2024-07-13,0.0,669.95,Jul,2024,0.0,614.33,2024-06-05
+80,Germany,Germany,Desktop,2024-07-14,0.0,609.14,Jul,2024,0.0,558.57,2024-06-05
+81,Germany,Germany,Desktop,2024-07-15,1513.0,6637.43,Jul,2024,1480.0,6086.4,2024-06-05
+82,Germany,Germany,Desktop,2024-07-16,1475.0,5371.5,Jul,2024,1448.0,4925.57,2024-06-05
+83,Germany,Germany,Desktop,2024-07-17,1433.0,4919.88,Jul,2024,1408.0,4511.44,2024-06-05
+84,Germany,Germany,Desktop,2024-07-18,1376.0,4517.94,Jul,2024,1353.0,4142.87,2024-06-05
+85,Germany,Germany,Desktop,2024-07-19,1037.0,3081.8,Jul,2024,1022.0,2825.96,2024-06-05
+86,Germany,Germany,Desktop,2024-07-20,0.0,505.16,Jul,2024,0.0,463.23,2024-06-05
+87,Germany,Germany,Desktop,2024-07-21,0.0,458.28,Jul,2024,0.0,420.24,2024-06-05
+88,Germany,Germany,Desktop,2024-07-22,1397.0,4858.49,Jul,2024,1373.0,4455.15,2024-06-05
+89,Germany,Germany,Desktop,2024-07-23,1437.0,4965.94,Jul,2024,1413.0,4553.68,2024-06-05
+90,Germany,Germany,Desktop,2024-07-24,1401.0,4707.01,Jul,2024,1378.0,4316.24,2024-06-05
+91,Germany,Germany,Desktop,2024-07-25,1310.0,3813.59,Jul,2024,1291.0,3496.99,2024-06-05
+92,Germany,Germany,Desktop,2024-07-26,1050.0,3778.39,Jul,2024,1031.0,3464.72,2024-06-05
+93,Germany,Germany,Desktop,2024-07-27,0.0,607.78,Jul,2024,0.0,557.32,2024-06-05
+94,Germany,Germany,Desktop,2024-07-28,0.0,462.89,Jul,2024,0.0,424.46,2024-06-05
+95,Germany,Germany,Desktop,2024-07-29,1418.0,5917.53,Jul,2024,1388.0,5426.27,2024-06-05
+96,Germany,Germany,Desktop,2024-07-30,1309.0,3626.17,Jul,2024,1291.0,3325.13,2024-06-05
+97,Germany,Germany,Desktop,2024-07-31,1213.0,2436.9,Jul,2024,1201.0,2234.59,2024-06-05
+98,Germany,Germany,Desktop,2024-08-01,1177.0,2509.41,Aug,2024,1166.0,2331.31,2024-06-05
+99,Germany,Germany,Desktop,2024-08-02,884.0,1967.07,Aug,2024,876.0,1827.46,2024-06-05
+100,Germany,Germany,Desktop,2024-08-03,0.0,450.48,Aug,2024,0.0,418.51,2024-06-05
+101,Germany,Germany,Desktop,2024-08-04,0.0,370.44,Aug,2024,0.0,344.15,2024-06-05
+102,Germany,Germany,Desktop,2024-08-05,1228.0,3742.05,Aug,2024,1212.0,3476.46,2024-06-05
+103,Germany,Germany,Desktop,2024-08-06,1264.0,3846.48,Aug,2024,1248.0,3573.48,2024-06-05
+104,Germany,Germany,Desktop,2024-08-07,1259.0,4127.12,Aug,2024,1241.0,3834.2,2024-06-05
+105,Germany,Germany,Desktop,2024-08-08,1183.0,3511.6,Aug,2024,1168.0,3262.36,2024-06-05
+106,Germany,Germany,Desktop,2024-08-09,879.0,2728.71,Aug,2024,867.0,2535.04,2024-06-05
+107,Germany,Germany,Desktop,2024-08-10,0.0,516.87,Aug,2024,0.0,480.19,2024-06-05
+108,Germany,Germany,Desktop,2024-08-11,0.0,432.5,Aug,2024,0.0,401.81,2024-06-05
+109,Germany,Germany,Desktop,2024-08-12,1279.0,5249.88,Aug,2024,1256.0,4877.27,2024-06-05
+110,Germany,Germany,Desktop,2024-08-13,1278.0,4662.29,Aug,2024,1258.0,4331.38,2024-06-05
+111,Germany,Germany,Desktop,2024-08-14,1354.0,6211.12,Aug,2024,1328.0,5770.29,2024-06-05
+112,Germany,Germany,Desktop,2024-08-15,1304.0,5933.26,Aug,2024,1279.0,5512.15,2024-06-05
+113,Germany,Germany,Desktop,2024-08-16,1002.0,5111.24,Aug,2024,980.0,4748.47,2024-06-05
+114,Germany,Germany,Desktop,2024-08-17,0.0,1012.61,Aug,2024,0.0,940.74,2024-06-05
+115,Germany,Germany,Desktop,2024-08-18,0.0,979.83,Aug,2024,0.0,910.28,2024-06-05
+116,Germany,Germany,Desktop,2024-08-19,1576.0,10294.54,Aug,2024,1532.0,9563.89,2024-06-05
+117,Germany,Germany,Desktop,2024-08-20,1324.0,5468.61,Aug,2024,1301.0,5080.47,2024-06-05
+118,Germany,Germany,Desktop,2024-08-21,1285.0,5049.53,Aug,2024,1263.0,4691.14,2024-06-05
+119,Germany,Germany,Desktop,2024-08-22,1223.0,4530.57,Aug,2024,1204.0,4209.01,2024-06-05
+120,Germany,Germany,Desktop,2024-08-23,897.0,3265.34,Aug,2024,883.0,3033.58,2024-06-05
+121,Germany,Germany,Desktop,2024-08-24,0.0,413.81,Aug,2024,0.0,384.44,2024-06-05
+122,Germany,Germany,Desktop,2024-08-25,0.0,391.14,Aug,2024,0.0,363.38,2024-06-05
+123,Germany,Germany,Desktop,2024-08-26,1238.0,4487.69,Aug,2024,1218.0,4169.18,2024-06-05
+124,Germany,Germany,Desktop,2024-08-27,1275.0,4445.83,Aug,2024,1256.0,4130.29,2024-06-05
+125,Germany,Germany,Desktop,2024-08-28,1304.0,5144.13,Aug,2024,1282.0,4779.03,2024-06-05
+126,Germany,Germany,Desktop,2024-08-29,1421.0,7589.71,Aug,2024,1389.0,7051.04,2024-06-05
+127,Germany,Germany,Desktop,2024-08-30,1127.0,6844.52,Aug,2024,1098.0,6358.73,2024-06-05
+128,Germany,Germany,Desktop,2024-08-31,0.0,1111.96,Aug,2024,0.0,1033.04,2024-06-05
+129,Germany,Germany,Desktop,2024-09-01,0.0,865.92,Sep,2024,0.0,836.68,2024-06-05
+130,Germany,Germany,Desktop,2024-09-02,1613.0,10472.95,Sep,2024,1592.0,10119.34,2024-06-05
+131,Germany,Germany,Desktop,2024-09-03,1597.0,9542.64,Sep,2024,1577.0,9220.44,2024-06-05
+132,Germany,Germany,Desktop,2024-09-04,1406.0,6601.32,Sep,2024,1393.0,6378.44,2024-06-05
+133,Germany,Germany,Desktop,2024-09-05,1321.0,5681.39,Sep,2024,1310.0,5489.56,2024-06-05
+134,Germany,Germany,Desktop,2024-09-06,1001.0,4496.69,Sep,2024,992.0,4344.87,2024-06-05
+135,Germany,Germany,Desktop,2024-09-07,0.0,596.39,Sep,2024,0.0,576.25,2024-06-05
+136,Germany,Germany,Desktop,2024-09-08,0.0,406.35,Sep,2024,0.0,392.63,2024-06-05
+137,Germany,Germany,Desktop,2024-09-09,1316.0,5232.51,Sep,2024,1305.0,5055.84,2024-06-05
+138,Germany,Germany,Desktop,2024-09-10,1407.0,6064.38,Sep,2024,1395.0,5859.62,2024-06-05
+139,Germany,Germany,Desktop,2024-09-11,1423.0,6521.07,Sep,2024,1410.0,6300.89,2024-06-05
+140,Germany,Germany,Desktop,2024-09-12,1344.0,5671.19,Sep,2024,1333.0,5479.71,2024-06-05
+141,Germany,Germany,Desktop,2024-09-13,936.0,3001.96,Sep,2024,930.0,2900.61,2024-06-05
+142,Germany,Germany,Desktop,2024-09-14,0.0,442.0,Sep,2024,0.0,427.07,2024-06-05
+143,Germany,Germany,Desktop,2024-09-15,0.0,384.78,Sep,2024,0.0,371.79,2024-06-05
+144,Germany,Germany,Desktop,2024-09-16,1311.0,4642.84,Sep,2024,1302.0,4486.08,2024-06-05
+145,Germany,Germany,Desktop,2024-09-17,1345.0,4496.16,Sep,2024,1336.0,4344.36,2024-06-05
+146,Germany,Germany,Desktop,2024-09-18,1374.0,5145.88,Sep,2024,1364.0,4972.13,2024-06-05
+147,Germany,Germany,Desktop,2024-09-19,1374.0,5585.51,Sep,2024,1363.0,5396.92,2024-06-05
+148,Germany,Germany,Desktop,2024-09-20,1079.0,4772.56,Sep,2024,1069.0,4611.42,2024-06-05
+149,Germany,Germany,Desktop,2024-09-21,0.0,520.55,Sep,2024,0.0,502.97,2024-06-05
+150,Germany,Germany,Desktop,2024-09-22,0.0,500.87,Sep,2024,0.0,483.96,2024-06-05
+151,Germany,Germany,Desktop,2024-09-23,1409.0,5696.8,Sep,2024,1398.0,5504.45,2024-06-05
+152,Germany,Germany,Desktop,2024-09-24,1487.0,6291.26,Sep,2024,1474.0,6078.84,2024-06-05
+153,Germany,Germany,Desktop,2024-09-25,1453.0,5918.05,Sep,2024,1441.0,5718.24,2024-06-05
+154,Germany,Germany,Desktop,2024-09-26,1318.0,4160.23,Sep,2024,1309.0,4019.77,2024-06-05
+155,Germany,Germany,Desktop,2024-09-27,1057.0,3957.01,Sep,2024,1049.0,3823.4,2024-06-05
+156,Germany,Germany,Desktop,2024-09-28,0.0,1017.39,Sep,2024,0.0,983.04,2024-06-05
+157,Germany,Germany,Desktop,2024-09-29,0.0,788.14,Sep,2024,0.0,761.53,2024-06-05
+158,Germany,Germany,Desktop,2024-09-30,1350.0,4420.49,Sep,2024,1341.0,4271.23,2024-06-05
+159,Germany,Germany,Desktop,2024-10-01,1185.0,1042.65,Oct,2024,1188.0,1104.73,2024-06-05
+160,Germany,Germany,Desktop,2024-10-02,1511.0,6706.44,Oct,2024,1535.0,7105.73,2024-06-05
+161,Germany,Germany,Desktop,2024-10-03,627.0,4163.92,Oct,2024,642.0,4411.84,2024-06-05
+162,Germany,Germany,Desktop,2024-10-04,1082.0,4332.59,Oct,2024,1097.0,4590.55,2024-06-05
+163,Germany,Germany,Desktop,2024-10-05,0.0,434.3,Oct,2024,0.0,460.15,2024-06-05
+164,Germany,Germany,Desktop,2024-10-06,0.0,365.78,Oct,2024,0.0,387.56,2024-06-05
+165,Germany,Germany,Desktop,2024-10-07,1287.0,3527.52,Oct,2024,1300.0,3737.54,2024-06-05
+166,Germany,Germany,Desktop,2024-10-08,1331.0,3680.69,Oct,2024,1344.0,3899.84,2024-06-05
+167,Germany,Germany,Desktop,2024-10-09,1331.0,3993.45,Oct,2024,1345.0,4231.21,2024-06-05
+168,Germany,Germany,Desktop,2024-10-10,1313.0,4290.4,Oct,2024,1329.0,4545.85,2024-06-05
+169,Germany,Germany,Desktop,2024-10-11,1048.0,4126.69,Oct,2024,1063.0,4372.39,2024-06-05
+170,Germany,Germany,Desktop,2024-10-12,0.0,648.57,Oct,2024,0.0,687.19,2024-06-05
+171,Germany,Germany,Desktop,2024-10-13,0.0,611.99,Oct,2024,0.0,648.43,2024-06-05
+172,Germany,Germany,Desktop,2024-10-14,1293.0,4084.91,Oct,2024,1308.0,4328.13,2024-06-05
+173,Germany,Germany,Desktop,2024-10-15,1277.0,3270.64,Oct,2024,1289.0,3465.37,2024-06-05
+174,Germany,Germany,Desktop,2024-10-16,1259.0,3309.28,Oct,2024,1271.0,3506.31,2024-06-05
+175,Germany,Germany,Desktop,2024-10-17,1219.0,3260.7,Oct,2024,1231.0,3454.84,2024-06-05
+176,Germany,Germany,Desktop,2024-10-18,938.0,2855.54,Oct,2024,948.0,3025.56,2024-06-05
+177,Germany,Germany,Desktop,2024-10-19,0.0,644.02,Oct,2024,0.0,682.36,2024-06-05
+178,Germany,Germany,Desktop,2024-10-20,0.0,597.23,Oct,2024,0.0,632.79,2024-06-05
+179,Germany,Germany,Desktop,2024-10-21,1355.0,5733.41,Oct,2024,1375.0,6074.78,2024-06-05
+180,Germany,Germany,Desktop,2024-10-22,1371.0,5482.85,Oct,2024,1391.0,5809.29,2024-06-05
+181,Germany,Germany,Desktop,2024-10-23,1364.0,5728.97,Oct,2024,1384.0,6070.07,2024-06-05
+182,Germany,Germany,Desktop,2024-10-24,1276.0,4920.7,Oct,2024,1294.0,5213.67,2024-06-05
+183,Germany,Germany,Desktop,2024-10-25,941.0,3662.3,Oct,2024,954.0,3880.35,2024-06-05
+184,Germany,Germany,Desktop,2024-10-26,0.0,496.07,Oct,2024,0.0,525.6,2024-06-05
+185,Germany,Germany,Desktop,2024-10-27,0.0,477.32,Oct,2024,0.0,505.74,2024-06-05
+186,Germany,Germany,Desktop,2024-10-28,1195.0,3959.71,Oct,2024,1210.0,4195.46,2024-06-05
+187,Germany,Germany,Desktop,2024-10-29,1176.0,3157.13,Oct,2024,1187.0,3345.11,2024-06-05
+188,Germany,Germany,Desktop,2024-10-30,1107.0,2429.15,Oct,2024,1116.0,2573.78,2024-06-05
+189,Germany,Germany,Desktop,2024-10-31,1131.0,3494.92,Oct,2024,1143.0,3703.01,2024-06-05
+190,Germany,Germany,Desktop,2024-11-01,817.0,2623.09,Nov,2024,829.0,2819.31,2024-06-05
+191,Germany,Germany,Desktop,2024-11-02,0.0,462.38,Nov,2024,0.0,496.97,2024-06-05
+192,Germany,Germany,Desktop,2024-11-03,0.0,403.49,Nov,2024,0.0,433.67,2024-06-05
+193,Germany,Germany,Desktop,2024-11-04,1146.0,4203.56,Nov,2024,1165.0,4518.0,2024-06-05
+194,Germany,Germany,Desktop,2024-11-05,1155.0,3860.34,Nov,2024,1172.0,4149.1,2024-06-05
+195,Germany,Germany,Desktop,2024-11-06,1142.0,4035.92,Nov,2024,1160.0,4337.82,2024-06-05
+196,Germany,Germany,Desktop,2024-11-07,1089.0,3800.92,Nov,2024,1106.0,4085.24,2024-06-05
+197,Germany,Germany,Desktop,2024-11-08,789.0,3089.04,Nov,2024,803.0,3320.11,2024-06-05
+198,Germany,Germany,Desktop,2024-11-09,0.0,479.23,Nov,2024,0.0,515.07,2024-06-05
+199,Germany,Germany,Desktop,2024-11-10,0.0,423.77,Nov,2024,0.0,455.47,2024-06-05
+200,Germany,Germany,Desktop,2024-11-11,1115.0,4338.51,Nov,2024,1135.0,4663.05,2024-06-05
+201,Germany,Germany,Desktop,2024-11-12,1152.0,4326.92,Nov,2024,1171.0,4650.58,2024-06-05
+202,Germany,Germany,Desktop,2024-11-13,1148.0,4485.25,Nov,2024,1168.0,4820.76,2024-06-05
+203,Germany,Germany,Desktop,2024-11-14,1089.0,3982.12,Nov,2024,1107.0,4280.0,2024-06-05
+204,Germany,Germany,Desktop,2024-11-15,763.0,2664.7,Nov,2024,775.0,2864.02,2024-06-05
+205,Germany,Germany,Desktop,2024-11-16,0.0,422.66,Nov,2024,0.0,454.28,2024-06-05
+206,Germany,Germany,Desktop,2024-11-17,0.0,404.19,Nov,2024,0.0,434.42,2024-06-05
+207,Germany,Germany,Desktop,2024-11-18,1124.0,3867.05,Nov,2024,1142.0,4156.32,2024-06-05
+208,Germany,Germany,Desktop,2024-11-19,1173.0,3844.14,Nov,2024,1191.0,4131.69,2024-06-05
+209,Germany,Germany,Desktop,2024-11-20,1139.0,3289.25,Nov,2024,1154.0,3535.3,2024-06-05
+210,Germany,Germany,Desktop,2024-11-21,1110.0,3062.13,Nov,2024,1123.0,3291.19,2024-06-05
+211,Germany,Germany,Desktop,2024-11-22,854.0,2697.09,Nov,2024,866.0,2898.84,2024-06-05
+212,Germany,Germany,Desktop,2024-11-23,0.0,498.6,Nov,2024,0.0,535.9,2024-06-05
+213,Germany,Germany,Desktop,2024-11-24,0.0,452.16,Nov,2024,0.0,485.98,2024-06-05
+214,Germany,Germany,Desktop,2024-11-25,1257.0,4121.0,Nov,2024,1276.0,4429.26,2024-06-05
+215,Germany,Germany,Desktop,2024-11-26,1289.0,3703.69,Nov,2024,1306.0,3980.74,2024-06-05
+216,Germany,Germany,Desktop,2024-11-27,1285.0,3574.79,Nov,2024,1301.0,3842.2,2024-06-05
+217,Germany,Germany,Desktop,2024-11-28,1232.0,2918.74,Nov,2024,1245.0,3137.07,2024-06-05
+218,Germany,Germany,Desktop,2024-11-29,982.0,2660.3,Nov,2024,994.0,2859.3,2024-06-05
+219,Germany,Germany,Desktop,2024-11-30,0.0,376.9,Nov,2024,0.0,405.09,2024-06-05
+220,Germany,Germany,Desktop,2024-12-01,0.0,404.79,Dec,2024,0.0,449.45,2024-06-05
+221,Germany,Germany,Desktop,2024-12-02,1377.0,4204.5,Dec,2024,1405.0,4668.36,2024-06-05
+222,Germany,Germany,Desktop,2024-12-03,1466.0,4919.98,Dec,2024,1499.0,5462.78,2024-06-05
+223,Germany,Germany,Desktop,2024-12-04,1600.0,7301.95,Dec,2024,1649.0,8107.53,2024-06-05
+224,Germany,Germany,Desktop,2024-12-05,1508.0,6259.21,Dec,2024,1550.0,6949.76,2024-06-05
+225,Germany,Germany,Desktop,2024-12-06,1196.0,5257.37,Dec,2024,1231.0,5837.39,2024-06-05
+226,Germany,Germany,Desktop,2024-12-07,0.0,2042.06,Dec,2024,0.0,2267.35,2024-06-05
+227,Germany,Germany,Desktop,2024-12-08,0.0,1877.83,Dec,2024,0.0,2085.01,2024-06-05
+228,Germany,Germany,Desktop,2024-12-09,1501.0,6384.59,Dec,2024,1543.0,7088.96,2024-06-05
+229,Germany,Germany,Desktop,2024-12-10,1524.0,6405.5,Dec,2024,1567.0,7112.18,2024-06-05
+230,Germany,Germany,Desktop,2024-12-11,1507.0,6688.24,Dec,2024,1552.0,7426.11,2024-06-05
+231,Germany,Germany,Desktop,2024-12-12,1421.0,6158.14,Dec,2024,1462.0,6837.54,2024-06-05
+232,Germany,Germany,Desktop,2024-12-13,1092.0,5285.47,Dec,2024,1127.0,5868.59,2024-06-05
+233,Germany,Germany,Desktop,2024-12-14,0.0,1254.21,Dec,2024,0.0,1392.58,2024-06-05
+234,Germany,Germany,Desktop,2024-12-15,0.0,1360.49,Dec,2024,0.0,1510.58,2024-06-05
+235,Germany,Germany,Desktop,2024-12-16,1339.0,6563.15,Dec,2024,1382.0,7287.23,2024-06-05
+236,Germany,Germany,Desktop,2024-12-17,1302.0,5906.31,Dec,2024,1342.0,6557.92,2024-06-05
+237,Germany,Germany,Desktop,2024-12-18,1187.0,4845.62,Dec,2024,1220.0,5380.21,2024-06-05
+238,Germany,Germany,Desktop,2024-12-19,1196.0,6115.19,Dec,2024,1237.0,6789.84,2024-06-05
+239,Germany,Germany,Desktop,2024-12-20,914.0,6216.5,Dec,2024,956.0,6902.33,2024-06-05
+240,Germany,Germany,Desktop,2024-12-21,0.0,424.05,Dec,2024,0.0,470.84,2024-06-05
+241,Germany,Germany,Desktop,2024-12-22,0.0,110.83,Dec,2024,0.0,123.06,2024-06-05
+242,Germany,Germany,Desktop,2024-12-23,874.0,2979.02,Dec,2024,894.0,3307.68,2024-06-05
+243,Germany,Germany,Desktop,2024-12-24,880.0,2979.02,Dec,2024,900.0,3307.68,2024-06-05
+244,Germany,Germany,Desktop,2024-12-25,257.0,1147.18,Dec,2024,264.0,1273.74,2024-06-05
+245,Germany,Germany,Desktop,2024-12-26,0.0,555.09,Dec,2024,0.0,616.33,2024-06-05
+246,Germany,Germany,Desktop,2024-12-27,338.0,307.93,Dec,2024,341.0,341.9,2024-06-05
+247,Germany,Germany,Desktop,2024-12-28,0.0,193.26,Dec,2024,0.0,214.58,2024-06-05
+248,Germany,Germany,Desktop,2024-12-29,0.0,105.26,Dec,2024,0.0,116.87,2024-06-05
+249,Germany,Germany,Desktop,2024-12-30,544.0,256.53,Dec,2024,546.0,284.83,2024-06-05
+250,Germany,Germany,Desktop,2024-12-31,723.0,2767.09,Dec,2024,742.0,3072.37,2024-06-05
+288,Germany,Germany,Mobile & Tablet,2024-06-01,2.0,112.89,Jun,2024,2.0,140.82,2024-06-05
+289,Germany,Germany,Mobile & Tablet,2024-06-02,3.0,82.12,Jun,2024,3.0,102.43,2024-06-05
+290,Germany,Germany,Mobile & Tablet,2024-06-03,12.0,250.28,Jun,2024,12.0,312.2,2024-06-05
+291,Germany,Germany,Mobile & Tablet,2024-06-04,12.0,376.67,Jun,2024,12.0,469.87,2024-06-05
+292,Germany,Germany,Mobile & Tablet,2024-06-05,11.0,220.42,Jun,2024,11.0,274.96,2024-06-05
+293,Germany,Germany,Mobile & Tablet,2024-06-06,11.0,161.78,Jun,2024,11.0,201.81,2024-06-05
+294,Germany,Germany,Mobile & Tablet,2024-06-07,8.0,177.86,Jun,2024,8.0,221.87,2024-06-05
+295,Germany,Germany,Mobile & Tablet,2024-06-08,4.0,127.82,Jun,2024,4.0,159.44,2024-06-05
+296,Germany,Germany,Mobile & Tablet,2024-06-09,5.0,99.16,Jun,2024,5.0,123.69,2024-06-05
+297,Germany,Germany,Mobile & Tablet,2024-06-10,14.0,311.03,Jun,2024,14.0,387.99,2024-06-05
+298,Germany,Germany,Mobile & Tablet,2024-06-11,13.0,299.91,Jun,2024,13.0,374.12,2024-06-05
+299,Germany,Germany,Mobile & Tablet,2024-06-12,13.0,267.74,Jun,2024,13.0,333.99,2024-06-05
+300,Germany,Germany,Mobile & Tablet,2024-06-13,12.0,215.11,Jun,2024,12.0,268.34,2024-06-05
+301,Germany,Germany,Mobile & Tablet,2024-06-14,10.0,168.68,Jun,2024,10.0,210.42,2024-06-05
+302,Germany,Germany,Mobile & Tablet,2024-06-15,5.0,108.58,Jun,2024,5.0,135.45,2024-06-05
+303,Germany,Germany,Mobile & Tablet,2024-06-16,6.0,148.2,Jun,2024,6.0,184.87,2024-06-05
+304,Germany,Germany,Mobile & Tablet,2024-06-17,15.0,497.86,Jun,2024,15.0,621.04,2024-06-05
+305,Germany,Germany,Mobile & Tablet,2024-06-18,14.0,121.72,Jun,2024,14.0,151.83,2024-06-05
+306,Germany,Germany,Mobile & Tablet,2024-06-19,13.0,140.95,Jun,2024,13.0,175.82,2024-06-05
+307,Germany,Germany,Mobile & Tablet,2024-06-20,13.0,142.86,Jun,2024,13.0,178.2,2024-06-05
+308,Germany,Germany,Mobile & Tablet,2024-06-21,10.0,100.12,Jun,2024,10.0,124.89,2024-06-05
+309,Germany,Germany,Mobile & Tablet,2024-06-22,5.0,46.24,Jun,2024,5.0,57.68,2024-06-05
+310,Germany,Germany,Mobile & Tablet,2024-06-23,6.0,42.14,Jun,2024,6.0,52.57,2024-06-05
+311,Germany,Germany,Mobile & Tablet,2024-06-24,14.0,139.65,Jun,2024,14.0,174.2,2024-06-05
+312,Germany,Germany,Mobile & Tablet,2024-06-25,14.0,153.37,Jun,2024,14.0,191.32,2024-06-05
+313,Germany,Germany,Mobile & Tablet,2024-06-26,13.0,160.6,Jun,2024,13.0,200.34,2024-06-05
+314,Germany,Germany,Mobile & Tablet,2024-06-27,12.0,76.57,Jun,2024,12.0,95.51,2024-06-05
+315,Germany,Germany,Mobile & Tablet,2024-06-28,9.0,50.64,Jun,2024,9.0,63.16,2024-06-05
+316,Germany,Germany,Mobile & Tablet,2024-06-29,4.0,87.83,Jun,2024,4.0,109.57,2024-06-05
+317,Germany,Germany,Mobile & Tablet,2024-06-30,4.0,162.03,Jun,2024,4.0,202.12,2024-06-05
+318,Germany,Germany,Mobile & Tablet,2024-07-01,13.0,629.64,Jul,2024,13.0,637.07,2024-06-05
+319,Germany,Germany,Mobile & Tablet,2024-07-02,12.0,669.0,Jul,2024,12.0,676.89,2024-06-05
+320,Germany,Germany,Mobile & Tablet,2024-07-03,11.0,648.94,Jul,2024,11.0,656.59,2024-06-05
+321,Germany,Germany,Mobile & Tablet,2024-07-04,10.0,422.97,Jul,2024,10.0,427.95,2024-06-05
+322,Germany,Germany,Mobile & Tablet,2024-07-05,7.0,175.03,Jul,2024,7.0,177.1,2024-06-05
+323,Germany,Germany,Mobile & Tablet,2024-07-06,2.0,80.37,Jul,2024,2.0,81.32,2024-06-05
+324,Germany,Germany,Mobile & Tablet,2024-07-07,3.0,73.33,Jul,2024,3.0,74.19,2024-06-05
+325,Germany,Germany,Mobile & Tablet,2024-07-08,11.0,227.1,Jul,2024,11.0,229.78,2024-06-05
+326,Germany,Germany,Mobile & Tablet,2024-07-09,10.0,221.05,Jul,2024,10.0,223.66,2024-06-05
+327,Germany,Germany,Mobile & Tablet,2024-07-10,9.0,134.63,Jul,2024,9.0,136.21,2024-06-05
+328,Germany,Germany,Mobile & Tablet,2024-07-11,9.0,15.49,Jul,2024,9.0,15.68,2024-06-05
+329,Germany,Germany,Mobile & Tablet,2024-07-12,6.0,16.52,Jul,2024,6.0,16.71,2024-06-05
+330,Germany,Germany,Mobile & Tablet,2024-07-13,1.0,34.86,Jul,2024,1.0,35.27,2024-06-05
+331,Germany,Germany,Mobile & Tablet,2024-07-14,1.0,23.51,Jul,2024,1.0,23.79,2024-06-05
+332,Germany,Germany,Mobile & Tablet,2024-07-15,10.0,86.38,Jul,2024,10.0,87.4,2024-06-05
+333,Germany,Germany,Mobile & Tablet,2024-07-16,9.0,38.95,Jul,2024,9.0,39.41,2024-06-05
+334,Germany,Germany,Mobile & Tablet,2024-07-17,8.0,19.22,Jul,2024,8.0,19.45,2024-06-05
+335,Germany,Germany,Mobile & Tablet,2024-07-18,7.0,26.59,Jul,2024,7.0,26.9,2024-06-05
+336,Germany,Germany,Mobile & Tablet,2024-07-19,4.0,18.49,Jul,2024,4.0,18.71,2024-06-05
+337,Germany,Germany,Mobile & Tablet,2024-07-20,0.0,10.84,Jul,2024,0.0,10.96,2024-06-05
+338,Germany,Germany,Mobile & Tablet,2024-07-21,0.0,6.68,Jul,2024,0.0,6.75,2024-06-05
+339,Germany,Germany,Mobile & Tablet,2024-07-22,8.0,28.07,Jul,2024,8.0,28.4,2024-06-05
+340,Germany,Germany,Mobile & Tablet,2024-07-23,8.0,40.97,Jul,2024,8.0,41.45,2024-06-05
+341,Germany,Germany,Mobile & Tablet,2024-07-24,7.0,48.73,Jul,2024,7.0,49.31,2024-06-05
+342,Germany,Germany,Mobile & Tablet,2024-07-25,6.0,48.53,Jul,2024,6.0,49.1,2024-06-05
+343,Germany,Germany,Mobile & Tablet,2024-07-26,3.0,64.24,Jul,2024,3.0,64.99,2024-06-05
+344,Germany,Germany,Mobile & Tablet,2024-07-27,0.0,39.17,Jul,2024,0.0,39.63,2024-06-05
+345,Germany,Germany,Mobile & Tablet,2024-07-28,0.0,29.14,Jul,2024,0.0,29.48,2024-06-05
+346,Germany,Germany,Mobile & Tablet,2024-07-29,8.0,68.59,Jul,2024,8.0,69.4,2024-06-05
+347,Germany,Germany,Mobile & Tablet,2024-07-30,7.0,51.2,Jul,2024,7.0,51.81,2024-06-05
+348,Germany,Germany,Mobile & Tablet,2024-07-31,7.0,18.16,Jul,2024,7.0,18.38,2024-06-05
+349,Germany,Germany,Mobile & Tablet,2024-08-01,6.0,17.49,Aug,2024,6.0,20.59,2024-06-05
+350,Germany,Germany,Mobile & Tablet,2024-08-02,3.0,20.38,Aug,2024,3.0,23.99,2024-06-05
+351,Germany,Germany,Mobile & Tablet,2024-08-03,0.0,26.93,Aug,2024,0.0,31.71,2024-06-05
+352,Germany,Germany,Mobile & Tablet,2024-08-04,0.0,19.05,Aug,2024,0.0,22.43,2024-06-05
+353,Germany,Germany,Mobile & Tablet,2024-08-05,8.0,36.25,Aug,2024,8.0,42.68,2024-06-05
+354,Germany,Germany,Mobile & Tablet,2024-08-06,8.0,53.79,Aug,2024,8.0,63.33,2024-06-05
+355,Germany,Germany,Mobile & Tablet,2024-08-07,8.0,49.93,Aug,2024,8.0,58.78,2024-06-05
+356,Germany,Germany,Mobile & Tablet,2024-08-08,7.0,29.3,Aug,2024,7.0,34.49,2024-06-05
+357,Germany,Germany,Mobile & Tablet,2024-08-09,5.0,38.14,Aug,2024,5.0,44.9,2024-06-05
+358,Germany,Germany,Mobile & Tablet,2024-08-10,0.0,17.98,Aug,2024,0.0,21.17,2024-06-05
+359,Germany,Germany,Mobile & Tablet,2024-08-11,1.0,17.55,Aug,2024,1.0,20.66,2024-06-05
+360,Germany,Germany,Mobile & Tablet,2024-08-12,10.0,44.71,Aug,2024,10.0,52.64,2024-06-05
+361,Germany,Germany,Mobile & Tablet,2024-08-13,10.0,129.19,Aug,2024,10.0,152.09,2024-06-05
+362,Germany,Germany,Mobile & Tablet,2024-08-14,9.0,330.88,Aug,2024,9.0,389.53,2024-06-05
+363,Germany,Germany,Mobile & Tablet,2024-08-15,9.0,353.04,Aug,2024,9.0,415.61,2024-06-05
+364,Germany,Germany,Mobile & Tablet,2024-08-16,7.0,358.89,Aug,2024,7.0,422.5,2024-06-05
+365,Germany,Germany,Mobile & Tablet,2024-08-17,2.0,311.24,Aug,2024,2.0,366.41,2024-06-05
+366,Germany,Germany,Mobile & Tablet,2024-08-18,3.0,313.14,Aug,2024,3.0,368.65,2024-06-05
+367,Germany,Germany,Mobile & Tablet,2024-08-19,12.0,949.27,Aug,2024,12.0,1117.53,2024-06-05
+368,Germany,Germany,Mobile & Tablet,2024-08-20,12.0,269.07,Aug,2024,12.0,316.76,2024-06-05
+369,Germany,Germany,Mobile & Tablet,2024-08-21,12.0,242.44,Aug,2024,12.0,285.41,2024-06-05
+370,Germany,Germany,Mobile & Tablet,2024-08-22,11.0,155.11,Aug,2024,11.0,182.6,2024-06-05
+371,Germany,Germany,Mobile & Tablet,2024-08-23,9.0,141.83,Aug,2024,9.0,166.97,2024-06-05
+372,Germany,Germany,Mobile & Tablet,2024-08-24,5.0,91.3,Aug,2024,5.0,107.48,2024-06-05
+373,Germany,Germany,Mobile & Tablet,2024-08-25,5.0,60.11,Aug,2024,5.0,70.77,2024-06-05
+374,Germany,Germany,Mobile & Tablet,2024-08-26,14.0,252.6,Aug,2024,14.0,297.37,2024-06-05
+375,Germany,Germany,Mobile & Tablet,2024-08-27,14.0,283.99,Aug,2024,14.0,334.33,2024-06-05
+376,Germany,Germany,Mobile & Tablet,2024-08-28,13.0,329.76,Aug,2024,13.0,388.21,2024-06-05
+377,Germany,Germany,Mobile & Tablet,2024-08-29,13.0,450.3,Aug,2024,13.0,530.11,2024-06-05
+378,Germany,Germany,Mobile & Tablet,2024-08-30,10.0,372.78,Aug,2024,10.0,438.86,2024-06-05
+379,Germany,Germany,Mobile & Tablet,2024-08-31,6.0,232.58,Aug,2024,6.0,273.81,2024-06-05
+380,Germany,Germany,Mobile & Tablet,2024-09-01,7.0,181.25,Sep,2024,7.0,209.97,2024-06-05
+381,Germany,Germany,Mobile & Tablet,2024-09-02,15.0,525.89,Sep,2024,15.0,609.2,2024-06-05
+382,Germany,Germany,Mobile & Tablet,2024-09-03,15.0,389.18,Sep,2024,15.0,450.84,2024-06-05
+383,Germany,Germany,Mobile & Tablet,2024-09-04,14.0,272.42,Sep,2024,14.0,315.58,2024-06-05
+384,Germany,Germany,Mobile & Tablet,2024-09-05,14.0,237.39,Sep,2024,14.0,274.99,2024-06-05
+385,Germany,Germany,Mobile & Tablet,2024-09-06,11.0,175.56,Sep,2024,11.0,203.37,2024-06-05
+386,Germany,Germany,Mobile & Tablet,2024-09-07,6.0,92.58,Sep,2024,6.0,107.24,2024-06-05
+387,Germany,Germany,Mobile & Tablet,2024-09-08,7.0,75.28,Sep,2024,7.0,87.21,2024-06-05
+388,Germany,Germany,Mobile & Tablet,2024-09-09,15.0,253.44,Sep,2024,15.0,293.58,2024-06-05
+389,Germany,Germany,Mobile & Tablet,2024-09-10,15.0,326.01,Sep,2024,15.0,377.66,2024-06-05
+390,Germany,Germany,Mobile & Tablet,2024-09-11,14.0,230.27,Sep,2024,14.0,266.75,2024-06-05
+391,Germany,Germany,Mobile & Tablet,2024-09-12,13.0,232.45,Sep,2024,13.0,269.27,2024-06-05
+392,Germany,Germany,Mobile & Tablet,2024-09-13,10.0,159.81,Sep,2024,10.0,185.13,2024-06-05
+393,Germany,Germany,Mobile & Tablet,2024-09-14,6.0,91.9,Sep,2024,6.0,106.45,2024-06-05
+394,Germany,Germany,Mobile & Tablet,2024-09-15,6.0,74.64,Sep,2024,6.0,86.46,2024-06-05
+395,Germany,Germany,Mobile & Tablet,2024-09-16,15.0,237.86,Sep,2024,15.0,275.54,2024-06-05
+396,Germany,Germany,Mobile & Tablet,2024-09-17,14.0,272.02,Sep,2024,14.0,315.12,2024-06-05
+397,Germany,Germany,Mobile & Tablet,2024-09-18,13.0,274.86,Sep,2024,13.0,318.4,2024-06-05
+398,Germany,Germany,Mobile & Tablet,2024-09-19,12.0,345.95,Sep,2024,12.0,400.75,2024-06-05
+399,Germany,Germany,Mobile & Tablet,2024-09-20,10.0,287.58,Sep,2024,10.0,333.13,2024-06-05
+400,Germany,Germany,Mobile & Tablet,2024-09-21,5.0,133.1,Sep,2024,5.0,154.18,2024-06-05
+401,Germany,Germany,Mobile & Tablet,2024-09-22,5.0,105.0,Sep,2024,5.0,121.63,2024-06-05
+402,Germany,Germany,Mobile & Tablet,2024-09-23,14.0,307.1,Sep,2024,14.0,355.74,2024-06-05
+403,Germany,Germany,Mobile & Tablet,2024-09-24,13.0,378.99,Sep,2024,13.0,439.02,2024-06-05
+404,Germany,Germany,Mobile & Tablet,2024-09-25,12.0,331.59,Sep,2024,12.0,384.11,2024-06-05
+405,Germany,Germany,Mobile & Tablet,2024-09-26,12.0,304.76,Sep,2024,12.0,353.04,2024-06-05
+406,Germany,Germany,Mobile & Tablet,2024-09-27,9.0,334.28,Sep,2024,9.0,387.24,2024-06-05
+407,Germany,Germany,Mobile & Tablet,2024-09-28,4.0,200.89,Sep,2024,4.0,232.72,2024-06-05
+408,Germany,Germany,Mobile & Tablet,2024-09-29,5.0,126.46,Sep,2024,5.0,146.5,2024-06-05
+409,Germany,Germany,Mobile & Tablet,2024-09-30,14.0,416.11,Sep,2024,14.0,482.02,2024-06-05
+410,Germany,Germany,Mobile & Tablet,2024-10-01,13.0,225.94,Oct,2024,13.0,287.66,2024-06-05
+411,Germany,Germany,Mobile & Tablet,2024-10-02,13.0,441.38,Oct,2024,13.0,561.95,2024-06-05
+412,Germany,Germany,Mobile & Tablet,2024-10-03,12.0,331.19,Oct,2024,12.0,421.66,2024-06-05
+413,Germany,Germany,Mobile & Tablet,2024-10-04,9.0,260.95,Oct,2024,9.0,332.23,2024-06-05
+414,Germany,Germany,Mobile & Tablet,2024-10-05,5.0,115.49,Oct,2024,5.0,147.04,2024-06-05
+415,Germany,Germany,Mobile & Tablet,2024-10-06,6.0,75.19,Oct,2024,6.0,95.73,2024-06-05
+416,Germany,Germany,Mobile & Tablet,2024-10-07,15.0,188.76,Oct,2024,15.0,240.33,2024-06-05
+417,Germany,Germany,Mobile & Tablet,2024-10-08,14.0,221.16,Oct,2024,14.0,281.57,2024-06-05
+418,Germany,Germany,Mobile & Tablet,2024-10-09,14.0,206.24,Oct,2024,14.0,262.58,2024-06-05
+419,Germany,Germany,Mobile & Tablet,2024-10-10,14.0,260.49,Oct,2024,14.0,331.65,2024-06-05
+420,Germany,Germany,Mobile & Tablet,2024-10-11,11.0,227.76,Oct,2024,11.0,289.98,2024-06-05
+421,Germany,Germany,Mobile & Tablet,2024-10-12,7.0,186.66,Oct,2024,7.0,237.65,2024-06-05
+422,Germany,Germany,Mobile & Tablet,2024-10-13,7.0,156.92,Oct,2024,7.0,199.78,2024-06-05
+423,Germany,Germany,Mobile & Tablet,2024-10-14,16.0,194.53,Oct,2024,16.0,247.68,2024-06-05
+424,Germany,Germany,Mobile & Tablet,2024-10-15,16.0,199.27,Oct,2024,16.0,253.71,2024-06-05
+425,Germany,Germany,Mobile & Tablet,2024-10-16,16.0,168.85,Oct,2024,16.0,214.97,2024-06-05
+426,Germany,Germany,Mobile & Tablet,2024-10-17,15.0,148.86,Oct,2024,15.0,189.52,2024-06-05
+427,Germany,Germany,Mobile & Tablet,2024-10-18,13.0,151.14,Oct,2024,13.0,192.43,2024-06-05
+428,Germany,Germany,Mobile & Tablet,2024-10-19,8.0,103.04,Oct,2024,8.0,131.19,2024-06-05
+429,Germany,Germany,Mobile & Tablet,2024-10-20,9.0,151.68,Oct,2024,9.0,193.12,2024-06-05
+430,Germany,Germany,Mobile & Tablet,2024-10-21,18.0,282.21,Oct,2024,18.0,359.3,2024-06-05
+431,Germany,Germany,Mobile & Tablet,2024-10-22,17.0,342.84,Oct,2024,17.0,436.5,2024-06-05
+432,Germany,Germany,Mobile & Tablet,2024-10-23,17.0,232.98,Oct,2024,17.0,296.62,2024-06-05
+433,Germany,Germany,Mobile & Tablet,2024-10-24,16.0,170.7,Oct,2024,16.0,217.33,2024-06-05
+434,Germany,Germany,Mobile & Tablet,2024-10-25,13.0,112.55,Oct,2024,13.0,143.29,2024-06-05
+435,Germany,Germany,Mobile & Tablet,2024-10-26,8.0,59.93,Oct,2024,8.0,76.3,2024-06-05
+436,Germany,Germany,Mobile & Tablet,2024-10-27,9.0,45.35,Oct,2024,9.0,57.74,2024-06-05
+437,Germany,Germany,Mobile & Tablet,2024-10-28,17.0,154.67,Oct,2024,17.0,196.93,2024-06-05
+438,Germany,Germany,Mobile & Tablet,2024-10-29,17.0,146.9,Oct,2024,17.0,187.03,2024-06-05
+439,Germany,Germany,Mobile & Tablet,2024-10-30,16.0,152.27,Oct,2024,16.0,193.87,2024-06-05
+440,Germany,Germany,Mobile & Tablet,2024-10-31,15.0,145.41,Oct,2024,15.0,185.14,2024-06-05
+441,Germany,Germany,Mobile & Tablet,2024-11-01,12.0,140.06,Nov,2024,12.0,153.2,2024-06-05
+442,Germany,Germany,Mobile & Tablet,2024-11-02,7.0,60.69,Nov,2024,7.0,66.39,2024-06-05
+443,Germany,Germany,Mobile & Tablet,2024-11-03,7.0,56.27,Nov,2024,7.0,61.55,2024-06-05
+444,Germany,Germany,Mobile & Tablet,2024-11-04,15.0,159.33,Nov,2024,15.0,174.28,2024-06-05
+445,Germany,Germany,Mobile & Tablet,2024-11-05,14.0,172.88,Nov,2024,14.0,189.1,2024-06-05
+446,Germany,Germany,Mobile & Tablet,2024-11-06,13.0,193.26,Nov,2024,13.0,211.4,2024-06-05
+447,Germany,Germany,Mobile & Tablet,2024-11-07,12.0,185.83,Nov,2024,12.0,203.27,2024-06-05
+448,Germany,Germany,Mobile & Tablet,2024-11-08,9.0,200.87,Nov,2024,9.0,219.72,2024-06-05
+449,Germany,Germany,Mobile & Tablet,2024-11-09,4.0,84.5,Nov,2024,4.0,92.43,2024-06-05
+450,Germany,Germany,Mobile & Tablet,2024-11-10,5.0,91.24,Nov,2024,5.0,99.81,2024-06-05
+451,Germany,Germany,Mobile & Tablet,2024-11-11,13.0,216.76,Nov,2024,13.0,237.1,2024-06-05
+452,Germany,Germany,Mobile & Tablet,2024-11-12,12.0,203.78,Nov,2024,12.0,222.91,2024-06-05
+453,Germany,Germany,Mobile & Tablet,2024-11-13,11.0,209.6,Nov,2024,11.0,229.27,2024-06-05
+454,Germany,Germany,Mobile & Tablet,2024-11-14,11.0,192.34,Nov,2024,11.0,210.39,2024-06-05
+455,Germany,Germany,Mobile & Tablet,2024-11-15,8.0,159.78,Nov,2024,8.0,174.77,2024-06-05
+456,Germany,Germany,Mobile & Tablet,2024-11-16,4.0,84.89,Nov,2024,4.0,92.85,2024-06-05
+457,Germany,Germany,Mobile & Tablet,2024-11-17,4.0,57.19,Nov,2024,4.0,62.56,2024-06-05
+458,Germany,Germany,Mobile & Tablet,2024-11-18,13.0,192.89,Nov,2024,13.0,210.99,2024-06-05
+459,Germany,Germany,Mobile & Tablet,2024-11-19,13.0,211.84,Nov,2024,13.0,231.72,2024-06-05
+460,Germany,Germany,Mobile & Tablet,2024-11-20,13.0,169.39,Nov,2024,13.0,185.29,2024-06-05
+461,Germany,Germany,Mobile & Tablet,2024-11-21,13.0,162.65,Nov,2024,13.0,177.91,2024-06-05
+462,Germany,Germany,Mobile & Tablet,2024-11-22,11.0,164.24,Nov,2024,11.0,179.65,2024-06-05
+463,Germany,Germany,Mobile & Tablet,2024-11-23,7.0,83.77,Nov,2024,7.0,91.63,2024-06-05
+464,Germany,Germany,Mobile & Tablet,2024-11-24,8.0,99.41,Nov,2024,8.0,108.73,2024-06-05
+465,Germany,Germany,Mobile & Tablet,2024-11-25,17.0,266.75,Nov,2024,17.0,291.78,2024-06-05
+466,Germany,Germany,Mobile & Tablet,2024-11-26,18.0,247.57,Nov,2024,18.0,270.8,2024-06-05
+467,Germany,Germany,Mobile & Tablet,2024-11-27,18.0,232.21,Nov,2024,18.0,254.0,2024-06-05
+468,Germany,Germany,Mobile & Tablet,2024-11-28,18.0,248.65,Nov,2024,18.0,271.99,2024-06-05
+469,Germany,Germany,Mobile & Tablet,2024-11-29,16.0,199.82,Nov,2024,16.0,218.57,2024-06-05
+470,Germany,Germany,Mobile & Tablet,2024-11-30,12.0,93.53,Nov,2024,12.0,102.31,2024-06-05
+471,Germany,Germany,Mobile & Tablet,2024-12-01,14.0,73.22,Dec,2024,14.0,87.81,2024-06-05
+472,Germany,Germany,Mobile & Tablet,2024-12-02,23.0,290.11,Dec,2024,23.0,347.93,2024-06-05
+473,Germany,Germany,Mobile & Tablet,2024-12-03,24.0,688.94,Dec,2024,24.0,826.24,2024-06-05
+474,Germany,Germany,Mobile & Tablet,2024-12-04,23.0,1253.18,Dec,2024,23.0,1502.93,2024-06-05
+475,Germany,Germany,Mobile & Tablet,2024-12-05,23.0,517.6,Dec,2024,23.0,620.75,2024-06-05
+476,Germany,Germany,Mobile & Tablet,2024-12-06,21.0,476.68,Dec,2024,21.0,571.67,2024-06-05
+477,Germany,Germany,Mobile & Tablet,2024-12-07,17.0,143.08,Dec,2024,17.0,171.59,2024-06-05
+478,Germany,Germany,Mobile & Tablet,2024-12-08,18.0,132.8,Dec,2024,18.0,159.26,2024-06-05
+479,Germany,Germany,Mobile & Tablet,2024-12-09,27.0,496.25,Dec,2024,27.0,595.15,2024-06-05
+480,Germany,Germany,Mobile & Tablet,2024-12-10,27.0,521.05,Dec,2024,27.0,624.89,2024-06-05
+481,Germany,Germany,Mobile & Tablet,2024-12-11,26.0,460.51,Dec,2024,26.0,552.28,2024-06-05
+482,Germany,Germany,Mobile & Tablet,2024-12-12,25.0,428.31,Dec,2024,25.0,513.66,2024-06-05
+483,Germany,Germany,Mobile & Tablet,2024-12-13,22.0,452.05,Dec,2024,22.0,542.13,2024-06-05
+484,Germany,Germany,Mobile & Tablet,2024-12-14,17.0,161.28,Dec,2024,17.0,193.42,2024-06-05
+485,Germany,Germany,Mobile & Tablet,2024-12-15,18.0,147.71,Dec,2024,18.0,177.15,2024-06-05
+486,Germany,Germany,Mobile & Tablet,2024-12-16,26.0,475.94,Dec,2024,26.0,570.79,2024-06-05
+487,Germany,Germany,Mobile & Tablet,2024-12-17,25.0,375.63,Dec,2024,25.0,450.49,2024-06-05
+488,Germany,Germany,Mobile & Tablet,2024-12-18,24.0,853.11,Dec,2024,24.0,1023.12,2024-06-05
+489,Germany,Germany,Mobile & Tablet,2024-12-19,23.0,801.46,Dec,2024,23.0,961.18,2024-06-05
+490,Germany,Germany,Mobile & Tablet,2024-12-20,19.0,770.81,Dec,2024,19.0,924.43,2024-06-05
+491,Germany,Germany,Mobile & Tablet,2024-12-21,14.0,73.0,Dec,2024,14.0,87.55,2024-06-05
+492,Germany,Germany,Mobile & Tablet,2024-12-22,14.0,29.29,Dec,2024,14.0,35.12,2024-06-05
+493,Germany,Germany,Mobile & Tablet,2024-12-23,22.0,200.16,Dec,2024,22.0,240.05,2024-06-05
+494,Germany,Germany,Mobile & Tablet,2024-12-24,21.0,200.16,Dec,2024,21.0,240.05,2024-06-05
+495,Germany,Germany,Mobile & Tablet,2024-12-25,19.0,171.9,Dec,2024,19.0,206.16,2024-06-05
+496,Germany,Germany,Mobile & Tablet,2024-12-26,18.0,119.86,Dec,2024,18.0,143.74,2024-06-05
+497,Germany,Germany,Mobile & Tablet,2024-12-27,14.0,102.25,Dec,2024,14.0,122.63,2024-06-05
+498,Germany,Germany,Mobile & Tablet,2024-12-28,9.0,104.47,Dec,2024,9.0,125.29,2024-06-05
+499,Germany,Germany,Mobile & Tablet,2024-12-29,9.0,37.61,Dec,2024,9.0,45.1,2024-06-05
+500,Germany,Germany,Mobile & Tablet,2024-12-30,18.0,53.97,Dec,2024,18.0,64.72,2024-06-05
+501,Germany,Germany,Mobile & Tablet,2024-12-31,17.0,225.85,Dec,2024,17.0,270.86,2024-06-05

@@ -1,0 +1,15 @@
+,market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+0,India,Desktop,-,2023-10-01,4674.0,3614.05,22.68,17.76,17.76,UnderPredicted
+1,India,Desktop,-,2023-11-01,3936.0,3942.99,-0.18,17.76,17.76,UnderPredicted
+2,India,Desktop,-,2023-12-01,4146.0,4121.24,0.6,17.76,17.76,UnderPredicted
+3,India,Desktop,-,2024-01-01,4594.0,4945.41,-7.6499999999999995,17.76,17.76,UnderPredicted
+4,India,Desktop,-,2024-02-01,4206.0,3428.74,18.48,17.76,17.76,UnderPredicted
+5,India,Desktop,-,2024-03-01,4411.0,3285.0,25.53,17.76,17.76,UnderPredicted
+6,India,Desktop,-,2024-04-01,6300.0,3199.98,49.21,17.76,17.76,UnderPredicted
+7,India,Mobile & Tablet,-,2023-10-01,56.0,54.16,3.29,43.69,4.93,OverPredicted
+8,India,Mobile & Tablet,-,2023-11-01,73.0,63.62,12.85,43.69,4.93,OverPredicted
+9,India,Mobile & Tablet,-,2023-12-01,70.0,79.6,-13.71,43.69,4.93,OverPredicted
+10,India,Mobile & Tablet,-,2024-01-01,49.0,95.78999999999999,-95.49,43.69,4.93,OverPredicted
+11,India,Mobile & Tablet,-,2024-02-01,39.0,73.87,-89.41,43.69,4.93,OverPredicted
+12,India,Mobile & Tablet,-,2024-03-01,60.0,55.55,7.42,43.69,4.93,OverPredicted
+13,India,Mobile & Tablet,-,2024-04-01,66.0,10.77,83.67999999999999,43.69,4.93,OverPredicted

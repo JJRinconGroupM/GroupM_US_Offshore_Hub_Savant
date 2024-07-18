@@ -1,0 +1,15 @@
+market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+Canada,-,Brand,2023-08-01,23520.0,20937.69,10.979999999999999,9.08,1.8399999999999999,OverPredicted
+Canada,-,Brand,2023-09-01,19646.0,19143.66,2.56,9.08,1.8399999999999999,OverPredicted
+Canada,-,Brand,2023-10-01,19114.0,21469.76,-12.32,9.08,1.8399999999999999,OverPredicted
+Canada,-,Brand,2023-11-01,18942.0,18827.47,0.6,9.08,1.8399999999999999,OverPredicted
+Canada,-,Brand,2023-12-01,15267.0,17483.96,-14.52,9.08,1.8399999999999999,OverPredicted
+Canada,-,Brand,2024-01-01,15998.0,17853.16,-11.600000000000001,9.08,1.8399999999999999,OverPredicted
+Canada,-,Brand,2024-02-01,9045.0,8052.78,10.97,9.08,1.8399999999999999,OverPredicted
+Canada,-,Non_Brand,2023-08-01,1633.0,1442.36,11.67,15.99,8.37,UnderPredicted
+Canada,-,Non_Brand,2023-09-01,1442.0,1442.32,-0.02,15.99,8.37,UnderPredicted
+Canada,-,Non_Brand,2023-10-01,1264.0,1505.47,-19.1,15.99,8.37,UnderPredicted
+Canada,-,Non_Brand,2023-11-01,3262.0,2467.5,24.36,15.99,8.37,UnderPredicted
+Canada,-,Non_Brand,2023-12-01,2666.0,3242.26,-21.62,15.99,8.37,UnderPredicted
+Canada,-,Non_Brand,2024-01-01,3432.0,2413.91,29.659999999999997,15.99,8.37,UnderPredicted
+Canada,-,Non_Brand,2024-02-01,1351.0,1276.64,5.5,15.99,8.37,UnderPredicted

@@ -1,0 +1,15 @@
+,market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+0,Germany,Desktop,-,2023-10-01,32899.0,34347.27,-4.3999999999999995,11.44,5.6000000000000005,UnderPredicted
+1,Germany,Desktop,-,2023-11-01,33008.0,32439.58,1.72,11.44,5.6000000000000005,UnderPredicted
+2,Germany,Desktop,-,2023-12-01,30317.0,30951.31,-2.09,11.44,5.6000000000000005,UnderPredicted
+3,Germany,Desktop,-,2024-01-01,25468.0,29864.02,-17.26,11.44,5.6000000000000005,UnderPredicted
+4,Germany,Desktop,-,2024-02-01,28566.0,25501.440000000002,10.73,11.44,5.6000000000000005,UnderPredicted
+5,Germany,Desktop,-,2024-03-01,25895.0,27351.83,-5.63,11.44,5.6000000000000005,UnderPredicted
+6,Germany,Desktop,-,2024-04-01,43379.0,26775.29,38.279999999999994,11.44,5.6000000000000005,UnderPredicted
+7,Germany,Mobile & Tablet,-,2023-10-01,368.0,284.63,22.650000000000002,56.13,57.18,UnderPredicted
+8,Germany,Mobile & Tablet,-,2023-11-01,474.0,229.76,51.53,56.13,57.18,UnderPredicted
+9,Germany,Mobile & Tablet,-,2023-12-01,579.0,223.32,61.42999999999999,56.13,57.18,UnderPredicted
+10,Germany,Mobile & Tablet,-,2024-01-01,412.0,171.77,58.309999999999995,56.13,57.18,UnderPredicted
+11,Germany,Mobile & Tablet,-,2024-02-01,337.0,152.8,54.66,56.13,57.18,UnderPredicted
+12,Germany,Mobile & Tablet,-,2024-03-01,283.0,107.81,61.9,56.13,57.18,UnderPredicted
+13,Germany,Mobile & Tablet,-,2024-04-01,474.0,83.3,82.43,56.13,57.18,UnderPredicted

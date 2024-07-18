@@ -1,0 +1,2 @@
+,changepoint_prior_scale,seasonality_prior_scale,holidays_prior_scale,seasonality_mode,input_mode,weekday_or_weekend,include_holiday,covid_year_exclude,covid_year_dummy,anomaly_2021,cost_split_generic,cost_split_competitor,growth,power,market,account_type,funnel,MAPE,period_APE
+0,0.1,10.0,10.0,additive,additive,na,na,False,na,na,na,na,linear,na,US,google adwords,competitor,72.67,8.31

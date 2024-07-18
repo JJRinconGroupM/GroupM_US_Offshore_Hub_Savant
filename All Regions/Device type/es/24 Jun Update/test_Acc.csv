@@ -1,0 +1,15 @@
+,market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+0,Spain,Desktop,-,2023-10-01,4166.0,4874.45,-17.01,27.24,25.180000000000003,UnderPredicted
+1,Spain,Desktop,-,2023-11-01,4690.0,4905.08,-4.590000000000001,27.24,25.180000000000003,UnderPredicted
+2,Spain,Desktop,-,2023-12-01,4643.0,4040.67,12.97,27.24,25.180000000000003,UnderPredicted
+3,Spain,Desktop,-,2024-01-01,4694.0,4147.09,11.65,27.24,25.180000000000003,UnderPredicted
+4,Spain,Desktop,-,2024-02-01,5129.0,2960.84,42.27,27.24,25.180000000000003,UnderPredicted
+5,Spain,Desktop,-,2024-03-01,4148.0,2628.08,36.64,27.24,25.180000000000003,UnderPredicted
+6,Spain,Desktop,-,2024-04-01,7442.0,2565.17,65.53,27.24,25.180000000000003,UnderPredicted
+7,Spain,Mobile & Tablet,-,2023-10-01,225.0,200.32,10.97,14.61,11.93,UnderPredicted
+8,Spain,Mobile & Tablet,-,2023-11-01,212.0,187.59,11.51,14.61,11.93,UnderPredicted
+9,Spain,Mobile & Tablet,-,2023-12-01,200.0,187.64,6.18,14.61,11.93,UnderPredicted
+10,Spain,Mobile & Tablet,-,2024-01-01,215.0,211.78,1.5,14.61,11.93,UnderPredicted
+11,Spain,Mobile & Tablet,-,2024-02-01,157.0,184.10999999999999,-17.27,14.61,11.93,UnderPredicted
+12,Spain,Mobile & Tablet,-,2024-03-01,271.0,185.76,31.45,14.61,11.93,UnderPredicted
+13,Spain,Mobile & Tablet,-,2024-04-01,261.0,199.97,23.380000000000003,14.61,11.93,UnderPredicted

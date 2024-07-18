@@ -1,0 +1,15 @@
+,market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+0,US,Desktop,-,2023-10-01,508649.0,564264.98,-10.93,14.09,9.93,OverPredicted
+1,US,Desktop,-,2023-11-01,502737.0,733563.48,-45.910000000000004,14.09,9.93,OverPredicted
+2,US,Desktop,-,2023-12-01,525521.0,537231.25,-2.23,14.09,9.93,OverPredicted
+3,US,Desktop,-,2024-01-01,411957.0,500187.82,-21.42,14.09,9.93,OverPredicted
+4,US,Desktop,-,2024-02-01,465756.0,413053.4,11.32,14.09,9.93,OverPredicted
+5,US,Desktop,-,2024-03-01,454867.0,467604.95,-2.8000000000000003,14.09,9.93,OverPredicted
+6,US,Desktop,-,2024-04-01,440296.0,422493.31,4.04,14.09,9.93,OverPredicted
+7,US,Mobile & Tablet,-,2023-10-01,6399.0,6533.89,-2.11,26.54,29.81,UnderPredicted
+8,US,Mobile & Tablet,-,2023-11-01,7210.0,6620.57,8.18,26.54,29.81,UnderPredicted
+9,US,Mobile & Tablet,-,2023-12-01,13322.0,6525.76,51.019999999999996,26.54,29.81,UnderPredicted
+10,US,Mobile & Tablet,-,2024-01-01,7138.0,5933.3,16.88,26.54,29.81,UnderPredicted
+11,US,Mobile & Tablet,-,2024-02-01,7930.0,5184.91,34.62,26.54,29.81,UnderPredicted
+12,US,Mobile & Tablet,-,2024-03-01,9591.0,5314.68,44.59,26.54,29.81,UnderPredicted
+13,US,Mobile & Tablet,-,2024-04-01,7090.0,5077.3,28.389999999999997,26.54,29.81,UnderPredicted

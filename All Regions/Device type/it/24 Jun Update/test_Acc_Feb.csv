@@ -1,0 +1,15 @@
+,market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+0,Italy,Desktop,-,2023-10-01,13079.0,11843.16,9.45,30.95,31.22,UnderPredicted
+1,Italy,Desktop,-,2023-11-01,11865.0,10405.46,12.3,30.95,31.22,UnderPredicted
+2,Italy,Desktop,-,2023-12-01,14258.0,9459.99,33.650000000000006,30.95,31.22,UnderPredicted
+3,Italy,Desktop,-,2024-01-01,9408.0,7965.42,15.329999999999998,30.95,31.22,UnderPredicted
+4,Italy,Desktop,-,2024-02-01,10459.0,5571.75,46.73,30.95,31.22,UnderPredicted
+5,Italy,Desktop,-,2024-03-01,10189.0,5494.05,46.08,30.95,31.22,UnderPredicted
+6,Italy,Desktop,-,2024-04-01,14172.0,6644.79,53.11,30.95,31.22,UnderPredicted
+7,Italy,Mobile & Tablet,-,2023-10-01,782.0,604.4,22.71,21.35,21.62,UnderPredicted
+8,Italy,Mobile & Tablet,-,2023-11-01,729.0,582.0600000000001,20.16,21.35,21.62,UnderPredicted
+9,Italy,Mobile & Tablet,-,2023-12-01,955.0,587.54,38.48,21.35,21.62,UnderPredicted
+10,Italy,Mobile & Tablet,-,2024-01-01,698.0,572.35,18.0,21.35,21.62,UnderPredicted
+11,Italy,Mobile & Tablet,-,2024-02-01,528.0,531.3,-0.62,21.35,21.62,UnderPredicted
+12,Italy,Mobile & Tablet,-,2024-03-01,491.0,542.96,-10.58,21.35,21.62,UnderPredicted
+13,Italy,Mobile & Tablet,-,2024-04-01,822.0,502.15,38.91,21.35,21.62,UnderPredicted

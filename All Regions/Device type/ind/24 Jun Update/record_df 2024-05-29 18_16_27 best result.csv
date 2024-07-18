@@ -1,0 +1,2 @@
+,market,account_type,funnel,periods_for_acc_cal,changepoint_prior_scale,seasonality_prior_scale,holidays_prior_scale,seasonality_mode,input_mode,weekday_or_weekend,include_holiday,covid_year_exclude,covid_year_dummy,anomaly_2021,generic_cost_split,competitor_cost_split,new_confirmed,power,growth,MAPE,period_AE
+0,India,Mobile & Tablet,-,183,0.05,1.0,0.1,multiplicative,additive,multiplicative,na,na,na,na,na,na,na,na,logistic,11.95,0.54

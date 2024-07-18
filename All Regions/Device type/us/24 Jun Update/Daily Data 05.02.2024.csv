@@ -1,0 +1,1643 @@
+,region,market,funnel,account_type,ds,X,y,weekday_or_weekend,Month of Ds,floor,AOV,ROAS,cap
+0,United States,US,-,Desktop,2022-01-01,,1407.0,1,January,0,34.32,29.5,
+1,United States,US,-,Desktop,2022-01-02,,3092.0,1,January,0,34.32,29.5,
+2,United States,US,-,Desktop,2022-01-03,,28197.0,0,January,0,34.32,29.5,
+3,United States,US,-,Desktop,2022-01-04,,31068.0,0,January,0,34.32,29.5,
+4,United States,US,-,Desktop,2022-01-05,,30609.0,0,January,0,34.32,29.5,
+5,United States,US,-,Desktop,2022-01-06,,29613.0,0,January,0,34.32,29.5,
+6,United States,US,-,Desktop,2022-01-07,,24846.0,0,January,0,34.32,29.5,
+7,United States,US,-,Desktop,2022-01-08,,3870.0,1,January,0,34.32,29.5,
+8,United States,US,-,Desktop,2022-01-09,,3413.0,1,January,0,34.32,29.5,
+9,United States,US,-,Desktop,2022-01-10,,31889.0,0,January,0,34.32,29.5,
+10,United States,US,-,Desktop,2022-01-11,,30793.0,0,January,0,34.32,29.5,
+11,United States,US,-,Desktop,2022-01-12,,30759.0,0,January,0,34.32,29.5,
+12,United States,US,-,Desktop,2022-01-13,,30427.0,0,January,0,34.32,29.5,
+13,United States,US,-,Desktop,2022-01-14,,26147.0,0,January,0,34.32,29.5,
+14,United States,US,-,Desktop,2022-01-15,,3347.0,1,January,0,34.32,29.5,
+15,United States,US,-,Desktop,2022-01-16,,2605.0,1,January,0,34.32,29.5,
+16,United States,US,-,Desktop,2022-01-17,,23205.0,0,January,0,34.32,29.5,
+17,United States,US,-,Desktop,2022-01-18,,30909.0,0,January,0,34.32,29.5,
+18,United States,US,-,Desktop,2022-01-19,,30835.0,0,January,0,34.32,29.5,
+19,United States,US,-,Desktop,2022-01-20,,28699.0,0,January,0,34.32,29.5,
+20,United States,US,-,Desktop,2022-01-21,,25908.0,0,January,0,34.32,29.5,
+21,United States,US,-,Desktop,2022-01-22,,3050.0,1,January,0,34.32,29.5,
+22,United States,US,-,Desktop,2022-01-23,,2899.0,1,January,0,34.32,29.5,
+23,United States,US,-,Desktop,2022-01-24,,30596.0,0,January,0,34.32,29.5,
+24,United States,US,-,Desktop,2022-01-25,,30859.0,0,January,0,34.32,29.5,
+25,United States,US,-,Desktop,2022-01-26,,31055.0,0,January,0,34.32,29.5,
+26,United States,US,-,Desktop,2022-01-27,,30456.0,0,January,0,34.32,29.5,
+27,United States,US,-,Desktop,2022-01-28,,26092.0,0,January,0,34.32,29.5,
+28,United States,US,-,Desktop,2022-01-29,,3114.0,1,January,0,34.32,29.5,
+29,United States,US,-,Desktop,2022-01-30,,3124.0,1,January,0,34.32,29.5,
+30,United States,US,-,Desktop,2022-01-31,,27774.0,0,January,0,34.32,29.5,
+31,United States,US,-,Desktop,2022-02-01,,30352.0,0,February,0,34.32,29.5,
+32,United States,US,-,Desktop,2022-02-02,,28599.0,0,February,0,34.32,29.5,
+33,United States,US,-,Desktop,2022-02-03,,25836.0,0,February,0,34.32,29.5,
+34,United States,US,-,Desktop,2022-02-04,,22272.0,0,February,0,34.32,29.5,
+35,United States,US,-,Desktop,2022-02-05,,3062.0,1,February,0,34.32,29.5,
+36,United States,US,-,Desktop,2022-02-06,,3084.0,1,February,0,34.32,29.5,
+37,United States,US,-,Desktop,2022-02-07,,28211.0,0,February,0,34.32,29.5,
+38,United States,US,-,Desktop,2022-02-08,,30989.0,0,February,0,34.32,29.5,
+39,United States,US,-,Desktop,2022-02-09,,31173.0,0,February,0,34.32,29.5,
+40,United States,US,-,Desktop,2022-02-10,,30685.0,0,February,0,34.32,29.5,
+41,United States,US,-,Desktop,2022-02-11,,26422.0,0,February,0,34.32,29.5,
+42,United States,US,-,Desktop,2022-02-12,,2910.0,1,February,0,34.32,29.5,
+43,United States,US,-,Desktop,2022-02-13,,2468.0,1,February,0,34.32,29.5,
+44,United States,US,-,Desktop,2022-02-14,,28864.0,0,February,0,34.32,29.5,
+45,United States,US,-,Desktop,2022-02-15,,30053.0,0,February,0,34.32,29.5,
+46,United States,US,-,Desktop,2022-02-16,,29955.0,0,February,0,34.32,29.5,
+47,United States,US,-,Desktop,2022-02-17,,29125.0,0,February,0,34.32,29.5,
+48,United States,US,-,Desktop,2022-02-18,,26039.0,0,February,0,34.32,29.5,
+49,United States,US,-,Desktop,2022-02-19,,2773.0,1,February,0,34.32,29.5,
+50,United States,US,-,Desktop,2022-02-20,,2245.0,1,February,0,34.32,29.5,
+51,United States,US,-,Desktop,2022-02-21,,24638.0,0,February,0,34.32,29.5,
+52,United States,US,-,Desktop,2022-02-22,,30897.0,0,February,0,34.32,29.5,
+53,United States,US,-,Desktop,2022-02-23,,30604.0,0,February,0,34.32,29.5,
+54,United States,US,-,Desktop,2022-02-24,,28835.0,0,February,0,34.32,29.5,
+55,United States,US,-,Desktop,2022-02-25,,25561.0,0,February,0,34.32,29.5,
+56,United States,US,-,Desktop,2022-02-26,,2898.0,1,February,0,34.32,29.5,
+57,United States,US,-,Desktop,2022-02-27,,2409.0,1,February,0,34.32,29.5,
+58,United States,US,-,Desktop,2022-02-28,,32830.0,0,February,0,34.32,29.5,
+59,United States,US,-,Desktop,2022-03-01,,31473.0,0,March,0,34.32,29.5,
+60,United States,US,-,Desktop,2022-03-02,,31003.0,0,March,0,34.32,29.5,
+61,United States,US,-,Desktop,2022-03-03,,31034.0,0,March,0,34.32,29.5,
+62,United States,US,-,Desktop,2022-03-04,,27539.0,0,March,0,34.32,29.5,
+63,United States,US,-,Desktop,2022-03-05,,2776.0,1,March,0,34.32,29.5,
+64,United States,US,-,Desktop,2022-03-06,,2617.0,1,March,0,34.32,29.5,
+65,United States,US,-,Desktop,2022-03-07,,31575.0,0,March,0,34.32,29.5,
+66,United States,US,-,Desktop,2022-03-08,,31957.0,0,March,0,34.32,29.5,
+67,United States,US,-,Desktop,2022-03-09,,31104.0,0,March,0,34.32,29.5,
+68,United States,US,-,Desktop,2022-03-10,,31314.0,0,March,0,34.32,29.5,
+69,United States,US,-,Desktop,2022-03-11,,27098.0,0,March,0,34.32,29.5,
+70,United States,US,-,Desktop,2022-03-12,,3119.0,1,March,0,34.32,29.5,
+71,United States,US,-,Desktop,2022-03-13,,2665.0,1,March,0,34.32,29.5,
+72,United States,US,-,Desktop,2022-03-14,,32819.0,0,March,0,34.32,29.5,
+73,United States,US,-,Desktop,2022-03-15,,32437.0,0,March,0,34.32,29.5,
+74,United States,US,-,Desktop,2022-03-16,,31476.0,0,March,0,34.32,29.5,
+75,United States,US,-,Desktop,2022-03-17,,29660.0,0,March,0,34.32,29.5,
+76,United States,US,-,Desktop,2022-03-18,,26712.0,0,March,0,34.32,29.5,
+77,United States,US,-,Desktop,2022-03-19,,3431.0,1,March,0,34.32,29.5,
+78,United States,US,-,Desktop,2022-03-20,,2667.0,1,March,0,34.32,29.5,
+79,United States,US,-,Desktop,2022-03-21,,33328.0,0,March,0,34.32,29.5,
+80,United States,US,-,Desktop,2022-03-22,,31182.0,0,March,0,34.32,29.5,
+81,United States,US,-,Desktop,2022-03-23,,31872.0,0,March,0,34.32,29.5,
+82,United States,US,-,Desktop,2022-03-24,,31556.0,0,March,0,34.32,29.5,
+83,United States,US,-,Desktop,2022-03-25,,28534.0,0,March,0,34.32,29.5,
+84,United States,US,-,Desktop,2022-03-26,,3122.0,1,March,0,34.32,29.5,
+85,United States,US,-,Desktop,2022-03-27,,2600.0,1,March,0,34.32,29.5,
+86,United States,US,-,Desktop,2022-03-28,,33902.0,0,March,0,34.32,29.5,
+87,United States,US,-,Desktop,2022-03-29,,34192.0,0,March,0,34.32,29.5,
+88,United States,US,-,Desktop,2022-03-30,,33726.0,0,March,0,34.32,29.5,
+89,United States,US,-,Desktop,2022-03-31,,32838.0,0,March,0,34.32,29.5,
+90,United States,US,-,Desktop,2022-04-01,,28326.0,0,April,0,34.32,29.5,
+91,United States,US,-,Desktop,2022-04-02,,3536.0,1,April,0,34.32,29.5,
+92,United States,US,-,Desktop,2022-04-03,,2710.0,1,April,0,34.32,29.5,
+93,United States,US,-,Desktop,2022-04-04,,34283.0,0,April,0,34.32,29.5,
+94,United States,US,-,Desktop,2022-04-05,,33538.0,0,April,0,34.32,29.5,
+95,United States,US,-,Desktop,2022-04-06,,32999.0,0,April,0,34.32,29.5,
+96,United States,US,-,Desktop,2022-04-07,,32988.0,0,April,0,34.32,29.5,
+97,United States,US,-,Desktop,2022-04-08,,28640.0,0,April,0,34.32,29.5,
+98,United States,US,-,Desktop,2022-04-09,,3123.0,1,April,0,34.32,29.5,
+99,United States,US,-,Desktop,2022-04-10,,2916.0,1,April,0,34.32,29.5,
+100,United States,US,-,Desktop,2022-04-11,,34281.0,0,April,0,34.32,29.5,
+101,United States,US,-,Desktop,2022-04-12,,33122.0,0,April,0,34.32,29.5,
+102,United States,US,-,Desktop,2022-04-13,,33738.0,0,April,0,34.32,29.5,
+103,United States,US,-,Desktop,2022-04-14,,32326.0,0,April,0,34.32,29.5,
+104,United States,US,-,Desktop,2022-04-15,,21348.0,0,April,0,34.32,29.5,
+105,United States,US,-,Desktop,2022-04-16,,2635.0,1,April,0,34.32,29.5,
+106,United States,US,-,Desktop,2022-04-17,,1929.0,1,April,0,34.32,29.5,
+107,United States,US,-,Desktop,2022-04-18,,29696.0,0,April,0,34.32,29.5,
+108,United States,US,-,Desktop,2022-04-19,,31294.0,0,April,0,34.32,29.5,
+109,United States,US,-,Desktop,2022-04-20,,31039.0,0,April,0,34.32,29.5,
+110,United States,US,-,Desktop,2022-04-21,,30439.0,0,April,0,34.32,29.5,
+111,United States,US,-,Desktop,2022-04-22,,25884.0,0,April,0,34.32,29.5,
+112,United States,US,-,Desktop,2022-04-23,,2857.0,1,April,0,34.32,29.5,
+113,United States,US,-,Desktop,2022-04-24,,2389.0,1,April,0,34.32,29.5,
+114,United States,US,-,Desktop,2022-04-25,,31174.0,0,April,0,34.32,29.5,
+115,United States,US,-,Desktop,2022-04-26,,31877.0,0,April,0,34.32,29.5,
+116,United States,US,-,Desktop,2022-04-27,,31145.0,0,April,0,34.32,29.5,
+117,United States,US,-,Desktop,2022-04-28,,30531.0,0,April,0,34.32,29.5,
+118,United States,US,-,Desktop,2022-04-29,,26143.0,0,April,0,34.32,29.5,
+119,United States,US,-,Desktop,2022-04-30,,2836.0,1,April,0,34.32,29.5,
+120,United States,US,-,Desktop,2022-05-01,,2419.0,1,May,0,34.32,29.5,
+121,United States,US,-,Desktop,2022-05-02,,31186.0,0,May,0,34.32,29.5,
+122,United States,US,-,Desktop,2022-05-03,,30689.0,0,May,0,34.32,29.5,
+123,United States,US,-,Desktop,2022-05-04,,30648.0,0,May,0,34.32,29.5,
+124,United States,US,-,Desktop,2022-05-05,,30321.0,0,May,0,34.32,29.5,
+125,United States,US,-,Desktop,2022-05-06,,25427.0,0,May,0,34.32,29.5,
+126,United States,US,-,Desktop,2022-05-07,,2488.0,1,May,0,34.32,29.5,
+127,United States,US,-,Desktop,2022-05-08,,1805.0,1,May,0,34.32,29.5,
+128,United States,US,-,Desktop,2022-05-09,,30960.0,0,May,0,34.32,29.5,
+129,United States,US,-,Desktop,2022-05-10,,31125.0,0,May,0,34.32,29.5,
+130,United States,US,-,Desktop,2022-05-11,,30461.0,0,May,0,34.32,29.5,
+131,United States,US,-,Desktop,2022-05-12,,29785.0,0,May,0,34.32,29.5,
+132,United States,US,-,Desktop,2022-05-13,,25769.0,0,May,0,34.32,29.5,
+133,United States,US,-,Desktop,2022-05-14,,2480.0,1,May,0,34.32,29.5,
+134,United States,US,-,Desktop,2022-05-15,,2257.0,1,May,0,34.32,29.5,
+135,United States,US,-,Desktop,2022-05-16,,30878.0,0,May,0,34.32,29.5,
+136,United States,US,-,Desktop,2022-05-17,,30482.0,0,May,0,34.32,29.5,
+137,United States,US,-,Desktop,2022-05-18,,29697.0,0,May,0,34.32,29.5,
+138,United States,US,-,Desktop,2022-05-19,,30016.0,0,May,0,34.32,29.5,
+139,United States,US,-,Desktop,2022-05-20,,25609.0,0,May,0,34.32,29.5,
+140,United States,US,-,Desktop,2022-05-21,,2532.0,1,May,0,34.32,29.5,
+141,United States,US,-,Desktop,2022-05-22,,2314.0,1,May,0,34.32,29.5,
+142,United States,US,-,Desktop,2022-05-23,,31509.0,0,May,0,34.32,29.5,
+143,United States,US,-,Desktop,2022-05-24,,31729.0,0,May,0,34.32,29.5,
+144,United States,US,-,Desktop,2022-05-25,,31523.0,0,May,0,34.32,29.5,
+145,United States,US,-,Desktop,2022-05-26,,30698.0,0,May,0,34.32,29.5,
+146,United States,US,-,Desktop,2022-05-27,,24070.0,0,May,0,34.32,29.5,
+147,United States,US,-,Desktop,2022-05-28,,1595.0,1,May,0,34.32,29.5,
+148,United States,US,-,Desktop,2022-05-29,,890.0,1,May,0,34.32,29.5,
+149,United States,US,-,Desktop,2022-05-30,,2665.0,0,May,0,34.32,29.5,
+150,United States,US,-,Desktop,2022-05-31,,32108.0,0,May,0,34.32,29.5,
+151,United States,US,-,Desktop,2022-06-01,,32474.0,0,June,0,34.32,29.5,
+152,United States,US,-,Desktop,2022-06-02,,30615.0,0,June,0,34.32,29.5,
+153,United States,US,-,Desktop,2022-06-03,,26116.0,0,June,0,34.32,29.5,
+154,United States,US,-,Desktop,2022-06-04,,2629.0,1,June,0,34.32,29.5,
+155,United States,US,-,Desktop,2022-06-05,,2167.0,1,June,0,34.32,29.5,
+156,United States,US,-,Desktop,2022-06-06,,30224.0,0,June,0,34.32,29.5,
+157,United States,US,-,Desktop,2022-06-07,,31919.0,0,June,0,34.32,29.5,
+158,United States,US,-,Desktop,2022-06-08,,30527.0,0,June,0,34.32,29.5,
+159,United States,US,-,Desktop,2022-06-09,,29212.0,0,June,0,34.32,29.5,
+160,United States,US,-,Desktop,2022-06-10,,24978.0,0,June,0,34.32,29.5,
+161,United States,US,-,Desktop,2022-06-11,,2457.0,1,June,0,34.32,29.5,
+162,United States,US,-,Desktop,2022-06-12,,2004.0,1,June,0,34.32,29.5,
+163,United States,US,-,Desktop,2022-06-13,,30500.0,0,June,0,34.32,29.5,
+164,United States,US,-,Desktop,2022-06-14,,30807.0,0,June,0,34.32,29.5,
+165,United States,US,-,Desktop,2022-06-15,,31157.0,0,June,0,34.32,29.5,
+166,United States,US,-,Desktop,2022-06-16,,30325.0,0,June,0,34.32,29.5,
+167,United States,US,-,Desktop,2022-06-17,,25646.0,0,June,0,34.32,29.5,
+168,United States,US,-,Desktop,2022-06-18,,2485.0,1,June,0,34.32,29.5,
+169,United States,US,-,Desktop,2022-06-19,,1649.0,1,June,0,34.32,29.5,
+170,United States,US,-,Desktop,2022-06-20,,27278.0,0,June,0,34.32,29.5,
+171,United States,US,-,Desktop,2022-06-21,,29835.0,0,June,0,34.32,29.5,
+172,United States,US,-,Desktop,2022-06-22,,29874.0,0,June,0,34.32,29.5,
+173,United States,US,-,Desktop,2022-06-23,,29091.0,0,June,0,34.32,29.5,
+174,United States,US,-,Desktop,2022-06-24,,24569.0,0,June,0,34.32,29.5,
+175,United States,US,-,Desktop,2022-06-25,,2445.0,1,June,0,34.32,29.5,
+176,United States,US,-,Desktop,2022-06-26,,1791.0,1,June,0,34.32,29.5,
+177,United States,US,-,Desktop,2022-06-27,,30145.0,0,June,0,34.32,29.5,
+178,United States,US,-,Desktop,2022-06-28,,30365.0,0,June,0,34.32,29.5,
+179,United States,US,-,Desktop,2022-06-29,,30122.0,0,June,0,34.32,29.5,
+180,United States,US,-,Desktop,2022-06-30,,29648.0,0,June,0,34.32,29.5,
+181,United States,US,-,Desktop,2022-07-01,,24003.0,0,July,0,34.32,29.5,
+182,United States,US,-,Desktop,2022-07-02,,1587.0,1,July,0,34.32,29.5,
+183,United States,US,-,Desktop,2022-07-03,,495.0,1,July,0,34.32,29.5,
+184,United States,US,-,Desktop,2022-07-04,,1346.0,0,July,0,34.32,29.5,
+185,United States,US,-,Desktop,2022-07-05,,29209.0,0,July,0,34.32,29.5,
+186,United States,US,-,Desktop,2022-07-06,,31252.0,0,July,0,34.32,29.5,
+187,United States,US,-,Desktop,2022-07-07,,30302.0,0,July,0,34.32,29.5,
+188,United States,US,-,Desktop,2022-07-08,,26100.0,0,July,0,34.32,29.5,
+189,United States,US,-,Desktop,2022-07-09,,2501.0,1,July,0,34.32,29.5,
+190,United States,US,-,Desktop,2022-07-10,,1979.0,1,July,0,34.32,29.5,
+191,United States,US,-,Desktop,2022-07-11,,30774.0,0,July,0,34.32,29.5,
+192,United States,US,-,Desktop,2022-07-12,,30766.0,0,July,0,34.32,29.5,
+193,United States,US,-,Desktop,2022-07-13,,30048.0,0,July,0,34.32,29.5,
+194,United States,US,-,Desktop,2022-07-14,,29299.0,0,July,0,34.32,29.5,
+195,United States,US,-,Desktop,2022-07-15,,24456.0,0,July,0,34.32,29.5,
+196,United States,US,-,Desktop,2022-07-16,,2340.0,1,July,0,34.32,29.5,
+197,United States,US,-,Desktop,2022-07-17,,1992.0,1,July,0,34.32,29.5,
+198,United States,US,-,Desktop,2022-07-18,,29413.0,0,July,0,34.32,29.5,
+199,United States,US,-,Desktop,2022-07-19,,29743.0,0,July,0,34.32,29.5,
+200,United States,US,-,Desktop,2022-07-20,,29150.0,0,July,0,34.32,29.5,
+201,United States,US,-,Desktop,2022-07-21,,27700.0,0,July,0,34.32,29.5,
+202,United States,US,-,Desktop,2022-07-22,,23771.0,0,July,0,34.32,29.5,
+203,United States,US,-,Desktop,2022-07-23,,2359.0,1,July,0,34.32,29.5,
+204,United States,US,-,Desktop,2022-07-24,,1922.0,1,July,0,34.32,29.5,
+205,United States,US,-,Desktop,2022-07-25,,28832.0,0,July,0,34.32,29.5,
+206,United States,US,-,Desktop,2022-07-26,,28949.0,0,July,0,34.32,29.5,
+207,United States,US,-,Desktop,2022-07-27,,28880.0,0,July,0,34.32,29.5,
+208,United States,US,-,Desktop,2022-07-28,,27341.0,0,July,0,34.32,29.5,
+209,United States,US,-,Desktop,2022-07-29,,23622.0,0,July,0,34.32,29.5,
+210,United States,US,-,Desktop,2022-07-30,,2393.0,1,July,0,34.32,29.5,
+211,United States,US,-,Desktop,2022-07-31,,1971.0,1,July,0,34.32,29.5,
+212,United States,US,-,Desktop,2022-08-01,,27796.0,0,August,0,34.32,29.5,
+213,United States,US,-,Desktop,2022-08-02,,28089.0,0,August,0,34.32,29.5,
+214,United States,US,-,Desktop,2022-08-03,,28602.0,0,August,0,34.32,29.5,
+215,United States,US,-,Desktop,2022-08-04,,28070.0,0,August,0,34.32,29.5,
+216,United States,US,-,Desktop,2022-08-05,,24306.0,0,August,0,34.32,29.5,
+217,United States,US,-,Desktop,2022-08-06,,2263.0,1,August,0,34.32,29.5,
+218,United States,US,-,Desktop,2022-08-07,,2053.0,1,August,0,34.32,29.5,
+219,United States,US,-,Desktop,2022-08-08,,29139.0,0,August,0,34.32,29.5,
+220,United States,US,-,Desktop,2022-08-09,,29268.0,0,August,0,34.32,29.5,
+221,United States,US,-,Desktop,2022-08-10,,28831.0,0,August,0,34.32,29.5,
+222,United States,US,-,Desktop,2022-08-11,,28333.0,0,August,0,34.32,29.5,
+223,United States,US,-,Desktop,2022-08-12,,24042.0,0,August,0,34.32,29.5,
+224,United States,US,-,Desktop,2022-08-13,,2417.0,1,August,0,34.32,29.5,
+225,United States,US,-,Desktop,2022-08-14,,2049.0,1,August,0,34.32,29.5,
+226,United States,US,-,Desktop,2022-08-15,,29770.0,0,August,0,34.32,29.5,
+227,United States,US,-,Desktop,2022-08-16,,29028.0,0,August,0,34.32,29.5,
+228,United States,US,-,Desktop,2022-08-17,,28838.0,0,August,0,34.32,29.5,
+229,United States,US,-,Desktop,2022-08-18,,28713.0,0,August,0,34.32,29.5,
+230,United States,US,-,Desktop,2022-08-19,,24642.0,0,August,0,34.32,29.5,
+231,United States,US,-,Desktop,2022-08-20,,2481.0,1,August,0,34.32,29.5,
+232,United States,US,-,Desktop,2022-08-21,,1995.0,1,August,0,34.32,29.5,
+233,United States,US,-,Desktop,2022-08-22,,29419.0,0,August,0,34.32,29.5,
+234,United States,US,-,Desktop,2022-08-23,,29785.0,0,August,0,34.32,29.5,
+235,United States,US,-,Desktop,2022-08-24,,29552.0,0,August,0,34.32,29.5,
+236,United States,US,-,Desktop,2022-08-25,,28437.0,0,August,0,34.32,29.5,
+237,United States,US,-,Desktop,2022-08-26,,24343.0,0,August,0,34.32,29.5,
+238,United States,US,-,Desktop,2022-08-27,,2625.0,1,August,0,34.32,29.5,
+239,United States,US,-,Desktop,2022-08-28,,2238.0,1,August,0,34.32,29.5,
+240,United States,US,-,Desktop,2022-08-29,,30269.0,0,August,0,34.32,29.5,
+241,United States,US,-,Desktop,2022-08-30,,30061.0,0,August,0,34.32,29.5,
+242,United States,US,-,Desktop,2022-08-31,,29951.0,0,August,0,34.32,29.5,
+243,United States,US,-,Desktop,2022-09-01,,28833.0,0,September,0,34.32,29.5,
+244,United States,US,-,Desktop,2022-09-02,,22565.0,0,September,0,34.32,29.5,
+245,United States,US,-,Desktop,2022-09-03,,1203.0,1,September,0,34.32,29.5,
+246,United States,US,-,Desktop,2022-09-04,,756.0,1,September,0,34.32,29.5,
+247,United States,US,-,Desktop,2022-09-05,,2348.0,0,September,0,34.32,29.5,
+248,United States,US,-,Desktop,2022-09-06,,30118.0,0,September,0,34.32,29.5,
+249,United States,US,-,Desktop,2022-09-07,,29951.0,0,September,0,34.32,29.5,
+250,United States,US,-,Desktop,2022-09-08,,28543.0,0,September,0,34.32,29.5,
+251,United States,US,-,Desktop,2022-09-09,,24581.0,0,September,0,34.32,29.5,
+252,United States,US,-,Desktop,2022-09-10,,2174.0,1,September,0,34.32,29.5,
+253,United States,US,-,Desktop,2022-09-11,,2136.0,1,September,0,34.32,29.5,
+254,United States,US,-,Desktop,2022-09-12,,28933.0,0,September,0,34.32,29.5,
+255,United States,US,-,Desktop,2022-09-13,,29974.0,0,September,0,34.32,29.5,
+256,United States,US,-,Desktop,2022-09-14,,29097.0,0,September,0,34.32,29.5,
+257,United States,US,-,Desktop,2022-09-15,,27136.0,0,September,0,34.32,29.5,
+258,United States,US,-,Desktop,2022-09-16,,23543.0,0,September,0,34.32,29.5,
+259,United States,US,-,Desktop,2022-09-17,,2654.0,1,September,0,34.32,29.5,
+260,United States,US,-,Desktop,2022-09-18,,1966.0,1,September,0,34.32,29.5,
+261,United States,US,-,Desktop,2022-09-19,,29572.0,0,September,0,34.32,29.5,
+262,United States,US,-,Desktop,2022-09-20,,28554.0,0,September,0,34.32,29.5,
+263,United States,US,-,Desktop,2022-09-21,,27992.0,0,September,0,34.32,29.5,
+264,United States,US,-,Desktop,2022-09-22,,26299.0,0,September,0,34.32,29.5,
+265,United States,US,-,Desktop,2022-09-23,,23463.0,0,September,0,34.32,29.5,
+266,United States,US,-,Desktop,2022-09-24,,2234.0,1,September,0,34.32,29.5,
+267,United States,US,-,Desktop,2022-09-25,,2053.0,1,September,0,34.32,29.5,
+268,United States,US,-,Desktop,2022-09-26,,28111.0,0,September,0,34.32,29.5,
+269,United States,US,-,Desktop,2022-09-27,,28526.0,0,September,0,34.32,29.5,
+270,United States,US,-,Desktop,2022-09-28,,29519.0,0,September,0,34.32,29.5,
+271,United States,US,-,Desktop,2022-09-29,,29110.0,0,September,0,34.32,29.5,
+272,United States,US,-,Desktop,2022-09-30,,26168.0,0,September,0,34.32,29.5,
+273,United States,US,-,Desktop,2022-10-01,,2674.0,1,October,0,34.32,29.5,
+274,United States,US,-,Desktop,2022-10-02,,2893.0,1,October,0,34.32,29.5,
+275,United States,US,-,Desktop,2022-10-03,,32644.0,0,October,0,34.32,29.5,
+276,United States,US,-,Desktop,2022-10-04,,32963.0,0,October,0,34.32,29.5,
+277,United States,US,-,Desktop,2022-10-05,,31153.0,0,October,0,34.32,29.5,
+278,United States,US,-,Desktop,2022-10-06,,30952.0,0,October,0,34.32,29.5,
+279,United States,US,-,Desktop,2022-10-07,,26840.0,0,October,0,34.32,29.5,
+280,United States,US,-,Desktop,2022-10-08,,2796.0,1,October,0,34.32,29.5,
+281,United States,US,-,Desktop,2022-10-09,,2243.0,1,October,0,34.32,29.5,
+282,United States,US,-,Desktop,2022-10-10,,29454.0,0,October,0,34.32,29.5,
+283,United States,US,-,Desktop,2022-10-11,,31543.0,0,October,0,34.32,29.5,
+284,United States,US,-,Desktop,2022-10-12,,61547.0,0,October,0,34.32,29.5,
+285,United States,US,-,Desktop,2022-10-13,,30487.0,0,October,0,34.32,29.5,
+286,United States,US,-,Desktop,2022-10-14,,25793.0,0,October,0,34.32,29.5,
+287,United States,US,-,Desktop,2022-10-15,,2522.0,1,October,0,34.32,29.5,
+288,United States,US,-,Desktop,2022-10-16,,2247.0,1,October,0,34.32,29.5,
+289,United States,US,-,Desktop,2022-10-17,,32622.0,0,October,0,34.32,29.5,
+290,United States,US,-,Desktop,2022-10-18,,31039.0,0,October,0,34.32,29.5,
+291,United States,US,-,Desktop,2022-10-19,,31714.0,0,October,0,34.32,29.5,
+292,United States,US,-,Desktop,2022-10-20,,30919.0,0,October,0,34.32,29.5,
+293,United States,US,-,Desktop,2022-10-21,,26522.0,0,October,0,34.32,29.5,
+294,United States,US,-,Desktop,2022-10-22,,2602.0,1,October,0,34.32,29.5,
+295,United States,US,-,Desktop,2022-10-23,,2596.0,1,October,0,34.32,29.5,
+296,United States,US,-,Desktop,2022-10-24,,33130.0,0,October,0,34.32,29.5,
+297,United States,US,-,Desktop,2022-10-25,,32577.0,0,October,0,34.32,29.5,
+298,United States,US,-,Desktop,2022-10-26,,32580.0,0,October,0,34.32,29.5,
+299,United States,US,-,Desktop,2022-10-27,,30954.0,0,October,0,34.32,29.5,
+300,United States,US,-,Desktop,2022-10-28,,26837.0,0,October,0,34.32,29.5,
+301,United States,US,-,Desktop,2022-10-29,,2422.0,1,October,0,34.32,29.5,
+302,United States,US,-,Desktop,2022-10-30,,2050.0,1,October,0,34.32,29.5,
+303,United States,US,-,Desktop,2022-10-31,,29443.0,0,October,0,34.32,29.5,
+304,United States,US,-,Desktop,2022-12-01,,29102.0,0,December,0,34.32,29.5,
+305,United States,US,-,Desktop,2022-12-02,,25487.0,0,December,0,34.32,29.5,
+306,United States,US,-,Desktop,2022-12-03,,3613.0,1,December,0,34.32,29.5,
+307,United States,US,-,Desktop,2022-12-04,,4137.0,1,December,0,34.32,29.5,
+308,United States,US,-,Desktop,2022-12-05,,33539.0,0,December,0,34.32,29.5,
+309,United States,US,-,Desktop,2022-12-06,,32708.0,0,December,0,34.32,29.5,
+310,United States,US,-,Desktop,2022-12-07,,32908.0,0,December,0,34.32,29.5,
+311,United States,US,-,Desktop,2022-12-08,,33761.0,0,December,0,34.32,29.5,
+312,United States,US,-,Desktop,2022-12-09,,29434.0,0,December,0,34.32,29.5,
+313,United States,US,-,Desktop,2022-12-10,,6088.0,1,December,0,34.32,29.5,
+314,United States,US,-,Desktop,2022-12-11,,5879.0,1,December,0,34.32,29.5,
+315,United States,US,-,Desktop,2022-12-12,,40328.0,0,December,0,34.32,29.5,
+316,United States,US,-,Desktop,2022-12-13,,39372.0,0,December,0,34.32,29.5,
+317,United States,US,-,Desktop,2022-12-14,,38087.0,0,December,0,34.32,29.5,
+318,United States,US,-,Desktop,2022-12-15,,37844.0,0,December,0,34.32,29.5,
+319,United States,US,-,Desktop,2022-12-16,,34202.0,0,December,0,34.32,29.5,
+320,United States,US,-,Desktop,2022-12-17,,7324.0,1,December,0,34.32,29.5,
+321,United States,US,-,Desktop,2022-12-18,,6010.0,1,December,0,34.32,29.5,
+322,United States,US,-,Desktop,2022-12-19,,43897.0,0,December,0,34.32,29.5,
+323,United States,US,-,Desktop,2022-12-20,,39214.0,0,December,0,34.32,29.5,
+324,United States,US,-,Desktop,2022-12-21,,33101.0,0,December,0,34.32,29.5,
+325,United States,US,-,Desktop,2022-12-22,,25336.0,0,December,0,34.32,29.5,
+326,United States,US,-,Desktop,2022-12-23,,11309.0,0,December,0,34.32,29.5,
+327,United States,US,-,Desktop,2022-12-24,,789.0,1,December,0,34.32,29.5,
+328,United States,US,-,Desktop,2022-12-25,,313.0,1,December,0,34.32,29.5,
+329,United States,US,-,Desktop,2022-12-26,,5482.0,0,December,0,34.32,29.5,
+330,United States,US,-,Desktop,2022-12-27,,23098.0,0,December,0,34.32,29.5,
+331,United States,US,-,Desktop,2022-12-28,,23236.0,0,December,0,34.32,29.5,
+332,United States,US,-,Desktop,2022-12-29,,21366.0,0,December,0,34.32,29.5,
+333,United States,US,-,Desktop,2022-12-30,,15675.0,0,December,0,34.32,29.5,
+334,United States,US,-,Desktop,2022-12-31,,1332.0,1,December,0,34.32,29.5,
+335,United States,US,-,Desktop,2023-01-01,,614.0,1,January,0,34.32,29.5,
+336,United States,US,-,Desktop,2023-01-02,30473.320000000003,7473.0,0,January,0,34.32,29.5,26193.55885780886
+337,United States,US,-,Desktop,2023-01-03,125141.27999999997,28740.0,0,January,0,34.32,29.5,107566.07692307691
+338,United States,US,-,Desktop,2023-01-04,64934.17999999999,28113.0,0,January,0,34.32,29.5,55814.63607226107
+339,United States,US,-,Desktop,2023-01-05,75541.79999999999,27171.0,0,January,0,34.32,29.5,64932.49125874125
+340,United States,US,-,Desktop,2023-01-06,45515.65999999999,24600.0,0,January,0,34.32,29.5,39123.30914918414
+341,United States,US,-,Desktop,2023-01-07,9613.740000000002,2949.0,1,January,0,34.32,29.5,8263.558566433569
+342,United States,US,-,Desktop,2023-01-08,8240.060000000003,2517.0,1,January,0,34.32,29.5,7082.802156177159
+343,United States,US,-,Desktop,2023-01-09,64925.2,28852.0,0,January,0,34.32,29.5,55806.917249417245
+344,United States,US,-,Desktop,2023-01-10,63362.939999999995,27443.0,0,January,0,34.32,29.5,54464.065559440554
+345,United States,US,-,Desktop,2023-01-11,64665.409999999996,26721.0,0,January,0,34.32,29.5,55583.61290792541
+346,United States,US,-,Desktop,2023-01-12,68426.42,25751.0,0,January,0,34.32,29.5,58816.41579254079
+347,United States,US,-,Desktop,2023-01-13,63184.66000000001,23106.0,0,January,0,34.32,29.5,54310.823717948726
+348,United States,US,-,Desktop,2023-01-14,8659.36,2681.0,1,January,0,34.32,29.5,7443.214452214453
+349,United States,US,-,Desktop,2023-01-15,9675.200000000008,2142.0,1,January,0,34.32,29.5,8316.386946386954
+350,United States,US,-,Desktop,2023-01-16,79679.18000000002,21344.0,0,January,0,34.32,29.5,68488.80565268066
+351,United States,US,-,Desktop,2023-01-17,85915.01999999999,27167.0,0,January,0,34.32,29.5,73848.86625874125
+352,United States,US,-,Desktop,2023-01-18,79923.12,26060.0,0,January,0,34.32,29.5,68698.48601398601
+353,United States,US,-,Desktop,2023-01-19,92905.46999999999,25219.0,0,January,0,34.32,29.5,79857.55725524474
+354,United States,US,-,Desktop,2023-01-20,76706.01000000002,22294.0,0,January,0,34.32,29.5,65933.19624125876
+355,United States,US,-,Desktop,2023-01-21,13768.940000000002,2582.0,1,January,0,34.32,29.5,11835.190268065271
+356,United States,US,-,Desktop,2023-01-22,10461.299999999997,1950.0,1,January,0,34.32,29.5,8992.084790209788
+357,United States,US,-,Desktop,2023-01-23,81048.88000000002,27206.0,0,January,0,34.32,29.5,69666.14102564103
+358,United States,US,-,Desktop,2023-01-24,127931.32000000005,27503.0,0,January,0,34.32,29.5,109964.27564102568
+359,United States,US,-,Desktop,2023-01-25,69160.16,25718.0,0,January,0,34.32,29.5,59447.10722610723
+360,United States,US,-,Desktop,2023-01-26,51483.96000000001,25510.0,0,January,0,34.32,29.5,44253.40384615385
+361,United States,US,-,Desktop,2023-01-27,39917.72,22655.0,0,January,0,34.32,29.5,34311.56002331002
+362,United States,US,-,Desktop,2023-01-28,11571.039999999997,2454.0,1,January,0,34.32,29.5,9945.969696969694
+363,United States,US,-,Desktop,2023-01-29,9127.160000000002,2046.0,1,January,0,34.32,29.5,7845.315268065269
+364,United States,US,-,Desktop,2023-01-30,50964.69999999997,26848.0,0,January,0,34.32,29.5,43807.07022144519
+365,United States,US,-,Desktop,2023-01-31,49441.52,25833.0,0,January,0,34.32,29.5,42497.81002331002
+366,United States,US,-,Desktop,2023-02-01,68239.07000000002,25229.0,0,February,0,34.32,29.5,58655.377768065286
+367,United States,US,-,Desktop,2023-02-02,41000.13999999998,25359.0,0,February,0,34.32,29.5,35241.961829836815
+368,United States,US,-,Desktop,2023-02-03,60133.04,22771.0,0,February,0,34.32,29.5,51687.78205128205
+369,United States,US,-,Desktop,2023-02-04,11497.700000000003,2447.0,1,February,0,34.32,29.5,9882.92977855478
+370,United States,US,-,Desktop,2023-02-05,9891.24,2479.0,1,February,0,34.32,29.5,8502.085664335666
+371,United States,US,-,Desktop,2023-02-06,80127.10000000003,27487.0,0,February,0,34.32,29.5,68873.8184731935
+372,United States,US,-,Desktop,2023-02-07,142726.10000000003,27337.0,0,February,0,34.32,29.5,122681.23397435901
+373,United States,US,-,Desktop,2023-02-08,73911.03999999995,26905.0,0,February,0,34.32,29.5,63530.75990675986
+374,United States,US,-,Desktop,2023-02-09,94687.75999999998,26378.0,0,February,0,34.32,29.5,81389.53729603728
+375,United States,US,-,Desktop,2023-02-10,46363.380000000005,23070.0,0,February,0,34.32,29.5,39851.97290209791
+376,United States,US,-,Desktop,2023-02-11,13040.599999999999,2625.0,1,February,0,34.32,29.5,11209.14044289044
+377,United States,US,-,Desktop,2023-02-12,11992.179999999993,2185.0,1,February,0,34.32,29.5,10307.963578088573
+378,United States,US,-,Desktop,2023-02-13,106726.34000000003,27307.0,0,February,0,34.32,29.5,91737.38432400934
+379,United States,US,-,Desktop,2023-02-14,61528.18,25453.0,0,February,0,34.32,29.5,52886.98455710956
+380,United States,US,-,Desktop,2023-02-15,49913.15999999999,24424.0,0,February,0,34.32,29.5,42903.21153846153
+381,United States,US,-,Desktop,2023-02-16,46694.3,22483.0,0,February,0,34.32,29.5,40136.41754079254
+382,United States,US,-,Desktop,2023-02-17,37270.60000000001,19359.0,0,February,0,34.32,29.5,32036.20920745922
+383,United States,US,-,Desktop,2023-02-18,8221.139999999998,1954.0,1,February,0,34.32,29.5,7066.5393356643335
+384,United States,US,-,Desktop,2023-02-19,7467.640000000002,1339.0,1,February,0,34.32,29.5,6418.863053613055
+385,United States,US,-,Desktop,2023-02-20,35017.479999999996,18723.0,0,February,0,34.32,29.5,30099.52389277389
+386,United States,US,-,Desktop,2023-02-21,41777.54000000002,22846.0,0,February,0,34.32,29.5,35910.18152680655
+387,United States,US,-,Desktop,2023-02-22,45782.65999999999,22359.0,0,February,0,34.32,29.5,39352.81089743589
+388,United States,US,-,Desktop,2023-02-23,42860.34000000001,21409.0,0,February,0,34.32,29.5,36840.909965034974
+389,United States,US,-,Desktop,2023-02-24,47260.39999999998,20735.0,0,February,0,34.32,29.5,40623.0128205128
+390,United States,US,-,Desktop,2023-02-25,13684.599999999999,2630.0,1,February,0,34.32,29.5,11762.69522144522
+391,United States,US,-,Desktop,2023-02-26,13436.099999999999,2128.0,1,February,0,34.32,29.5,11549.095279720279
+392,United States,US,-,Desktop,2023-02-27,76982.33999999998,26622.0,0,February,0,34.32,29.5,66170.71765734264
+393,United States,US,-,Desktop,2023-02-28,65830.65999999999,25932.0,0,February,0,34.32,29.5,56585.21182983682
+394,United States,US,-,Desktop,2023-03-01,50874.28,25598.0,0,March,0,34.32,29.5,43729.34906759907
+395,United States,US,-,Desktop,2023-03-02,47607.30000000001,25502.0,0,March,0,34.32,29.5,40921.19318181819
+396,United States,US,-,Desktop,2023-03-03,46399.619999999995,22268.0,0,March,0,34.32,29.5,39883.12325174824
+397,United States,US,-,Desktop,2023-03-04,13551.059999999998,2367.0,1,March,0,34.32,29.5,11647.909965034962
+398,United States,US,-,Desktop,2023-03-05,12917.459999999997,2232.0,1,March,0,34.32,29.5,11103.294580419579
+399,United States,US,-,Desktop,2023-03-06,67872.6,26941.0,0,March,0,34.32,29.5,58340.37587412588
+400,United States,US,-,Desktop,2023-03-07,57998.32000000001,26320.0,0,March,0,34.32,29.5,49852.8682983683
+401,United States,US,-,Desktop,2023-03-08,52574.940000000024,26619.0,0,March,0,34.32,29.5,45191.16346153848
+402,United States,US,-,Desktop,2023-03-09,50883.38,26447.0,0,March,0,34.32,29.5,43737.17103729604
+403,United States,US,-,Desktop,2023-03-10,68186.10999999999,23427.0,0,March,0,34.32,29.5,58609.85562354311
+404,United States,US,-,Desktop,2023-03-11,15874.94,2781.0,1,March,0,34.32,29.5,13645.417540792541
+405,United States,US,-,Desktop,2023-03-12,14700.099999999999,2306.0,1,March,0,34.32,29.5,12635.575466200466
+406,United States,US,-,Desktop,2023-03-13,134900.98000000004,32030.0,0,March,0,34.32,29.5,115955.09644522148
+407,United States,US,-,Desktop,2023-03-14,43665.43999999999,30087.0,0,March,0,34.32,29.5,37532.939393939385
+408,United States,US,-,Desktop,2023-03-15,42724.62000000001,30743.0,0,March,0,34.32,29.5,36724.25087412588
+409,United States,US,-,Desktop,2023-03-16,50390.380000000005,28206.0,0,March,0,34.32,29.5,43313.409382284386
+410,United States,US,-,Desktop,2023-03-17,39620.26000000002,24698.0,0,March,0,34.32,29.5,34055.87616550118
+411,United States,US,-,Desktop,2023-03-18,11201.999999999996,2579.0,1,March,0,34.32,29.5,9628.758741258738
+412,United States,US,-,Desktop,2023-03-19,9792.980000000003,2228.0,1,March,0,34.32,29.5,8417.625582750585
+413,United States,US,-,Desktop,2023-03-20,54033.68000000001,32774.0,0,March,0,34.32,29.5,46445.033799533805
+414,United States,US,-,Desktop,2023-03-21,88709.46999999999,31522.0,0,March,0,34.32,29.5,76250.85562354312
+415,United States,US,-,Desktop,2023-03-22,76632.81999999999,30870.0,0,March,0,34.32,29.5,65870.28525641025
+416,United States,US,-,Desktop,2023-03-23,44652.46,30134.0,0,March,0,34.32,29.5,38381.33945221445
+417,United States,US,-,Desktop,2023-03-24,60093.16999999999,27222.0,0,March,0,34.32,29.5,51653.511509324
+418,United States,US,-,Desktop,2023-03-25,10402.730000000001,2724.0,1,March,0,34.32,29.5,8941.740530303032
+419,United States,US,-,Desktop,2023-03-26,10828.480000000003,2715.0,1,March,0,34.32,29.5,9307.696969696972
+420,United States,US,-,Desktop,2023-03-27,64427.499999999985,34076.0,0,March,0,34.32,29.5,55379.11567599066
+421,United States,US,-,Desktop,2023-03-28,65900.54,32504.0,0,March,0,34.32,29.5,56645.277680652674
+422,United States,US,-,Desktop,2023-03-29,60188.67999999999,31851.0,0,March,0,34.32,29.5,51735.6078088578
+423,United States,US,-,Desktop,2023-03-30,59970.74000000004,31649.0,0,March,0,34.32,29.5,51548.27593240097
+424,United States,US,-,Desktop,2023-03-31,47289.819999999985,26679.0,0,March,0,34.32,29.5,40648.300990675976
+425,United States,US,-,Desktop,2023-04-01,18632.970000000005,2927.0,1,April,0,34.32,29.5,16016.101835664338
+426,United States,US,-,Desktop,2023-04-02,18797.800000000003,2733.0,1,April,0,34.32,29.5,16157.782634032637
+427,United States,US,-,Desktop,2023-04-03,85375.48000000004,33871.0,0,April,0,34.32,29.5,73385.10081585085
+428,United States,US,-,Desktop,2023-04-04,59011.46,32093.0,0,April,0,34.32,29.5,50723.71998834499
+429,United States,US,-,Desktop,2023-04-05,51708.88000000001,30717.0,0,April,0,34.32,29.5,44446.735431235444
+430,United States,US,-,Desktop,2023-04-06,87401.98999999999,29335.0,0,April,0,34.32,29.5,75127.00189393938
+431,United States,US,-,Desktop,2023-04-07,41822.95999999999,19618.0,0,April,0,34.32,29.5,35949.22261072261
+432,United States,US,-,Desktop,2023-04-08,14056.289999999999,2271.0,1,April,0,34.32,29.5,12082.184003496503
+433,United States,US,-,Desktop,2023-04-09,11178.83,1531.0,1,April,0,34.32,29.5,9608.842803030302
+434,United States,US,-,Desktop,2023-04-10,95989.51000000002,30401.0,0,April,0,34.32,29.5,82508.46576340329
+435,United States,US,-,Desktop,2023-04-11,53716.640000000014,30512.0,0,April,0,34.32,29.5,46172.51981351982
+436,United States,US,-,Desktop,2023-04-12,52331.16000000001,29433.0,0,April,0,34.32,29.5,44981.620629370635
+437,United States,US,-,Desktop,2023-04-13,54329.8,27101.0,0,April,0,34.32,29.5,46699.56585081585
+438,United States,US,-,Desktop,2023-04-14,51327.47999999998,22474.0,0,April,0,34.32,29.5,44118.900349650336
+439,United States,US,-,Desktop,2023-04-15,12508.750000000004,2321.0,1,April,0,34.32,29.5,10751.984994172497
+440,United States,US,-,Desktop,2023-04-16,12728.070000000002,2308.0,1,April,0,34.32,29.5,10940.503059440562
+441,United States,US,-,Desktop,2023-04-17,97951.51000000001,27104.0,0,April,0,34.32,29.5,84194.91681235432
+442,United States,US,-,Desktop,2023-04-18,50371.73999999998,26867.0,0,April,0,34.32,29.5,43297.387237762225
+443,United States,US,-,Desktop,2023-04-19,72187.11,26023.0,0,April,0,34.32,29.5,62048.94361888112
+444,United States,US,-,Desktop,2023-04-20,46070.700000000004,25560.0,0,April,0,34.32,29.5,39600.39772727273
+445,United States,US,-,Desktop,2023-04-21,42025.979999999996,21908.0,0,April,0,34.32,29.5,36123.729895104894
+446,United States,US,-,Desktop,2023-04-22,15866.099999999999,2209.0,1,April,0,34.32,29.5,13637.819055944054
+447,United States,US,-,Desktop,2023-04-23,15004.000000000005,2123.0,1,April,0,34.32,29.5,12896.794871794877
+448,United States,US,-,Desktop,2023-04-24,52877.79999999998,26244.0,0,April,0,34.32,29.5,45451.48892773891
+449,United States,US,-,Desktop,2023-04-25,53946.74,26222.0,0,April,0,34.32,29.5,46370.303904428896
+450,United States,US,-,Desktop,2023-04-26,51481.12000000002,26233.0,0,April,0,34.32,29.5,44250.962703962716
+451,United States,US,-,Desktop,2023-04-27,50546.619999999995,25101.0,0,April,0,34.32,29.5,43447.70658508158
+452,United States,US,-,Desktop,2023-04-28,69039.51000000001,22242.0,0,April,0,34.32,29.5,59343.40166083917
+453,United States,US,-,Desktop,2023-04-29,14721.14,2497.0,1,April,0,34.32,29.5,12653.660547785548
+454,United States,US,-,Desktop,2023-04-30,17178.34,2650.0,1,April,0,34.32,29.5,14765.764277389279
+455,United States,US,-,Desktop,2023-05-01,51241.7,27449.0,0,May,0,34.32,29.5,44045.167540792536
+456,United States,US,-,Desktop,2023-05-02,82423.29,26528.0,0,May,0,34.32,29.5,70847.5249125874
+457,United States,US,-,Desktop,2023-05-03,49927.92000000001,26664.0,0,May,0,34.32,29.5,42915.898601398614
+458,United States,US,-,Desktop,2023-05-04,51317.799999999996,25477.0,0,May,0,34.32,29.5,44110.579836829835
+459,United States,US,-,Desktop,2023-05-05,48352.98000000002,21647.0,0,May,0,34.32,29.5,41562.14772727274
+460,United States,US,-,Desktop,2023-05-06,15610.450000000003,2162.0,1,May,0,34.32,29.5,13418.073280885783
+461,United States,US,-,Desktop,2023-05-07,15478.62,2042.0,1,May,0,34.32,29.5,13304.757867132868
+462,United States,US,-,Desktop,2023-05-08,66749.08,27024.0,0,May,0,34.32,29.5,57374.646270396275
+463,United States,US,-,Desktop,2023-05-09,83045.56,27008.0,0,May,0,34.32,29.5,71382.40151515152
+464,United States,US,-,Desktop,2023-05-10,39495.79999999999,26124.0,0,May,0,34.32,29.5,33948.89568764568
+465,United States,US,-,Desktop,2023-05-11,41457.52000000001,25885.0,0,May,0,34.32,29.5,35635.10606060607
+466,United States,US,-,Desktop,2023-05-12,40714.87999999998,21891.0,0,May,0,34.32,29.5,34996.764568764556
+467,United States,US,-,Desktop,2023-05-13,18444.659999999996,2312.0,1,May,0,34.32,29.5,15854.238636363632
+468,United States,US,-,Desktop,2023-05-14,18773.43999999999,1647.0,1,May,0,34.32,29.5,16136.843822843815
+469,United States,US,-,Desktop,2023-05-15,48009.53999999999,26498.0,0,May,0,34.32,29.5,41266.941433566426
+470,United States,US,-,Desktop,2023-05-16,46792.079999999994,26469.0,0,May,0,34.32,29.5,40220.46503496503
+471,United States,US,-,Desktop,2023-05-17,41591.339999999975,25748.0,0,May,0,34.32,29.5,35750.13199300697
+472,United States,US,-,Desktop,2023-05-18,42455.659999999996,25634.0,0,May,0,34.32,29.5,36493.06439393939
+473,United States,US,-,Desktop,2023-05-19,39494.70000000002,21507.0,0,May,0,34.32,29.5,33947.95017482519
+474,United States,US,-,Desktop,2023-05-20,17536.97,2000.0,1,May,0,34.32,29.5,15074.027243589744
+475,United States,US,-,Desktop,2023-05-21,16602.899999999998,1957.0,1,May,0,34.32,29.5,14271.140734265731
+476,United States,US,-,Desktop,2023-05-22,78738.23000000001,27147.0,0,May,0,34.32,29.5,67680.0053904429
+477,United States,US,-,Desktop,2023-05-23,72128.46999999997,27064.0,0,May,0,34.32,29.5,61998.53918997667
+478,United States,US,-,Desktop,2023-05-24,44010.919999999984,26374.0,0,May,0,34.32,29.5,37829.899184149166
+479,United States,US,-,Desktop,2023-05-25,48216.540000000015,25443.0,0,May,0,34.32,29.5,41444.86975524477
+480,United States,US,-,Desktop,2023-05-26,45570.19999999998,19371.0,0,May,0,34.32,29.5,39170.18939393938
+481,United States,US,-,Desktop,2023-05-27,132.3,1259.0,1,May,0,34.32,29.5,113.7194055944056
+482,United States,US,-,Desktop,2023-05-28,1.42,645.0,1,May,0,34.32,29.5,1.2205710955710956
+483,United States,US,-,Desktop,2023-05-29,17027.600000000002,2838.0,0,May,0,34.32,29.5,14636.19463869464
+484,United States,US,-,Desktop,2023-05-30,19688.46,23274.0,0,May,0,34.32,29.5,16923.355769230766
+485,United States,US,-,Desktop,2023-05-31,70894.29,23564.0,0,May,0,34.32,29.5,60937.69099650349
+486,United States,US,-,Desktop,2023-06-01,110190.03999999998,24782.0,0,June,0,34.32,29.5,94714.63228438226
+487,United States,US,-,Desktop,2023-06-02,90227.7,21377.0,0,June,0,34.32,29.5,77555.86101398601
+488,United States,US,-,Desktop,2023-06-03,18998.779999999988,1994.0,1,June,0,34.32,29.5,16330.536421911413
+489,United States,US,-,Desktop,2023-06-04,16985.97,2043.0,1,June,0,34.32,29.5,14600.411276223778
+490,United States,US,-,Desktop,2023-06-05,87002.58,25683.0,0,June,0,34.32,29.5,74783.68618881119
+491,United States,US,-,Desktop,2023-06-06,67997.96,25273.0,0,June,0,34.32,29.5,58448.12995337996
+492,United States,US,-,Desktop,2023-06-07,57029.36000000002,24827.0,0,June,0,34.32,29.5,49019.99184149186
+493,United States,US,-,Desktop,2023-06-08,93294.98999999996,25185.0,0,June,0,34.32,29.5,80192.3719405594
+494,United States,US,-,Desktop,2023-06-09,82440.09000000003,21372.0,0,June,0,34.32,29.5,70861.965472028
+495,United States,US,-,Desktop,2023-06-10,15659.06,2226.0,1,June,0,34.32,29.5,13459.85635198135
+496,United States,US,-,Desktop,2023-06-11,16316.760000000004,1962.0,1,June,0,34.32,29.5,14025.187062937066
+497,United States,US,-,Desktop,2023-06-12,91103.26,26668.0,0,June,0,34.32,29.5,78308.45483682983
+498,United States,US,-,Desktop,2023-06-13,66881.32,28168.0,0,June,0,34.32,29.5,57488.31410256411
+499,United States,US,-,Desktop,2023-06-14,59149.28,26643.0,0,June,0,34.32,29.5,50842.18414918415
+500,United States,US,-,Desktop,2023-06-15,63220.68000000002,25518.0,0,June,0,34.32,29.5,54341.78496503499
+501,United States,US,-,Desktop,2023-06-16,54596.880000000005,22242.0,0,June,0,34.32,29.5,46929.13636363637
+502,United States,US,-,Desktop,2023-06-17,12564.720000000005,2212.0,1,June,0,34.32,29.5,10800.094405594411
+503,United States,US,-,Desktop,2023-06-18,11452.22,1413.0,1,June,0,34.32,29.5,9843.83712121212
+504,United States,US,-,Desktop,2023-06-19,111364.26999999997,22836.0,0,June,0,34.32,29.5,95723.95002913752
+505,United States,US,-,Desktop,2023-06-20,112159.97000000006,26055.0,0,June,0,34.32,29.5,96407.89962121217
+506,United States,US,-,Desktop,2023-06-21,49507.50000000001,25598.0,0,June,0,34.32,29.5,42554.52360139861
+507,United States,US,-,Desktop,2023-06-22,53252.159999999996,24890.0,0,June,0,34.32,29.5,45773.27272727273
+508,United States,US,-,Desktop,2023-06-23,79988.58000000002,20506.0,0,June,0,34.32,29.5,68754.75262237764
+509,United States,US,-,Desktop,2023-06-24,17318.500000000004,2234.0,1,June,0,34.32,29.5,14886.239801864805
+510,United States,US,-,Desktop,2023-06-25,16965.989999999998,1844.0,1,June,0,34.32,29.5,14583.237325174823
+511,United States,US,-,Desktop,2023-06-26,75326.21999999994,26620.0,0,June,0,34.32,29.5,64747.18793706289
+512,United States,US,-,Desktop,2023-06-27,72479.82,26429.0,0,June,0,34.32,29.5,62300.54458041959
+513,United States,US,-,Desktop,2023-06-28,88959.74000000002,26507.0,0,June,0,34.32,29.5,76465.976981352
+514,United States,US,-,Desktop,2023-06-29,54064.56000000002,26735.0,0,June,0,34.32,29.5,46471.57692307694
+515,United States,US,-,Desktop,2023-06-30,71455.50000000001,22712.0,0,June,0,34.32,29.5,61420.08304195805
+516,United States,US,-,Desktop,2023-07-01,18456.92,2111.0,1,July,0,34.32,29.5,15864.776806526803
+517,United States,US,-,Desktop,2023-07-02,16010.820000000002,1270.0,1,July,0,34.32,29.5,13762.214160839163
+518,United States,US,-,Desktop,2023-07-03,62600.32000000001,14944.0,0,July,0,34.32,29.5,53808.55011655012
+519,United States,US,-,Desktop,2023-07-04,23086.039999999997,2076.0,0,July,0,34.32,29.5,19843.76981351981
+520,United States,US,-,Desktop,2023-07-05,124875.47999999995,26491.0,0,July,0,34.32,29.5,107337.6066433566
+521,United States,US,-,Desktop,2023-07-06,61951.54,26281.0,0,July,0,34.32,29.5,53250.88665501165
+522,United States,US,-,Desktop,2023-07-07,55912.44000000001,21997.0,0,July,0,34.32,29.5,48059.93531468532
+523,United States,US,-,Desktop,2023-07-08,15530.759999999997,2425.0,1,July,0,34.32,29.5,13349.575174825173
+524,United States,US,-,Desktop,2023-07-09,13921.58,2145.0,1,July,0,34.32,29.5,11966.393065268065
+525,United States,US,-,Desktop,2023-07-10,73264.74,26570.0,0,July,0,34.32,29.5,62975.22814685315
+526,United States,US,-,Desktop,2023-07-11,70817.78000000001,26242.0,0,July,0,34.32,29.5,60871.926282051296
+527,United States,US,-,Desktop,2023-07-12,86897.93000000001,25405.0,0,July,0,34.32,29.5,74693.73353729604
+528,United States,US,-,Desktop,2023-07-13,58552.320000000014,24911.0,0,July,0,34.32,29.5,50329.06293706295
+529,United States,US,-,Desktop,2023-07-14,57090.020000000004,21347.0,0,July,0,34.32,29.5,49072.132575757576
+530,United States,US,-,Desktop,2023-07-15,14093.7,2031.0,1,July,0,34.32,29.5,12114.340034965035
+531,United States,US,-,Desktop,2023-07-16,14756.26,1838.0,1,July,0,34.32,29.5,12683.848193473194
+532,United States,US,-,Desktop,2023-07-17,109955.58000000002,25208.0,0,July,0,34.32,29.5,94513.10052447554
+533,United States,US,-,Desktop,2023-07-18,61881.25999999998,24946.0,0,July,0,34.32,29.5,53190.47698135197
+534,United States,US,-,Desktop,2023-07-19,55048.06000000003,24445.0,0,July,0,34.32,29.5,47316.95134032636
+535,United States,US,-,Desktop,2023-07-20,73422.01000000001,23623.0,0,July,0,34.32,29.5,63110.410693473204
+536,United States,US,-,Desktop,2023-07-21,42121.100000000006,20130.0,0,July,0,34.32,29.5,36205.49096736597
+537,United States,US,-,Desktop,2023-07-22,11299.879999999997,1780.0,1,July,0,34.32,29.5,9712.892191142188
+538,United States,US,-,Desktop,2023-07-23,11096.509999999997,1697.0,1,July,0,34.32,29.5,9538.08406177156
+539,United States,US,-,Desktop,2023-07-24,71190.64000000001,23741.0,0,July,0,34.32,29.5,61192.420745920754
+540,United States,US,-,Desktop,2023-07-25,54187.51999999999,24285.0,0,July,0,34.32,29.5,46577.26806526805
+541,United States,US,-,Desktop,2023-07-26,52596.100000000006,24380.0,0,July,0,34.32,29.5,45209.3516899767
+542,United States,US,-,Desktop,2023-07-27,53307.02000000001,23500.0,0,July,0,34.32,29.5,45820.42803030304
+543,United States,US,-,Desktop,2023-07-28,49384.939999999995,19605.0,0,July,0,34.32,29.5,42449.176282051274
+544,United States,US,-,Desktop,2023-07-29,14012.82,1764.0,1,July,0,34.32,29.5,12044.819055944055
+545,United States,US,-,Desktop,2023-07-30,14789.680000000004,1340.0,1,July,0,34.32,29.5,12712.574592074596
+546,United States,US,-,Desktop,2023-07-31,72161.12000000001,23361.0,0,July,0,34.32,29.5,62026.60372960375
+547,United States,US,-,Desktop,2023-08-01,95699.01000000002,22915.0,0,August,0,34.32,29.5,82258.76442307695
+548,United States,US,-,Desktop,2023-08-02,91687.93,22709.0,0,August,0,34.32,29.5,78811.01209207458
+549,United States,US,-,Desktop,2023-08-03,93409.85000000002,22349.0,0,August,0,34.32,29.5,80291.10067016318
+550,United States,US,-,Desktop,2023-08-04,51415.87999999999,18944.0,0,August,0,34.32,29.5,44194.88519813519
+551,United States,US,-,Desktop,2023-08-05,13425.439999999995,1920.0,1,August,0,34.32,29.5,11539.932400932397
+552,United States,US,-,Desktop,2023-08-06,12665.859999999995,1590.0,1,August,0,34.32,29.5,10887.030011655008
+553,United States,US,-,Desktop,2023-08-07,75828.50000000004,23290.0,0,August,0,34.32,29.5,65178.926282051325
+554,United States,US,-,Desktop,2023-08-08,66749.26,23217.0,0,August,0,34.32,29.5,57374.80099067599
+555,United States,US,-,Desktop,2023-08-09,61386.54,23327.0,0,August,0,34.32,29.5,52765.23688811189
+556,United States,US,-,Desktop,2023-08-10,58598.18000000003,23156.0,0,August,0,34.32,29.5,50368.48222610725
+557,United States,US,-,Desktop,2023-08-11,56676.1,19384.0,0,August,0,34.32,29.5,48716.344696969696
+558,United States,US,-,Desktop,2023-08-12,14737.33,1742.0,1,August,0,34.32,29.5,12667.576777389277
+559,United States,US,-,Desktop,2023-08-13,16927.96,1519.0,1,August,0,34.32,29.5,14550.548368298367
+560,United States,US,-,Desktop,2023-08-14,78610.54000000001,23462.0,0,August,0,34.32,29.5,67570.24854312355
+561,United States,US,-,Desktop,2023-08-15,61694.92000000001,23638.0,0,August,0,34.32,29.5,53030.30710955712
+562,United States,US,-,Desktop,2023-08-16,59587.90000000001,23431.0,0,August,0,34.32,29.5,51219.2030885781
+563,United States,US,-,Desktop,2023-08-17,58399.599999999984,23095.0,0,August,0,34.32,29.5,50197.79137529136
+564,United States,US,-,Desktop,2023-08-18,47678.719999999994,19564.0,0,August,0,34.32,29.5,40982.58275058274
+565,United States,US,-,Desktop,2023-08-19,12941.059999999998,2067.0,1,August,0,34.32,29.5,11123.580128205125
+566,United States,US,-,Desktop,2023-08-20,15213.36,1578.0,1,August,0,34.32,29.5,13076.751748251749
+567,United States,US,-,Desktop,2023-08-21,87286.85999999999,24054.0,0,August,0,34.32,29.5,75028.04108391608
+568,United States,US,-,Desktop,2023-08-22,50311.859999999986,23488.0,0,August,0,34.32,29.5,43245.91695804195
+569,United States,US,-,Desktop,2023-08-23,71023.63000000002,23385.0,0,August,0,34.32,29.5,61048.866113053635
+570,United States,US,-,Desktop,2023-08-24,69245.68999999999,23064.0,0,August,0,34.32,29.5,59520.625145687634
+571,United States,US,-,Desktop,2023-08-25,43512.979999999996,20208.0,0,August,0,34.32,29.5,37401.891317016314
+572,United States,US,-,Desktop,2023-08-26,12994.720000000003,2322.0,1,August,0,34.32,29.5,11169.703962703965
+573,United States,US,-,Desktop,2023-08-27,11080.160000000002,1739.0,1,August,0,34.32,29.5,9524.030303030304
+574,United States,US,-,Desktop,2023-08-28,72753.58,24348.0,0,August,0,34.32,29.5,62535.85693473193
+575,United States,US,-,Desktop,2023-08-29,97216.21,24151.0,0,August,0,34.32,29.5,83562.88446969698
+576,United States,US,-,Desktop,2023-08-30,52689.500000000015,23686.0,0,August,0,34.32,29.5,45289.634324009334
+577,United States,US,-,Desktop,2023-08-31,47949.79999999999,23994.0,0,August,0,34.32,29.5,41215.59149184148
+578,United States,US,-,Desktop,2023-09-01,43155.12,18903.0,0,September,0,34.32,29.5,37094.29020979021
+579,United States,US,-,Desktop,2023-09-02,19.8,1150.0,1,September,0,34.32,29.5,17.01923076923077
+580,United States,US,-,Desktop,2023-09-03,19.8,556.0,1,September,0,34.32,29.5,17.01923076923077
+581,United States,US,-,Desktop,2023-09-04,19.8,1888.0,0,September,0,34.32,29.5,17.01923076923077
+582,United States,US,-,Desktop,2023-09-05,59364.06000000001,24959.0,0,September,0,34.32,29.5,51026.79982517483
+583,United States,US,-,Desktop,2023-09-06,65230.860000000015,24500.0,0,September,0,34.32,29.5,56069.649475524486
+584,United States,US,-,Desktop,2023-09-07,58160.96000000001,23936.0,0,September,0,34.32,29.5,49992.66666666667
+585,United States,US,-,Desktop,2023-09-08,55742.759999999995,20654.0,0,September,0,34.32,29.5,47914.08566433566
+586,United States,US,-,Desktop,2023-09-09,13625.420000000002,2093.0,1,September,0,34.32,29.5,11711.826631701633
+587,United States,US,-,Desktop,2023-09-10,13369.93,1720.0,1,September,0,34.32,29.5,11492.218385780885
+588,United States,US,-,Desktop,2023-09-11,84600.8,24551.0,0,September,0,34.32,29.5,72719.21911421911
+589,United States,US,-,Desktop,2023-09-12,81590.24000000002,24154.0,0,September,0,34.32,29.5,70131.47086247087
+590,United States,US,-,Desktop,2023-09-13,69994.22000000003,24019.0,0,September,0,34.32,29.5,60164.029428904454
+591,United States,US,-,Desktop,2023-09-14,73796.71999999997,23320.0,0,September,0,34.32,29.5,63432.495337995315
+592,United States,US,-,Desktop,2023-09-15,64079.59999999999,19943.0,0,September,0,34.32,29.5,55080.07575757575
+593,United States,US,-,Desktop,2023-09-16,14471.350000000004,1986.0,1,September,0,34.32,29.5,12438.95177738928
+594,United States,US,-,Desktop,2023-09-17,11138.159999999996,1591.0,1,September,0,34.32,29.5,9573.884615384613
+595,United States,US,-,Desktop,2023-09-18,79792.14000000003,24165.0,0,September,0,34.32,29.5,68585.90122377625
+596,United States,US,-,Desktop,2023-09-19,92941.06000000001,24777.0,0,September,0,34.32,29.5,79888.14889277391
+597,United States,US,-,Desktop,2023-09-20,123558.95000000001,24409.0,0,September,0,34.32,29.5,106205.97392191143
+598,United States,US,-,Desktop,2023-09-21,111960.82999999997,23752.0,0,September,0,34.32,29.5,96236.7274184149
+599,United States,US,-,Desktop,2023-09-22,61661.880000000005,20322.0,0,September,0,34.32,29.5,53001.907342657345
+600,United States,US,-,Desktop,2023-09-23,13284.379999999997,2205.0,1,September,0,34.32,29.5,11418.683275058273
+601,United States,US,-,Desktop,2023-09-24,11981.100000000002,1629.0,1,September,0,34.32,29.5,10298.439685314686
+602,United States,US,-,Desktop,2023-09-25,84905.5,23676.0,0,September,0,34.32,29.5,72981.12616550116
+603,United States,US,-,Desktop,2023-09-26,95818.73999999998,24560.0,0,September,0,34.32,29.5,82361.67919580417
+604,United States,US,-,Desktop,2023-09-27,83987.12000000002,23946.0,0,September,0,34.32,29.5,72191.72610722612
+605,United States,US,-,Desktop,2023-09-28,79325.90000000004,23883.0,0,September,0,34.32,29.5,68185.14131701636
+606,United States,US,-,Desktop,2023-09-29,58962.15999999999,20079.0,0,September,0,34.32,29.5,50681.34382284382
+607,United States,US,-,Desktop,2023-09-30,1009.16,1383.0,1,September,0,34.32,29.5,867.4306526806527
+608,United States,US,-,Desktop,2023-10-01,10904.160000000003,1590.0,1,October,0,34.32,29.5,9372.748251748255
+609,United States,US,-,Desktop,2023-10-02,80128.14000000001,23705.0,0,October,0,34.32,29.5,68874.71241258743
+610,United States,US,-,Desktop,2023-10-03,84948.40000000002,23642.0,0,October,0,34.32,29.5,73018.00116550119
+611,United States,US,-,Desktop,2023-10-04,74560.24,23390.0,0,October,0,34.32,29.5,64088.784382284386
+612,United States,US,-,Desktop,2023-10-05,69709.11999999995,23214.0,0,October,0,34.32,29.5,59918.96969696966
+613,United States,US,-,Desktop,2023-10-06,61929.35999999998,19625.0,0,October,0,34.32,29.5,53231.82167832166
+614,United States,US,-,Desktop,2023-10-07,12612.299999999997,1818.0,1,October,0,34.32,29.5,10840.99213286713
+615,United States,US,-,Desktop,2023-10-08,9251.810000000001,1441.0,1,October,0,34.32,29.5,7952.459061771562
+616,United States,US,-,Desktop,2023-10-09,70013.98000000003,20864.0,0,October,0,34.32,29.5,60181.0142773893
+617,United States,US,-,Desktop,2023-10-10,83805.98,24005.0,0,October,0,34.32,29.5,72036.02593240092
+618,United States,US,-,Desktop,2023-10-11,102726.51999999999,24107.0,0,October,0,34.32,29.5,88299.31060606061
+619,United States,US,-,Desktop,2023-10-12,74181.50000000004,23122.0,0,October,0,34.32,29.5,63763.23572261076
+620,United States,US,-,Desktop,2023-10-13,56493.48,20104.0,0,October,0,34.32,29.5,48559.372377622385
+621,United States,US,-,Desktop,2023-10-14,10399.009999999997,1850.0,1,October,0,34.32,29.5,8938.542977855475
+622,United States,US,-,Desktop,2023-10-15,7945.659999999999,1515.0,1,October,0,34.32,29.5,6829.748543123542
+623,United States,US,-,Desktop,2023-10-16,56584.62000000001,22594.0,0,October,0,34.32,29.5,48637.71241258742
+624,United States,US,-,Desktop,2023-10-17,71807.26000000002,22356.0,0,October,0,34.32,29.5,61722.440850815874
+625,United States,US,-,Desktop,2023-10-18,69242.79999999996,22762.0,0,October,0,34.32,29.5,59518.14102564099
+626,United States,US,-,Desktop,2023-10-19,56503.00000000004,22050.0,0,October,0,34.32,29.5,48567.55536130539
+627,United States,US,-,Desktop,2023-10-20,49212.29999999998,18067.0,0,October,0,34.32,29.5,42300.78234265732
+628,United States,US,-,Desktop,2023-10-21,9077.220000000003,1861.0,1,October,0,34.32,29.5,7802.388986013989
+629,United States,US,-,Desktop,2023-10-22,7292.4400000000005,1376.0,1,October,0,34.32,29.5,6268.2686480186485
+630,United States,US,-,Desktop,2023-10-23,82885.16000000002,21890.0,0,October,0,34.32,29.5,71244.52855477858
+631,United States,US,-,Desktop,2023-10-24,61217.44000000001,22645.0,0,October,0,34.32,29.5,52619.88578088579
+632,United States,US,-,Desktop,2023-10-25,62643.57999999998,22703.0,0,October,0,34.32,29.5,53845.734557109536
+633,United States,US,-,Desktop,2023-10-26,66641.27999999998,22192.0,0,October,0,34.32,29.5,57281.986013986
+634,United States,US,-,Desktop,2023-10-27,93249.97999999995,18724.0,0,October,0,34.32,29.5,80153.68327505824
+635,United States,US,-,Desktop,2023-10-28,11602.050000000003,1670.0,1,October,0,34.32,29.5,9972.624562937066
+636,United States,US,-,Desktop,2023-10-29,12060.909999999996,1873.0,1,October,0,34.32,29.5,10367.040938228436
+637,United States,US,-,Desktop,2023-10-30,147651.28,22772.0,0,October,0,34.32,29.5,126914.70745920745
+638,United States,US,-,Desktop,2023-10-31,167339.78999999992,22731.0,0,October,0,34.32,29.5,143838.10620629365
+639,United States,US,-,Desktop,2023-11-01,113352.96000000002,21718.0,0,November,0,34.32,29.5,97433.34265734268
+640,United States,US,-,Desktop,2023-11-02,92973.37999999999,22769.0,0,November,0,34.32,29.5,79915.92977855477
+641,United States,US,-,Desktop,2023-11-03,95540.54000000001,19403.0,0,November,0,34.32,29.5,82122.55040792542
+642,United States,US,-,Desktop,2023-11-04,22536.760000000002,1963.0,1,November,0,34.32,29.5,19371.632284382285
+643,United States,US,-,Desktop,2023-11-05,21642.32,1904.0,1,November,0,34.32,29.5,18602.810023310023
+644,United States,US,-,Desktop,2023-11-06,133362.5,23731.0,0,November,0,34.32,29.5,114632.68502331003
+645,United States,US,-,Desktop,2023-11-07,149462.78,23744.0,0,November,0,34.32,29.5,128471.79516317016
+646,United States,US,-,Desktop,2023-11-08,146285.2,23654.0,0,November,0,34.32,29.5,125740.48368298369
+647,United States,US,-,Desktop,2023-11-09,120750.96000000002,23438.0,0,November,0,34.32,29.5,103792.34615384617
+648,United States,US,-,Desktop,2023-11-10,96857.42000000004,18259.0,0,November,0,34.32,29.5,83254.483974359
+649,United States,US,-,Desktop,2023-11-11,21305.440000000002,2125.0,1,November,0,34.32,29.5,18313.242424242428
+650,United States,US,-,Desktop,2023-11-12,19040.799999999996,1778.0,1,November,0,34.32,29.5,16366.655011655008
+651,United States,US,-,Desktop,2023-11-13,116869.81999999996,24089.0,0,November,0,34.32,29.5,100456.28467365964
+652,United States,US,-,Desktop,2023-11-14,183420.59,23708.0,0,November,0,34.32,29.5,157660.47217365968
+653,United States,US,-,Desktop,2023-11-15,179594.99000000005,24348.0,0,November,0,34.32,29.5,154372.15049533802
+654,United States,US,-,Desktop,2023-11-16,113467.18,24159.0,0,November,0,34.32,29.5,97531.52127039626
+655,United States,US,-,Desktop,2023-11-17,104506.76000000001,21264.0,0,November,0,34.32,29.5,89829.52855477856
+656,United States,US,-,Desktop,2023-11-18,25146.980000000003,2320.0,1,November,0,34.32,29.5,21615.265442890446
+657,United States,US,-,Desktop,2023-11-19,24200.28,2042.0,1,November,0,34.32,29.5,20801.522727272728
+658,United States,US,-,Desktop,2023-11-20,152496.4,25782.0,0,November,0,34.32,29.5,131079.3648018648
+659,United States,US,-,Desktop,2023-11-21,134285.72,25748.0,0,November,0,34.32,29.5,115426.24533799534
+660,United States,US,-,Desktop,2023-11-22,103218.22000000003,19215.0,0,November,0,34.32,29.5,88721.95483682986
+661,United States,US,-,Desktop,2023-11-23,112.1,604.0,0,November,0,34.32,29.5,96.35635198135198
+662,United States,US,-,Desktop,2023-11-24,52104.08,6185.0,0,November,0,34.32,29.5,44786.432400932405
+663,United States,US,-,Desktop,2023-11-25,32652.04,2339.0,1,November,0,34.32,29.5,28066.293123543124
+664,United States,US,-,Desktop,2023-11-26,32639.560000000005,2975.0,1,November,0,34.32,29.5,28055.565850815856
+665,United States,US,-,Desktop,2023-11-27,173665.74,27786.0,0,November,0,34.32,29.5,149275.6215034965
+666,United States,US,-,Desktop,2023-11-28,142177.79999999996,27393.0,0,November,0,34.32,29.5,122209.93881118877
+667,United States,US,-,Desktop,2023-11-29,122792.12000000001,26012.0,0,November,0,34.32,29.5,105546.83974358976
+668,United States,US,-,Desktop,2023-11-30,129887.04000000004,25844.0,0,November,0,34.32,29.5,111645.32867132871
+669,United States,US,-,Desktop,2023-12-01,166718.99999999997,22132.0,0,December,0,34.32,29.5,143304.50174825173
+670,United States,US,-,Desktop,2023-12-02,33765.88,3127.0,1,December,0,34.32,29.5,29023.702214452213
+671,United States,US,-,Desktop,2023-12-03,30579.120000000003,3095.0,1,December,0,34.32,29.5,26284.5
+672,United States,US,-,Desktop,2023-12-04,159833.64000000004,27404.0,0,December,0,34.32,29.5,137386.14160839163
+673,United States,US,-,Desktop,2023-12-05,145100.16000000003,27795.0,0,December,0,34.32,29.5,124721.87412587415
+674,United States,US,-,Desktop,2023-12-06,185676.83999999994,28025.0,0,December,0,34.32,29.5,159599.84790209786
+675,United States,US,-,Desktop,2023-12-07,115010.79999999996,28016.0,0,December,0,34.32,29.5,98858.35081585078
+676,United States,US,-,Desktop,2023-12-08,148888.05000000005,24396.0,0,December,0,34.32,29.5,127977.78190559444
+677,United States,US,-,Desktop,2023-12-09,25732.139999999985,3858.0,1,December,0,34.32,29.5,22118.243881118866
+678,United States,US,-,Desktop,2023-12-10,27411.19999999999,3928.0,1,December,0,34.32,29.5,23561.491841491832
+679,United States,US,-,Desktop,2023-12-11,185376.41999999998,31468.0,0,December,0,34.32,29.5,159341.61975524476
+680,United States,US,-,Desktop,2023-12-12,109654.34000000003,31791.0,0,December,0,34.32,29.5,94254.16754079256
+681,United States,US,-,Desktop,2023-12-13,111945.79999999997,32198.0,0,December,0,34.32,29.5,96223.80827505825
+682,United States,US,-,Desktop,2023-12-14,102909.62000000002,31993.0,0,December,0,34.32,29.5,88456.69551282053
+683,United States,US,-,Desktop,2023-12-15,64160.080000000016,28453.0,0,December,0,34.32,29.5,55149.25291375293
+684,United States,US,-,Desktop,2023-12-16,17296.260000000002,5251.0,1,December,0,34.32,29.5,14867.123251748253
+685,United States,US,-,Desktop,2023-12-17,15467.0,4601.0,1,December,0,34.32,29.5,13294.769813519813
+686,United States,US,-,Desktop,2023-12-18,53992.700000000004,33760.0,0,December,0,34.32,29.5,46409.809149184155
+687,United States,US,-,Desktop,2023-12-19,58978.500000000015,29114.0,0,December,0,34.32,29.5,50695.388986014
+688,United States,US,-,Desktop,2023-12-20,35977.92000000001,26916.0,0,December,0,34.32,29.5,30925.076923076933
+689,United States,US,-,Desktop,2023-12-21,34773.37999999998,22685.0,0,December,0,34.32,29.5,29889.706002330986
+690,United States,US,-,Desktop,2023-12-22,28779.080000000005,14243.0,0,December,0,34.32,29.5,24737.262820512824
+691,United States,US,-,Desktop,2023-12-23,11253.099999999999,1991.0,1,December,0,34.32,29.5,9672.682109557109
+692,United States,US,-,Desktop,2023-12-24,27.52,315.0,1,December,0,34.32,29.5,23.655011655011656
+693,United States,US,-,Desktop,2023-12-25,27.52,338.0,0,December,0,34.32,29.5,23.655011655011656
+694,United States,US,-,Desktop,2023-12-26,33669.899999999994,11454.0,0,December,0,34.32,29.5,28941.20192307692
+695,United States,US,-,Desktop,2023-12-27,36862.50000000001,16224.0,0,December,0,34.32,29.5,31685.423951048957
+696,United States,US,-,Desktop,2023-12-28,14074.74,14054.0,0,December,0,34.32,29.5,12098.042832167832
+697,United States,US,-,Desktop,2023-12-29,14074.74,9331.0,0,December,0,34.32,29.5,12098.042832167832
+698,United States,US,-,Desktop,2023-12-30,14074.74,1049.0,1,December,0,34.32,29.5,12098.042832167832
+699,United States,US,-,Desktop,2023-12-31,14074.74,320.0,1,December,0,34.32,29.5,12098.042832167832
+700,United States,US,-,Desktop,2024-01-01,5118.06,1137.0,0,January,0,34.32,29.5,4399.2648601398605
+701,United States,US,-,Desktop,2024-01-02,15189.079999999998,15526.0,0,January,0,34.32,29.5,13055.881701631699
+702,United States,US,-,Desktop,2024-01-03,48112.759999999995,17479.0,0,January,0,34.32,29.5,41355.664918414914
+703,United States,US,-,Desktop,2024-01-04,48147.50000000001,17972.0,0,January,0,34.32,29.5,41385.52593240094
+704,United States,US,-,Desktop,2024-01-05,61493.28,16192.0,0,January,0,34.32,29.5,52856.98601398601
+705,United States,US,-,Desktop,2024-01-06,19056.96,1876.0,1,January,0,34.32,29.5,16380.545454545452
+706,United States,US,-,Desktop,2024-01-07,18707.040000000005,1517.0,1,January,0,34.32,29.5,16079.769230769236
+707,United States,US,-,Desktop,2024-01-08,91164.63999999997,17914.0,0,January,0,34.32,29.5,78361.21445221442
+708,United States,US,-,Desktop,2024-01-09,84819.16000000002,17504.0,0,January,0,34.32,29.5,72906.91200466202
+709,United States,US,-,Desktop,2024-01-10,70356.36,18591.0,0,January,0,34.32,29.5,60475.309440559446
+710,United States,US,-,Desktop,2024-01-11,93686.74,18579.0,0,January,0,34.32,29.5,80529.10343822844
+711,United States,US,-,Desktop,2024-01-12,54611.49999999999,15776.0,0,January,0,34.32,29.5,46941.703088578084
+712,United States,US,-,Desktop,2024-01-13,17652.42,1705.0,1,January,0,34.32,29.5,15173.26311188811
+713,United States,US,-,Desktop,2024-01-14,15620.38,1112.0,1,January,0,34.32,29.5,13426.608682983682
+714,United States,US,-,Desktop,2024-01-15,50697.67999999999,11347.0,0,January,0,34.32,29.5,43577.551282051274
+715,United States,US,-,Desktop,2024-01-16,58227.139999999985,16641.0,0,January,0,34.32,29.5,50049.552156177146
+716,United States,US,-,Desktop,2024-01-17,65348.34000000001,17443.0,0,January,0,34.32,29.5,56170.63024475525
+717,United States,US,-,Desktop,2024-01-18,68350.93999999999,18209.0,0,January,0,34.32,29.5,58751.53642191141
+718,United States,US,-,Desktop,2024-01-19,46241.90000000002,15048.0,0,January,0,34.32,29.5,39747.553904428925
+719,United States,US,-,Desktop,2024-01-20,12600.640000000001,1887.0,1,January,0,34.32,29.5,10830.969696969698
+720,United States,US,-,Desktop,2024-01-21,12688.47,1701.0,1,January,0,34.32,29.5,10906.464597902097
+721,United States,US,-,Desktop,2024-01-22,53836.34,18859.0,0,January,0,34.32,29.5,46275.40879953379
+722,United States,US,-,Desktop,2024-01-23,62700.40000000001,19221.0,0,January,0,34.32,29.5,53894.5745920746
+723,United States,US,-,Desktop,2024-01-24,97715.40000000002,19663.0,0,January,0,34.32,29.5,83991.9667832168
+724,United States,US,-,Desktop,2024-01-25,54907.07999999999,20305.0,0,January,0,34.32,29.5,47195.77097902097
+725,United States,US,-,Desktop,2024-01-26,35782.09999999999,18056.0,0,January,0,34.32,29.5,30756.75844988344
+726,United States,US,-,Desktop,2024-01-27,5599.6,1635.0,1,January,0,34.32,29.5,4813.175990675991
+727,United States,US,-,Desktop,2024-01-28,15817.960000000003,1590.0,1,January,0,34.32,29.5,13596.439976689979
+728,United States,US,-,Desktop,2024-01-29,73888.3,22029.0,0,January,0,34.32,29.5,63511.21357808858
+729,United States,US,-,Desktop,2024-01-30,32158.059999999998,19895.0,0,January,0,34.32,29.5,27641.689102564098
+730,United States,US,-,Desktop,2024-01-31,34736.460000000014,21455.0,0,January,0,34.32,29.5,29857.971153846167
+731,United States,US,-,Desktop,2024-02-01,47661.37999999999,21801.0,0,February,0,34.32,29.5,40967.678030303025
+732,United States,US,-,Desktop,2024-02-02,46116.30000000002,19565.0,0,February,0,34.32,29.5,39639.59353146855
+733,United States,US,-,Desktop,2024-02-03,10219.25,1851.0,1,February,0,34.32,29.5,8784.028991841491
+734,United States,US,-,Desktop,2024-02-04,11036.790000000006,1648.0,1,February,0,34.32,29.5,9486.751311188817
+735,United States,US,-,Desktop,2024-02-05,52634.78000000001,23070.0,0,February,0,34.32,29.5,45242.599358974374
+736,United States,US,-,Desktop,2024-02-06,43262.619999999995,22786.0,0,February,0,34.32,29.5,37186.692599067595
+737,United States,US,-,Desktop,2024-02-07,42100.78,22983.0,0,February,0,34.32,29.5,36188.02476689977
+738,United States,US,-,Desktop,2024-02-08,66438.94000000003,22531.0,0,February,0,34.32,29.5,57108.06322843825
+739,United States,US,-,Desktop,2024-02-09,37100.45999999999,19230.0,0,February,0,34.32,29.5,31889.964160839154
+740,United States,US,-,Desktop,2024-02-10,10189.260000000002,1914.0,1,February,0,34.32,29.5,8758.250874125875
+741,United States,US,-,Desktop,2024-02-11,9132.879999999997,1402.0,1,February,0,34.32,29.5,7850.231934731932
+742,United States,US,-,Desktop,2024-02-12,50032.44000000001,22101.0,0,February,0,34.32,29.5,43005.73951048952
+743,United States,US,-,Desktop,2024-02-13,47894.21999999998,20245.0,0,February,0,34.32,29.5,41167.81730769229
+744,United States,US,-,Desktop,2024-02-14,68683.95,21254.0,0,February,0,34.32,29.5,59037.77753496503
+745,United States,US,-,Desktop,2024-02-15,44350.76,21380.0,0,February,0,34.32,29.5,38122.01107226108
+746,United States,US,-,Desktop,2024-02-16,45343.18000000001,19433.0,0,February,0,34.32,29.5,38975.05273892775
+747,United States,US,-,Desktop,2024-02-17,11374.41000000001,1734.0,1,February,0,34.32,29.5,9776.954982517493
+748,United States,US,-,Desktop,2024-02-18,10881.22,1480.0,1,February,0,34.32,29.5,9353.030011655012
+749,United States,US,-,Desktop,2024-02-19,52096.59999999999,17854.0,0,February,0,34.32,29.5,44780.002913752905
+750,United States,US,-,Desktop,2024-02-20,62838.92,22688.0,0,February,0,34.32,29.5,54013.64044289044
+751,United States,US,-,Desktop,2024-02-21,60797.000000000015,22364.0,0,February,0,34.32,29.5,52258.4935897436
+752,United States,US,-,Desktop,2024-02-22,77046.26000000001,21795.0,0,February,0,34.32,29.5,66225.66054778556
+753,United States,US,-,Desktop,2024-02-23,41664.77999999997,19466.0,0,February,0,34.32,29.5,35813.25786713284
+754,United States,US,-,Desktop,2024-02-24,9506.049999999992,1786.0,1,February,0,34.32,29.5,8170.9928613053535
+755,United States,US,-,Desktop,2024-02-25,7502.78,1504.0,1,February,0,34.32,29.5,6449.06789044289
+756,United States,US,-,Desktop,2024-02-26,78714.8,22730.0,0,February,0,34.32,29.5,67659.86596736597
+757,United States,US,-,Desktop,2024-02-27,54351.69999999998,21720.0,0,February,0,34.32,29.5,46718.39015151514
+758,United States,US,-,Desktop,2024-02-28,66018.47999999998,21330.0,0,February,0,34.32,29.5,56746.65384615383
+759,United States,US,-,Desktop,2024-02-29,16487.100000000002,19198.0,0,February,0,34.32,29.5,14171.604020979023
+760,United States,US,-,Desktop,2024-03-01,39271.059999999976,17713.0,0,March,0,34.32,29.5,33755.7188228438
+761,United States,US,-,Desktop,2024-03-02,10502.24999999999,1783.0,1,March,0,34.32,29.5,9027.283653846145
+762,United States,US,-,Desktop,2024-03-03,9781.779999999997,1607.0,1,March,0,34.32,29.5,8407.99854312354
+763,United States,US,-,Desktop,2024-03-04,70686.86000000004,22054.0,0,March,0,34.32,29.5,60759.3930652681
+764,United States,US,-,Desktop,2024-03-05,81917.72000000003,22461.0,0,March,0,34.32,29.5,70412.95862470864
+765,United States,US,-,Desktop,2024-03-06,67798.66,21823.0,0,March,0,34.32,29.5,58276.820221445225
+766,United States,US,-,Desktop,2024-03-07,61897.12,21436.0,0,March,0,34.32,29.5,53204.10955710956
+767,United States,US,-,Desktop,2024-03-08,50519.15999999998,18741.0,0,March,0,34.32,29.5,43424.10314685313
+768,United States,US,-,Desktop,2024-03-09,11253.319999999998,1993.0,1,March,0,34.32,29.5,9672.87121212121
+769,United States,US,-,Desktop,2024-03-10,10290.570000000005,1416.0,1,March,0,34.32,29.5,8845.33260489511
+770,United States,US,-,Desktop,2024-03-11,74899.34000000004,22086.0,0,March,0,34.32,29.5,64380.260198135235
+771,United States,US,-,Desktop,2024-03-12,72241.62000000001,22609.0,0,March,0,34.32,29.5,62095.79807692309
+772,United States,US,-,Desktop,2024-03-13,91131.27,21117.0,0,March,0,34.32,29.5,78332.53103146853
+773,United States,US,-,Desktop,2024-03-14,58876.2,20429.0,0,March,0,34.32,29.5,50607.45629370629
+774,United States,US,-,Desktop,2024-03-15,45874.78,17818.0,0,March,0,34.32,29.5,39431.993298368296
+775,United States,US,-,Desktop,2024-03-16,11313.160000000003,1692.0,1,March,0,34.32,29.5,9724.307109557112
+776,United States,US,-,Desktop,2024-03-17,9825.599999999999,1593.0,1,March,0,34.32,29.5,8445.664335664334
+777,United States,US,-,Desktop,2024-03-18,57973.74,21985.0,0,March,0,34.32,29.5,49831.74038461538
+778,United States,US,-,Desktop,2024-03-19,69794.93999999997,22223.0,0,March,0,34.32,29.5,59992.73688811187
+779,United States,US,-,Desktop,2024-03-20,67850.7,21860.0,0,March,0,34.32,29.5,58321.55157342657
+780,United States,US,-,Desktop,2024-03-21,59029.84,21409.0,0,March,0,34.32,29.5,50739.51864801864
+781,United States,US,-,Desktop,2024-03-22,84693.63000000002,18447.0,0,March,0,34.32,29.5,72799.01180069931
+782,United States,US,-,Desktop,2024-03-23,14485.400000000003,2083.0,1,March,0,34.32,29.5,12451.028554778557
+783,United States,US,-,Desktop,2024-03-24,12931.86,1572.0,1,March,0,34.32,29.5,11115.672202797203
+784,United States,US,-,Desktop,2024-03-25,85029.72000000006,22752.0,0,March,0,34.32,29.5,73087.9003496504
+785,United States,US,-,Desktop,2024-03-26,95128.89,22453.0,0,March,0,34.32,29.5,81768.71372377622
+786,United States,US,-,Desktop,2024-03-27,62347.38000000001,21441.0,0,March,0,34.32,29.5,53591.13374125875
+787,United States,US,-,Desktop,2024-03-28,46007.92,19426.0,0,March,0,34.32,29.5,39546.43473193473
+788,United States,US,-,Desktop,2024-03-29,32477.55999999999,13342.0,0,March,0,34.32,29.5,27916.317599067588
+789,United States,US,-,Desktop,2024-03-30,11516.439999999997,1545.0,1,March,0,34.32,29.5,9899.037878787876
+790,United States,US,-,Desktop,2024-03-31,9700.669999999996,884.0,1,March,0,34.32,29.5,8338.279865967363
+791,United States,US,-,Desktop,2024-04-01,55123.81999999999,18912.0,0,April,0,34.32,29.5,47382.07138694638
+792,United States,US,-,Desktop,2024-04-02,53002.50000000001,20547.0,0,April,0,34.32,29.5,45558.67569930071
+793,United States,US,-,Desktop,2024-04-03,52635.40000000001,19860.0,0,April,0,34.32,29.5,45243.13228438229
+794,United States,US,-,Desktop,2024-04-04,55081.300000000025,20069.0,0,April,0,34.32,29.5,47345.52301864804
+795,United States,US,-,Desktop,2024-04-05,52053.699999999975,16754.0,0,April,0,34.32,29.5,44743.12791375289
+796,United States,US,-,Desktop,2024-04-06,17451.239999999998,1755.0,1,April,0,34.32,29.5,15000.33741258741
+797,United States,US,-,Desktop,2024-04-07,14303.659999999998,1530.0,1,April,0,34.32,29.5,12294.812645687643
+798,United States,US,-,Desktop,2024-04-08,65723.12,18636.0,0,April,0,34.32,29.5,56492.77505827505
+799,United States,US,-,Desktop,2024-04-09,69821.20000000003,19749.0,0,April,0,34.32,29.5,60015.30885780888
+800,United States,US,-,Desktop,2024-04-10,89724.13,19579.0,0,April,0,34.32,29.5,77123.01384032634
+801,United States,US,-,Desktop,2024-04-11,52665.78000000003,19538.0,0,April,0,34.32,29.5,45269.24562937065
+802,United States,US,-,Desktop,2024-04-12,42471.28,16726.0,0,April,0,34.32,29.5,36506.49067599067
+803,United States,US,-,Desktop,2024-04-13,12957.639999999994,1850.0,1,April,0,34.32,29.5,11137.83158508158
+804,United States,US,-,Desktop,2024-04-14,11032.560000000001,1542.0,1,April,0,34.32,29.5,9483.115384615385
+805,United States,US,-,Desktop,2024-04-15,78411.84000000001,19435.0,0,April,0,34.32,29.5,67399.45454545456
+806,United States,US,-,Desktop,2024-04-16,54315.880000000005,18990.0,0,April,0,34.32,29.5,46687.60081585082
+807,United States,US,-,Desktop,2024-04-17,50333.61999999999,18836.0,0,April,0,34.32,29.5,43264.62092074591
+808,United States,US,-,Desktop,2024-04-18,50377.95999999999,18811.0,0,April,0,34.32,29.5,43302.73368298368
+809,United States,US,-,Desktop,2024-04-19,42411.05999999999,16561.0,0,April,0,34.32,29.5,36454.728146853144
+810,United States,US,-,Desktop,2024-04-20,12734.660000000003,1564.0,1,April,0,34.32,29.5,10946.167540792543
+811,United States,US,-,Desktop,2024-04-21,12475.790000000003,1362.0,1,April,0,34.32,29.5,10723.653991841493
+812,United States,US,-,Desktop,2024-04-22,91248.63,20516.0,0,April,0,34.32,29.5,78433.40865384616
+813,United States,US,-,Desktop,2024-04-23,62678.52,20064.0,0,April,0,34.32,29.5,53875.767482517476
+814,United States,US,-,Desktop,2024-04-24,56066.840000000004,19752.0,0,April,0,34.32,29.5,48192.65093240093
+815,United States,US,-,Desktop,2024-04-25,49988.71999999998,19951.0,0,April,0,34.32,29.5,42968.159673659655
+816,United States,US,-,Desktop,2024-04-26,45110.54000000001,17131.0,0,April,0,34.32,29.5,38775.08537296038
+817,United States,US,-,Desktop,2024-04-27,12407.53,1825.0,1,April,0,34.32,29.5,10664.980623543124
+818,United States,US,-,Desktop,2024-04-28,11556.080000000005,1830.0,1,April,0,34.32,29.5,9933.110722610727
+819,United States,US,-,Desktop,2024-04-29,60055.50000000002,20232.0,0,April,0,34.32,29.5,51621.13199300701
+820,United States,US,-,Desktop,2024-04-30,62525.41999999999,20369.0,0,April,0,34.32,29.5,53744.16928904428
+821,United States,US,-,Mobile & Tablet,2022-01-01,62525.41999999999,110.0,1,January,0,42.76,7.65,11186.14272684752
+822,United States,US,-,Mobile & Tablet,2022-01-02,62525.41999999999,189.0,1,January,0,42.76,7.65,11186.14272684752
+823,United States,US,-,Mobile & Tablet,2022-01-03,62525.41999999999,438.0,0,January,0,42.76,7.65,11186.14272684752
+824,United States,US,-,Mobile & Tablet,2022-01-04,62525.41999999999,422.0,0,January,0,42.76,7.65,11186.14272684752
+825,United States,US,-,Mobile & Tablet,2022-01-05,62525.41999999999,429.0,0,January,0,42.76,7.65,11186.14272684752
+826,United States,US,-,Mobile & Tablet,2022-01-06,62525.41999999999,360.0,0,January,0,42.76,7.65,11186.14272684752
+827,United States,US,-,Mobile & Tablet,2022-01-07,62525.41999999999,383.0,0,January,0,42.76,7.65,11186.14272684752
+828,United States,US,-,Mobile & Tablet,2022-01-08,62525.41999999999,241.0,1,January,0,42.76,7.65,11186.14272684752
+829,United States,US,-,Mobile & Tablet,2022-01-09,62525.41999999999,285.0,1,January,0,42.76,7.65,11186.14272684752
+830,United States,US,-,Mobile & Tablet,2022-01-10,62525.41999999999,181.0,0,January,0,42.76,7.65,11186.14272684752
+831,United States,US,-,Mobile & Tablet,2022-01-11,62525.41999999999,122.0,0,January,0,42.76,7.65,11186.14272684752
+832,United States,US,-,Mobile & Tablet,2022-01-12,62525.41999999999,71.0,0,January,0,42.76,7.65,11186.14272684752
+833,United States,US,-,Mobile & Tablet,2022-01-13,62525.41999999999,96.0,0,January,0,42.76,7.65,11186.14272684752
+834,United States,US,-,Mobile & Tablet,2022-01-14,62525.41999999999,58.0,0,January,0,42.76,7.65,11186.14272684752
+835,United States,US,-,Mobile & Tablet,2022-01-15,62525.41999999999,43.0,1,January,0,42.76,7.65,11186.14272684752
+836,United States,US,-,Mobile & Tablet,2022-01-16,62525.41999999999,27.0,1,January,0,42.76,7.65,11186.14272684752
+837,United States,US,-,Mobile & Tablet,2022-01-17,62525.41999999999,73.0,0,January,0,42.76,7.65,11186.14272684752
+838,United States,US,-,Mobile & Tablet,2022-01-18,62525.41999999999,93.0,0,January,0,42.76,7.65,11186.14272684752
+839,United States,US,-,Mobile & Tablet,2022-01-19,62525.41999999999,117.0,0,January,0,42.76,7.65,11186.14272684752
+840,United States,US,-,Mobile & Tablet,2022-01-20,62525.41999999999,134.0,0,January,0,42.76,7.65,11186.14272684752
+841,United States,US,-,Mobile & Tablet,2022-01-21,62525.41999999999,82.0,0,January,0,42.76,7.65,11186.14272684752
+842,United States,US,-,Mobile & Tablet,2022-01-22,62525.41999999999,48.0,1,January,0,42.76,7.65,11186.14272684752
+843,United States,US,-,Mobile & Tablet,2022-01-23,62525.41999999999,73.0,1,January,0,42.76,7.65,11186.14272684752
+844,United States,US,-,Mobile & Tablet,2022-01-24,62525.41999999999,162.0,0,January,0,42.76,7.65,11186.14272684752
+845,United States,US,-,Mobile & Tablet,2022-01-25,62525.41999999999,88.0,0,January,0,42.76,7.65,11186.14272684752
+846,United States,US,-,Mobile & Tablet,2022-01-26,62525.41999999999,98.0,0,January,0,42.76,7.65,11186.14272684752
+847,United States,US,-,Mobile & Tablet,2022-01-27,62525.41999999999,77.0,0,January,0,42.76,7.65,11186.14272684752
+848,United States,US,-,Mobile & Tablet,2022-01-28,62525.41999999999,98.0,0,January,0,42.76,7.65,11186.14272684752
+849,United States,US,-,Mobile & Tablet,2022-01-29,62525.41999999999,57.0,1,January,0,42.76,7.65,11186.14272684752
+850,United States,US,-,Mobile & Tablet,2022-01-30,62525.41999999999,103.0,1,January,0,42.76,7.65,11186.14272684752
+851,United States,US,-,Mobile & Tablet,2022-01-31,62525.41999999999,132.0,0,January,0,42.76,7.65,11186.14272684752
+852,United States,US,-,Mobile & Tablet,2022-02-01,62525.41999999999,96.0,0,February,0,42.76,7.65,11186.14272684752
+853,United States,US,-,Mobile & Tablet,2022-02-02,62525.41999999999,83.0,0,February,0,42.76,7.65,11186.14272684752
+854,United States,US,-,Mobile & Tablet,2022-02-03,62525.41999999999,83.0,0,February,0,42.76,7.65,11186.14272684752
+855,United States,US,-,Mobile & Tablet,2022-02-04,62525.41999999999,83.0,0,February,0,42.76,7.65,11186.14272684752
+856,United States,US,-,Mobile & Tablet,2022-02-05,62525.41999999999,64.0,1,February,0,42.76,7.65,11186.14272684752
+857,United States,US,-,Mobile & Tablet,2022-02-06,62525.41999999999,67.0,1,February,0,42.76,7.65,11186.14272684752
+858,United States,US,-,Mobile & Tablet,2022-02-07,62525.41999999999,113.0,0,February,0,42.76,7.65,11186.14272684752
+859,United States,US,-,Mobile & Tablet,2022-02-08,62525.41999999999,104.0,0,February,0,42.76,7.65,11186.14272684752
+860,United States,US,-,Mobile & Tablet,2022-02-09,62525.41999999999,96.0,0,February,0,42.76,7.65,11186.14272684752
+861,United States,US,-,Mobile & Tablet,2022-02-10,62525.41999999999,84.0,0,February,0,42.76,7.65,11186.14272684752
+862,United States,US,-,Mobile & Tablet,2022-02-11,62525.41999999999,95.0,0,February,0,42.76,7.65,11186.14272684752
+863,United States,US,-,Mobile & Tablet,2022-02-12,62525.41999999999,33.0,1,February,0,42.76,7.65,11186.14272684752
+864,United States,US,-,Mobile & Tablet,2022-02-13,62525.41999999999,53.0,1,February,0,42.76,7.65,11186.14272684752
+865,United States,US,-,Mobile & Tablet,2022-02-14,62525.41999999999,89.0,0,February,0,42.76,7.65,11186.14272684752
+866,United States,US,-,Mobile & Tablet,2022-02-15,62525.41999999999,115.0,0,February,0,42.76,7.65,11186.14272684752
+867,United States,US,-,Mobile & Tablet,2022-02-16,62525.41999999999,108.0,0,February,0,42.76,7.65,11186.14272684752
+868,United States,US,-,Mobile & Tablet,2022-02-17,62525.41999999999,128.0,0,February,0,42.76,7.65,11186.14272684752
+869,United States,US,-,Mobile & Tablet,2022-02-18,62525.41999999999,78.0,0,February,0,42.76,7.65,11186.14272684752
+870,United States,US,-,Mobile & Tablet,2022-02-19,62525.41999999999,43.0,1,February,0,42.76,7.65,11186.14272684752
+871,United States,US,-,Mobile & Tablet,2022-02-20,62525.41999999999,33.0,1,February,0,42.76,7.65,11186.14272684752
+872,United States,US,-,Mobile & Tablet,2022-02-21,62525.41999999999,99.0,0,February,0,42.76,7.65,11186.14272684752
+873,United States,US,-,Mobile & Tablet,2022-02-22,62525.41999999999,85.0,0,February,0,42.76,7.65,11186.14272684752
+874,United States,US,-,Mobile & Tablet,2022-02-23,62525.41999999999,81.0,0,February,0,42.76,7.65,11186.14272684752
+875,United States,US,-,Mobile & Tablet,2022-02-24,62525.41999999999,86.0,0,February,0,42.76,7.65,11186.14272684752
+876,United States,US,-,Mobile & Tablet,2022-02-25,62525.41999999999,112.0,0,February,0,42.76,7.65,11186.14272684752
+877,United States,US,-,Mobile & Tablet,2022-02-26,62525.41999999999,52.0,1,February,0,42.76,7.65,11186.14272684752
+878,United States,US,-,Mobile & Tablet,2022-02-27,62525.41999999999,46.0,1,February,0,42.76,7.65,11186.14272684752
+879,United States,US,-,Mobile & Tablet,2022-02-28,62525.41999999999,97.0,0,February,0,42.76,7.65,11186.14272684752
+880,United States,US,-,Mobile & Tablet,2022-03-01,62525.41999999999,81.0,0,March,0,42.76,7.65,11186.14272684752
+881,United States,US,-,Mobile & Tablet,2022-03-02,62525.41999999999,88.0,0,March,0,42.76,7.65,11186.14272684752
+882,United States,US,-,Mobile & Tablet,2022-03-03,62525.41999999999,89.0,0,March,0,42.76,7.65,11186.14272684752
+883,United States,US,-,Mobile & Tablet,2022-03-04,62525.41999999999,99.0,0,March,0,42.76,7.65,11186.14272684752
+884,United States,US,-,Mobile & Tablet,2022-03-05,62525.41999999999,47.0,1,March,0,42.76,7.65,11186.14272684752
+885,United States,US,-,Mobile & Tablet,2022-03-06,62525.41999999999,55.0,1,March,0,42.76,7.65,11186.14272684752
+886,United States,US,-,Mobile & Tablet,2022-03-07,62525.41999999999,112.0,0,March,0,42.76,7.65,11186.14272684752
+887,United States,US,-,Mobile & Tablet,2022-03-08,62525.41999999999,115.0,0,March,0,42.76,7.65,11186.14272684752
+888,United States,US,-,Mobile & Tablet,2022-03-09,62525.41999999999,93.0,0,March,0,42.76,7.65,11186.14272684752
+889,United States,US,-,Mobile & Tablet,2022-03-10,62525.41999999999,78.0,0,March,0,42.76,7.65,11186.14272684752
+890,United States,US,-,Mobile & Tablet,2022-03-11,62525.41999999999,72.0,0,March,0,42.76,7.65,11186.14272684752
+891,United States,US,-,Mobile & Tablet,2022-03-12,62525.41999999999,49.0,1,March,0,42.76,7.65,11186.14272684752
+892,United States,US,-,Mobile & Tablet,2022-03-13,62525.41999999999,51.0,1,March,0,42.76,7.65,11186.14272684752
+893,United States,US,-,Mobile & Tablet,2022-03-14,62525.41999999999,119.0,0,March,0,42.76,7.65,11186.14272684752
+894,United States,US,-,Mobile & Tablet,2022-03-15,62525.41999999999,89.0,0,March,0,42.76,7.65,11186.14272684752
+895,United States,US,-,Mobile & Tablet,2022-03-16,62525.41999999999,87.0,0,March,0,42.76,7.65,11186.14272684752
+896,United States,US,-,Mobile & Tablet,2022-03-17,62525.41999999999,92.0,0,March,0,42.76,7.65,11186.14272684752
+897,United States,US,-,Mobile & Tablet,2022-03-18,62525.41999999999,86.0,0,March,0,42.76,7.65,11186.14272684752
+898,United States,US,-,Mobile & Tablet,2022-03-19,62525.41999999999,53.0,1,March,0,42.76,7.65,11186.14272684752
+899,United States,US,-,Mobile & Tablet,2022-03-20,62525.41999999999,44.0,1,March,0,42.76,7.65,11186.14272684752
+900,United States,US,-,Mobile & Tablet,2022-03-21,62525.41999999999,118.0,0,March,0,42.76,7.65,11186.14272684752
+901,United States,US,-,Mobile & Tablet,2022-03-22,62525.41999999999,111.0,0,March,0,42.76,7.65,11186.14272684752
+902,United States,US,-,Mobile & Tablet,2022-03-23,62525.41999999999,94.0,0,March,0,42.76,7.65,11186.14272684752
+903,United States,US,-,Mobile & Tablet,2022-03-24,62525.41999999999,88.0,0,March,0,42.76,7.65,11186.14272684752
+904,United States,US,-,Mobile & Tablet,2022-03-25,62525.41999999999,107.0,0,March,0,42.76,7.65,11186.14272684752
+905,United States,US,-,Mobile & Tablet,2022-03-26,62525.41999999999,56.0,1,March,0,42.76,7.65,11186.14272684752
+906,United States,US,-,Mobile & Tablet,2022-03-27,62525.41999999999,69.0,1,March,0,42.76,7.65,11186.14272684752
+907,United States,US,-,Mobile & Tablet,2022-03-28,62525.41999999999,108.0,0,March,0,42.76,7.65,11186.14272684752
+908,United States,US,-,Mobile & Tablet,2022-03-29,62525.41999999999,92.0,0,March,0,42.76,7.65,11186.14272684752
+909,United States,US,-,Mobile & Tablet,2022-03-30,62525.41999999999,106.0,0,March,0,42.76,7.65,11186.14272684752
+910,United States,US,-,Mobile & Tablet,2022-03-31,62525.41999999999,119.0,0,March,0,42.76,7.65,11186.14272684752
+911,United States,US,-,Mobile & Tablet,2022-04-01,62525.41999999999,115.0,0,April,0,42.76,7.65,11186.14272684752
+912,United States,US,-,Mobile & Tablet,2022-04-02,62525.41999999999,60.0,1,April,0,42.76,7.65,11186.14272684752
+913,United States,US,-,Mobile & Tablet,2022-04-03,62525.41999999999,58.0,1,April,0,42.76,7.65,11186.14272684752
+914,United States,US,-,Mobile & Tablet,2022-04-04,62525.41999999999,91.0,0,April,0,42.76,7.65,11186.14272684752
+915,United States,US,-,Mobile & Tablet,2022-04-05,62525.41999999999,131.0,0,April,0,42.76,7.65,11186.14272684752
+916,United States,US,-,Mobile & Tablet,2022-04-06,62525.41999999999,89.0,0,April,0,42.76,7.65,11186.14272684752
+917,United States,US,-,Mobile & Tablet,2022-04-07,62525.41999999999,83.0,0,April,0,42.76,7.65,11186.14272684752
+918,United States,US,-,Mobile & Tablet,2022-04-08,62525.41999999999,89.0,0,April,0,42.76,7.65,11186.14272684752
+919,United States,US,-,Mobile & Tablet,2022-04-09,62525.41999999999,44.0,1,April,0,42.76,7.65,11186.14272684752
+920,United States,US,-,Mobile & Tablet,2022-04-10,62525.41999999999,52.0,1,April,0,42.76,7.65,11186.14272684752
+921,United States,US,-,Mobile & Tablet,2022-04-11,62525.41999999999,134.0,0,April,0,42.76,7.65,11186.14272684752
+922,United States,US,-,Mobile & Tablet,2022-04-12,62525.41999999999,84.0,0,April,0,42.76,7.65,11186.14272684752
+923,United States,US,-,Mobile & Tablet,2022-04-13,62525.41999999999,96.0,0,April,0,42.76,7.65,11186.14272684752
+924,United States,US,-,Mobile & Tablet,2022-04-14,62525.41999999999,77.0,0,April,0,42.76,7.65,11186.14272684752
+925,United States,US,-,Mobile & Tablet,2022-04-15,62525.41999999999,67.0,0,April,0,42.76,7.65,11186.14272684752
+926,United States,US,-,Mobile & Tablet,2022-04-16,62525.41999999999,49.0,1,April,0,42.76,7.65,11186.14272684752
+927,United States,US,-,Mobile & Tablet,2022-04-17,62525.41999999999,49.0,1,April,0,42.76,7.65,11186.14272684752
+928,United States,US,-,Mobile & Tablet,2022-04-18,62525.41999999999,123.0,0,April,0,42.76,7.65,11186.14272684752
+929,United States,US,-,Mobile & Tablet,2022-04-19,62525.41999999999,134.0,0,April,0,42.76,7.65,11186.14272684752
+930,United States,US,-,Mobile & Tablet,2022-04-20,62525.41999999999,82.0,0,April,0,42.76,7.65,11186.14272684752
+931,United States,US,-,Mobile & Tablet,2022-04-21,62525.41999999999,86.0,0,April,0,42.76,7.65,11186.14272684752
+932,United States,US,-,Mobile & Tablet,2022-04-22,62525.41999999999,68.0,0,April,0,42.76,7.65,11186.14272684752
+933,United States,US,-,Mobile & Tablet,2022-04-23,62525.41999999999,34.0,1,April,0,42.76,7.65,11186.14272684752
+934,United States,US,-,Mobile & Tablet,2022-04-24,62525.41999999999,41.0,1,April,0,42.76,7.65,11186.14272684752
+935,United States,US,-,Mobile & Tablet,2022-04-25,62525.41999999999,81.0,0,April,0,42.76,7.65,11186.14272684752
+936,United States,US,-,Mobile & Tablet,2022-04-26,62525.41999999999,105.0,0,April,0,42.76,7.65,11186.14272684752
+937,United States,US,-,Mobile & Tablet,2022-04-27,62525.41999999999,84.0,0,April,0,42.76,7.65,11186.14272684752
+938,United States,US,-,Mobile & Tablet,2022-04-28,62525.41999999999,79.0,0,April,0,42.76,7.65,11186.14272684752
+939,United States,US,-,Mobile & Tablet,2022-04-29,62525.41999999999,65.0,0,April,0,42.76,7.65,11186.14272684752
+940,United States,US,-,Mobile & Tablet,2022-04-30,62525.41999999999,39.0,1,April,0,42.76,7.65,11186.14272684752
+941,United States,US,-,Mobile & Tablet,2022-05-01,62525.41999999999,40.0,1,May,0,42.76,7.65,11186.14272684752
+942,United States,US,-,Mobile & Tablet,2022-05-02,62525.41999999999,104.0,0,May,0,42.76,7.65,11186.14272684752
+943,United States,US,-,Mobile & Tablet,2022-05-03,62525.41999999999,93.0,0,May,0,42.76,7.65,11186.14272684752
+944,United States,US,-,Mobile & Tablet,2022-05-04,62525.41999999999,75.0,0,May,0,42.76,7.65,11186.14272684752
+945,United States,US,-,Mobile & Tablet,2022-05-05,62525.41999999999,83.0,0,May,0,42.76,7.65,11186.14272684752
+946,United States,US,-,Mobile & Tablet,2022-05-06,62525.41999999999,55.0,0,May,0,42.76,7.65,11186.14272684752
+947,United States,US,-,Mobile & Tablet,2022-05-07,62525.41999999999,52.0,1,May,0,42.76,7.65,11186.14272684752
+948,United States,US,-,Mobile & Tablet,2022-05-08,62525.41999999999,30.0,1,May,0,42.76,7.65,11186.14272684752
+949,United States,US,-,Mobile & Tablet,2022-05-09,62525.41999999999,83.0,0,May,0,42.76,7.65,11186.14272684752
+950,United States,US,-,Mobile & Tablet,2022-05-10,62525.41999999999,75.0,0,May,0,42.76,7.65,11186.14272684752
+951,United States,US,-,Mobile & Tablet,2022-05-11,62525.41999999999,96.0,0,May,0,42.76,7.65,11186.14272684752
+952,United States,US,-,Mobile & Tablet,2022-05-12,62525.41999999999,75.0,0,May,0,42.76,7.65,11186.14272684752
+953,United States,US,-,Mobile & Tablet,2022-05-13,62525.41999999999,63.0,0,May,0,42.76,7.65,11186.14272684752
+954,United States,US,-,Mobile & Tablet,2022-05-14,62525.41999999999,29.0,1,May,0,42.76,7.65,11186.14272684752
+955,United States,US,-,Mobile & Tablet,2022-05-15,62525.41999999999,37.0,1,May,0,42.76,7.65,11186.14272684752
+956,United States,US,-,Mobile & Tablet,2022-05-16,62525.41999999999,121.0,0,May,0,42.76,7.65,11186.14272684752
+957,United States,US,-,Mobile & Tablet,2022-05-17,62525.41999999999,94.0,0,May,0,42.76,7.65,11186.14272684752
+958,United States,US,-,Mobile & Tablet,2022-05-18,62525.41999999999,76.0,0,May,0,42.76,7.65,11186.14272684752
+959,United States,US,-,Mobile & Tablet,2022-05-19,62525.41999999999,87.0,0,May,0,42.76,7.65,11186.14272684752
+960,United States,US,-,Mobile & Tablet,2022-05-20,62525.41999999999,69.0,0,May,0,42.76,7.65,11186.14272684752
+961,United States,US,-,Mobile & Tablet,2022-05-21,62525.41999999999,45.0,1,May,0,42.76,7.65,11186.14272684752
+962,United States,US,-,Mobile & Tablet,2022-05-22,62525.41999999999,34.0,1,May,0,42.76,7.65,11186.14272684752
+963,United States,US,-,Mobile & Tablet,2022-05-23,62525.41999999999,108.0,0,May,0,42.76,7.65,11186.14272684752
+964,United States,US,-,Mobile & Tablet,2022-05-24,62525.41999999999,98.0,0,May,0,42.76,7.65,11186.14272684752
+965,United States,US,-,Mobile & Tablet,2022-05-25,62525.41999999999,59.0,0,May,0,42.76,7.65,11186.14272684752
+966,United States,US,-,Mobile & Tablet,2022-05-26,62525.41999999999,70.0,0,May,0,42.76,7.65,11186.14272684752
+967,United States,US,-,Mobile & Tablet,2022-05-27,62525.41999999999,68.0,0,May,0,42.76,7.65,11186.14272684752
+968,United States,US,-,Mobile & Tablet,2022-05-28,62525.41999999999,16.0,1,May,0,42.76,7.65,11186.14272684752
+969,United States,US,-,Mobile & Tablet,2022-05-29,62525.41999999999,9.0,1,May,0,42.76,7.65,11186.14272684752
+970,United States,US,-,Mobile & Tablet,2022-05-30,62525.41999999999,10.0,0,May,0,42.76,7.65,11186.14272684752
+971,United States,US,-,Mobile & Tablet,2022-05-31,62525.41999999999,71.0,0,May,0,42.76,7.65,11186.14272684752
+972,United States,US,-,Mobile & Tablet,2022-06-01,62525.41999999999,62.0,0,June,0,42.76,7.65,11186.14272684752
+973,United States,US,-,Mobile & Tablet,2022-06-02,62525.41999999999,59.0,0,June,0,42.76,7.65,11186.14272684752
+974,United States,US,-,Mobile & Tablet,2022-06-03,62525.41999999999,47.0,0,June,0,42.76,7.65,11186.14272684752
+975,United States,US,-,Mobile & Tablet,2022-06-04,62525.41999999999,23.0,1,June,0,42.76,7.65,11186.14272684752
+976,United States,US,-,Mobile & Tablet,2022-06-05,62525.41999999999,31.0,1,June,0,42.76,7.65,11186.14272684752
+977,United States,US,-,Mobile & Tablet,2022-06-06,62525.41999999999,81.0,0,June,0,42.76,7.65,11186.14272684752
+978,United States,US,-,Mobile & Tablet,2022-06-07,62525.41999999999,69.0,0,June,0,42.76,7.65,11186.14272684752
+979,United States,US,-,Mobile & Tablet,2022-06-08,62525.41999999999,57.0,0,June,0,42.76,7.65,11186.14272684752
+980,United States,US,-,Mobile & Tablet,2022-06-09,62525.41999999999,69.0,0,June,0,42.76,7.65,11186.14272684752
+981,United States,US,-,Mobile & Tablet,2022-06-10,62525.41999999999,59.0,0,June,0,42.76,7.65,11186.14272684752
+982,United States,US,-,Mobile & Tablet,2022-06-11,62525.41999999999,28.0,1,June,0,42.76,7.65,11186.14272684752
+983,United States,US,-,Mobile & Tablet,2022-06-12,62525.41999999999,45.0,1,June,0,42.76,7.65,11186.14272684752
+984,United States,US,-,Mobile & Tablet,2022-06-13,62525.41999999999,116.0,0,June,0,42.76,7.65,11186.14272684752
+985,United States,US,-,Mobile & Tablet,2022-06-14,62525.41999999999,76.0,0,June,0,42.76,7.65,11186.14272684752
+986,United States,US,-,Mobile & Tablet,2022-06-15,62525.41999999999,73.0,0,June,0,42.76,7.65,11186.14272684752
+987,United States,US,-,Mobile & Tablet,2022-06-16,62525.41999999999,69.0,0,June,0,42.76,7.65,11186.14272684752
+988,United States,US,-,Mobile & Tablet,2022-06-17,62525.41999999999,79.0,0,June,0,42.76,7.65,11186.14272684752
+989,United States,US,-,Mobile & Tablet,2022-06-18,62525.41999999999,40.0,1,June,0,42.76,7.65,11186.14272684752
+990,United States,US,-,Mobile & Tablet,2022-06-19,62525.41999999999,31.0,1,June,0,42.76,7.65,11186.14272684752
+991,United States,US,-,Mobile & Tablet,2022-06-20,62525.41999999999,100.0,0,June,0,42.76,7.65,11186.14272684752
+992,United States,US,-,Mobile & Tablet,2022-06-21,62525.41999999999,77.0,0,June,0,42.76,7.65,11186.14272684752
+993,United States,US,-,Mobile & Tablet,2022-06-22,62525.41999999999,77.0,0,June,0,42.76,7.65,11186.14272684752
+994,United States,US,-,Mobile & Tablet,2022-06-23,62525.41999999999,101.0,0,June,0,42.76,7.65,11186.14272684752
+995,United States,US,-,Mobile & Tablet,2022-06-24,62525.41999999999,63.0,0,June,0,42.76,7.65,11186.14272684752
+996,United States,US,-,Mobile & Tablet,2022-06-25,62525.41999999999,23.0,1,June,0,42.76,7.65,11186.14272684752
+997,United States,US,-,Mobile & Tablet,2022-06-26,62525.41999999999,42.0,1,June,0,42.76,7.65,11186.14272684752
+998,United States,US,-,Mobile & Tablet,2022-06-27,62525.41999999999,98.0,0,June,0,42.76,7.65,11186.14272684752
+999,United States,US,-,Mobile & Tablet,2022-06-28,62525.41999999999,115.0,0,June,0,42.76,7.65,11186.14272684752
+1000,United States,US,-,Mobile & Tablet,2022-06-29,62525.41999999999,94.0,0,June,0,42.76,7.65,11186.14272684752
+1001,United States,US,-,Mobile & Tablet,2022-06-30,62525.41999999999,73.0,0,June,0,42.76,7.65,11186.14272684752
+1002,United States,US,-,Mobile & Tablet,2022-07-01,62525.41999999999,75.0,0,July,0,42.76,7.65,11186.14272684752
+1003,United States,US,-,Mobile & Tablet,2022-07-02,62525.41999999999,26.0,1,July,0,42.76,7.65,11186.14272684752
+1004,United States,US,-,Mobile & Tablet,2022-07-03,62525.41999999999,12.0,1,July,0,42.76,7.65,11186.14272684752
+1005,United States,US,-,Mobile & Tablet,2022-07-04,62525.41999999999,17.0,0,July,0,42.76,7.65,11186.14272684752
+1006,United States,US,-,Mobile & Tablet,2022-07-05,62525.41999999999,84.0,0,July,0,42.76,7.65,11186.14272684752
+1007,United States,US,-,Mobile & Tablet,2022-07-06,62525.41999999999,113.0,0,July,0,42.76,7.65,11186.14272684752
+1008,United States,US,-,Mobile & Tablet,2022-07-07,62525.41999999999,86.0,0,July,0,42.76,7.65,11186.14272684752
+1009,United States,US,-,Mobile & Tablet,2022-07-08,62525.41999999999,86.0,0,July,0,42.76,7.65,11186.14272684752
+1010,United States,US,-,Mobile & Tablet,2022-07-09,62525.41999999999,46.0,1,July,0,42.76,7.65,11186.14272684752
+1011,United States,US,-,Mobile & Tablet,2022-07-10,62525.41999999999,34.0,1,July,0,42.76,7.65,11186.14272684752
+1012,United States,US,-,Mobile & Tablet,2022-07-11,62525.41999999999,85.0,0,July,0,42.76,7.65,11186.14272684752
+1013,United States,US,-,Mobile & Tablet,2022-07-12,62525.41999999999,103.0,0,July,0,42.76,7.65,11186.14272684752
+1014,United States,US,-,Mobile & Tablet,2022-07-13,62525.41999999999,75.0,0,July,0,42.76,7.65,11186.14272684752
+1015,United States,US,-,Mobile & Tablet,2022-07-14,62525.41999999999,80.0,0,July,0,42.76,7.65,11186.14272684752
+1016,United States,US,-,Mobile & Tablet,2022-07-15,62525.41999999999,77.0,0,July,0,42.76,7.65,11186.14272684752
+1017,United States,US,-,Mobile & Tablet,2022-07-16,62525.41999999999,50.0,1,July,0,42.76,7.65,11186.14272684752
+1018,United States,US,-,Mobile & Tablet,2022-07-17,62525.41999999999,46.0,1,July,0,42.76,7.65,11186.14272684752
+1019,United States,US,-,Mobile & Tablet,2022-07-18,62525.41999999999,89.0,0,July,0,42.76,7.65,11186.14272684752
+1020,United States,US,-,Mobile & Tablet,2022-07-19,62525.41999999999,75.0,0,July,0,42.76,7.65,11186.14272684752
+1021,United States,US,-,Mobile & Tablet,2022-07-20,62525.41999999999,79.0,0,July,0,42.76,7.65,11186.14272684752
+1022,United States,US,-,Mobile & Tablet,2022-07-21,62525.41999999999,88.0,0,July,0,42.76,7.65,11186.14272684752
+1023,United States,US,-,Mobile & Tablet,2022-07-22,62525.41999999999,58.0,0,July,0,42.76,7.65,11186.14272684752
+1024,United States,US,-,Mobile & Tablet,2022-07-23,62525.41999999999,45.0,1,July,0,42.76,7.65,11186.14272684752
+1025,United States,US,-,Mobile & Tablet,2022-07-24,62525.41999999999,33.0,1,July,0,42.76,7.65,11186.14272684752
+1026,United States,US,-,Mobile & Tablet,2022-07-25,62525.41999999999,100.0,0,July,0,42.76,7.65,11186.14272684752
+1027,United States,US,-,Mobile & Tablet,2022-07-26,62525.41999999999,103.0,0,July,0,42.76,7.65,11186.14272684752
+1028,United States,US,-,Mobile & Tablet,2022-07-27,62525.41999999999,87.0,0,July,0,42.76,7.65,11186.14272684752
+1029,United States,US,-,Mobile & Tablet,2022-07-28,62525.41999999999,84.0,0,July,0,42.76,7.65,11186.14272684752
+1030,United States,US,-,Mobile & Tablet,2022-07-29,62525.41999999999,75.0,0,July,0,42.76,7.65,11186.14272684752
+1031,United States,US,-,Mobile & Tablet,2022-07-30,62525.41999999999,58.0,1,July,0,42.76,7.65,11186.14272684752
+1032,United States,US,-,Mobile & Tablet,2022-07-31,62525.41999999999,32.0,1,July,0,42.76,7.65,11186.14272684752
+1033,United States,US,-,Mobile & Tablet,2022-08-01,62525.41999999999,97.0,0,August,0,42.76,7.65,11186.14272684752
+1034,United States,US,-,Mobile & Tablet,2022-08-02,62525.41999999999,81.0,0,August,0,42.76,7.65,11186.14272684752
+1035,United States,US,-,Mobile & Tablet,2022-08-03,62525.41999999999,84.0,0,August,0,42.76,7.65,11186.14272684752
+1036,United States,US,-,Mobile & Tablet,2022-08-04,62525.41999999999,66.0,0,August,0,42.76,7.65,11186.14272684752
+1037,United States,US,-,Mobile & Tablet,2022-08-05,62525.41999999999,57.0,0,August,0,42.76,7.65,11186.14272684752
+1038,United States,US,-,Mobile & Tablet,2022-08-06,62525.41999999999,42.0,1,August,0,42.76,7.65,11186.14272684752
+1039,United States,US,-,Mobile & Tablet,2022-08-07,62525.41999999999,29.0,1,August,0,42.76,7.65,11186.14272684752
+1040,United States,US,-,Mobile & Tablet,2022-08-08,62525.41999999999,80.0,0,August,0,42.76,7.65,11186.14272684752
+1041,United States,US,-,Mobile & Tablet,2022-08-09,62525.41999999999,92.0,0,August,0,42.76,7.65,11186.14272684752
+1042,United States,US,-,Mobile & Tablet,2022-08-10,62525.41999999999,78.0,0,August,0,42.76,7.65,11186.14272684752
+1043,United States,US,-,Mobile & Tablet,2022-08-11,62525.41999999999,69.0,0,August,0,42.76,7.65,11186.14272684752
+1044,United States,US,-,Mobile & Tablet,2022-08-12,62525.41999999999,67.0,0,August,0,42.76,7.65,11186.14272684752
+1045,United States,US,-,Mobile & Tablet,2022-08-13,62525.41999999999,32.0,1,August,0,42.76,7.65,11186.14272684752
+1046,United States,US,-,Mobile & Tablet,2022-08-14,62525.41999999999,40.0,1,August,0,42.76,7.65,11186.14272684752
+1047,United States,US,-,Mobile & Tablet,2022-08-15,62525.41999999999,97.0,0,August,0,42.76,7.65,11186.14272684752
+1048,United States,US,-,Mobile & Tablet,2022-08-16,62525.41999999999,109.0,0,August,0,42.76,7.65,11186.14272684752
+1049,United States,US,-,Mobile & Tablet,2022-08-17,62525.41999999999,84.0,0,August,0,42.76,7.65,11186.14272684752
+1050,United States,US,-,Mobile & Tablet,2022-08-18,62525.41999999999,90.0,0,August,0,42.76,7.65,11186.14272684752
+1051,United States,US,-,Mobile & Tablet,2022-08-19,62525.41999999999,62.0,0,August,0,42.76,7.65,11186.14272684752
+1052,United States,US,-,Mobile & Tablet,2022-08-20,62525.41999999999,38.0,1,August,0,42.76,7.65,11186.14272684752
+1053,United States,US,-,Mobile & Tablet,2022-08-21,62525.41999999999,48.0,1,August,0,42.76,7.65,11186.14272684752
+1054,United States,US,-,Mobile & Tablet,2022-08-22,62525.41999999999,103.0,0,August,0,42.76,7.65,11186.14272684752
+1055,United States,US,-,Mobile & Tablet,2022-08-23,62525.41999999999,92.0,0,August,0,42.76,7.65,11186.14272684752
+1056,United States,US,-,Mobile & Tablet,2022-08-24,62525.41999999999,88.0,0,August,0,42.76,7.65,11186.14272684752
+1057,United States,US,-,Mobile & Tablet,2022-08-25,62525.41999999999,73.0,0,August,0,42.76,7.65,11186.14272684752
+1058,United States,US,-,Mobile & Tablet,2022-08-26,62525.41999999999,81.0,0,August,0,42.76,7.65,11186.14272684752
+1059,United States,US,-,Mobile & Tablet,2022-08-27,62525.41999999999,31.0,1,August,0,42.76,7.65,11186.14272684752
+1060,United States,US,-,Mobile & Tablet,2022-08-28,62525.41999999999,43.0,1,August,0,42.76,7.65,11186.14272684752
+1061,United States,US,-,Mobile & Tablet,2022-08-29,62525.41999999999,75.0,0,August,0,42.76,7.65,11186.14272684752
+1062,United States,US,-,Mobile & Tablet,2022-08-30,62525.41999999999,89.0,0,August,0,42.76,7.65,11186.14272684752
+1063,United States,US,-,Mobile & Tablet,2022-08-31,62525.41999999999,98.0,0,August,0,42.76,7.65,11186.14272684752
+1064,United States,US,-,Mobile & Tablet,2022-09-01,62525.41999999999,91.0,0,September,0,42.76,7.65,11186.14272684752
+1065,United States,US,-,Mobile & Tablet,2022-09-02,62525.41999999999,89.0,0,September,0,42.76,7.65,11186.14272684752
+1066,United States,US,-,Mobile & Tablet,2022-09-03,62525.41999999999,22.0,1,September,0,42.76,7.65,11186.14272684752
+1067,United States,US,-,Mobile & Tablet,2022-09-04,62525.41999999999,16.0,1,September,0,42.76,7.65,11186.14272684752
+1068,United States,US,-,Mobile & Tablet,2022-09-05,62525.41999999999,30.0,0,September,0,42.76,7.65,11186.14272684752
+1069,United States,US,-,Mobile & Tablet,2022-09-06,62525.41999999999,73.0,0,September,0,42.76,7.65,11186.14272684752
+1070,United States,US,-,Mobile & Tablet,2022-09-07,62525.41999999999,111.0,0,September,0,42.76,7.65,11186.14272684752
+1071,United States,US,-,Mobile & Tablet,2022-09-08,62525.41999999999,75.0,0,September,0,42.76,7.65,11186.14272684752
+1072,United States,US,-,Mobile & Tablet,2022-09-09,62525.41999999999,77.0,0,September,0,42.76,7.65,11186.14272684752
+1073,United States,US,-,Mobile & Tablet,2022-09-10,62525.41999999999,27.0,1,September,0,42.76,7.65,11186.14272684752
+1074,United States,US,-,Mobile & Tablet,2022-09-11,62525.41999999999,62.0,1,September,0,42.76,7.65,11186.14272684752
+1075,United States,US,-,Mobile & Tablet,2022-09-12,62525.41999999999,107.0,0,September,0,42.76,7.65,11186.14272684752
+1076,United States,US,-,Mobile & Tablet,2022-09-13,62525.41999999999,84.0,0,September,0,42.76,7.65,11186.14272684752
+1077,United States,US,-,Mobile & Tablet,2022-09-14,62525.41999999999,64.0,0,September,0,42.76,7.65,11186.14272684752
+1078,United States,US,-,Mobile & Tablet,2022-09-15,62525.41999999999,75.0,0,September,0,42.76,7.65,11186.14272684752
+1079,United States,US,-,Mobile & Tablet,2022-09-16,62525.41999999999,87.0,0,September,0,42.76,7.65,11186.14272684752
+1080,United States,US,-,Mobile & Tablet,2022-09-17,62525.41999999999,43.0,1,September,0,42.76,7.65,11186.14272684752
+1081,United States,US,-,Mobile & Tablet,2022-09-18,62525.41999999999,38.0,1,September,0,42.76,7.65,11186.14272684752
+1082,United States,US,-,Mobile & Tablet,2022-09-19,62525.41999999999,94.0,0,September,0,42.76,7.65,11186.14272684752
+1083,United States,US,-,Mobile & Tablet,2022-09-20,62525.41999999999,111.0,0,September,0,42.76,7.65,11186.14272684752
+1084,United States,US,-,Mobile & Tablet,2022-09-21,62525.41999999999,109.0,0,September,0,42.76,7.65,11186.14272684752
+1085,United States,US,-,Mobile & Tablet,2022-09-22,62525.41999999999,49.0,0,September,0,42.76,7.65,11186.14272684752
+1086,United States,US,-,Mobile & Tablet,2022-09-23,62525.41999999999,57.0,0,September,0,42.76,7.65,11186.14272684752
+1087,United States,US,-,Mobile & Tablet,2022-09-24,62525.41999999999,40.0,1,September,0,42.76,7.65,11186.14272684752
+1088,United States,US,-,Mobile & Tablet,2022-09-25,62525.41999999999,48.0,1,September,0,42.76,7.65,11186.14272684752
+1089,United States,US,-,Mobile & Tablet,2022-09-26,62525.41999999999,96.0,0,September,0,42.76,7.65,11186.14272684752
+1090,United States,US,-,Mobile & Tablet,2022-09-27,62525.41999999999,98.0,0,September,0,42.76,7.65,11186.14272684752
+1091,United States,US,-,Mobile & Tablet,2022-09-28,62525.41999999999,78.0,0,September,0,42.76,7.65,11186.14272684752
+1092,United States,US,-,Mobile & Tablet,2022-09-29,62525.41999999999,78.0,0,September,0,42.76,7.65,11186.14272684752
+1093,United States,US,-,Mobile & Tablet,2022-09-30,62525.41999999999,67.0,0,September,0,42.76,7.65,11186.14272684752
+1094,United States,US,-,Mobile & Tablet,2022-10-01,62525.41999999999,40.0,1,October,0,42.76,7.65,11186.14272684752
+1095,United States,US,-,Mobile & Tablet,2022-10-02,62525.41999999999,28.0,1,October,0,42.76,7.65,11186.14272684752
+1096,United States,US,-,Mobile & Tablet,2022-10-03,62525.41999999999,97.0,0,October,0,42.76,7.65,11186.14272684752
+1097,United States,US,-,Mobile & Tablet,2022-10-04,62525.41999999999,103.0,0,October,0,42.76,7.65,11186.14272684752
+1098,United States,US,-,Mobile & Tablet,2022-10-05,62525.41999999999,88.0,0,October,0,42.76,7.65,11186.14272684752
+1099,United States,US,-,Mobile & Tablet,2022-10-06,62525.41999999999,105.0,0,October,0,42.76,7.65,11186.14272684752
+1100,United States,US,-,Mobile & Tablet,2022-10-07,62525.41999999999,74.0,0,October,0,42.76,7.65,11186.14272684752
+1101,United States,US,-,Mobile & Tablet,2022-10-08,62525.41999999999,43.0,1,October,0,42.76,7.65,11186.14272684752
+1102,United States,US,-,Mobile & Tablet,2022-10-09,62525.41999999999,48.0,1,October,0,42.76,7.65,11186.14272684752
+1103,United States,US,-,Mobile & Tablet,2022-10-10,62525.41999999999,80.0,0,October,0,42.76,7.65,11186.14272684752
+1104,United States,US,-,Mobile & Tablet,2022-10-11,62525.41999999999,84.0,0,October,0,42.76,7.65,11186.14272684752
+1105,United States,US,-,Mobile & Tablet,2022-10-12,62525.41999999999,187.0,0,October,0,42.76,7.65,11186.14272684752
+1106,United States,US,-,Mobile & Tablet,2022-10-13,62525.41999999999,97.0,0,October,0,42.76,7.65,11186.14272684752
+1107,United States,US,-,Mobile & Tablet,2022-10-14,62525.41999999999,145.0,0,October,0,42.76,7.65,11186.14272684752
+1108,United States,US,-,Mobile & Tablet,2022-10-15,62525.41999999999,163.0,1,October,0,42.76,7.65,11186.14272684752
+1109,United States,US,-,Mobile & Tablet,2022-10-16,62525.41999999999,151.0,1,October,0,42.76,7.65,11186.14272684752
+1110,United States,US,-,Mobile & Tablet,2022-10-17,62525.41999999999,295.0,0,October,0,42.76,7.65,11186.14272684752
+1111,United States,US,-,Mobile & Tablet,2022-10-18,62525.41999999999,309.0,0,October,0,42.76,7.65,11186.14272684752
+1112,United States,US,-,Mobile & Tablet,2022-10-19,62525.41999999999,412.0,0,October,0,42.76,7.65,11186.14272684752
+1113,United States,US,-,Mobile & Tablet,2022-10-20,62525.41999999999,407.0,0,October,0,42.76,7.65,11186.14272684752
+1114,United States,US,-,Mobile & Tablet,2022-10-21,62525.41999999999,384.0,0,October,0,42.76,7.65,11186.14272684752
+1115,United States,US,-,Mobile & Tablet,2022-10-22,62525.41999999999,209.0,1,October,0,42.76,7.65,11186.14272684752
+1116,United States,US,-,Mobile & Tablet,2022-10-23,62525.41999999999,261.0,1,October,0,42.76,7.65,11186.14272684752
+1117,United States,US,-,Mobile & Tablet,2022-10-24,62525.41999999999,519.0,0,October,0,42.76,7.65,11186.14272684752
+1118,United States,US,-,Mobile & Tablet,2022-10-25,62525.41999999999,546.0,0,October,0,42.76,7.65,11186.14272684752
+1119,United States,US,-,Mobile & Tablet,2022-10-26,62525.41999999999,456.0,0,October,0,42.76,7.65,11186.14272684752
+1120,United States,US,-,Mobile & Tablet,2022-10-27,62525.41999999999,434.0,0,October,0,42.76,7.65,11186.14272684752
+1121,United States,US,-,Mobile & Tablet,2022-10-28,62525.41999999999,345.0,0,October,0,42.76,7.65,11186.14272684752
+1122,United States,US,-,Mobile & Tablet,2022-10-29,62525.41999999999,143.0,1,October,0,42.76,7.65,11186.14272684752
+1123,United States,US,-,Mobile & Tablet,2022-10-30,62525.41999999999,200.0,1,October,0,42.76,7.65,11186.14272684752
+1124,United States,US,-,Mobile & Tablet,2022-10-31,62525.41999999999,405.0,0,October,0,42.76,7.65,11186.14272684752
+1125,United States,US,-,Mobile & Tablet,2022-12-01,62525.41999999999,344.0,0,December,0,42.76,7.65,11186.14272684752
+1126,United States,US,-,Mobile & Tablet,2022-12-02,62525.41999999999,348.0,0,December,0,42.76,7.65,11186.14272684752
+1127,United States,US,-,Mobile & Tablet,2022-12-03,62525.41999999999,213.0,1,December,0,42.76,7.65,11186.14272684752
+1128,United States,US,-,Mobile & Tablet,2022-12-04,62525.41999999999,227.0,1,December,0,42.76,7.65,11186.14272684752
+1129,United States,US,-,Mobile & Tablet,2022-12-05,62525.41999999999,438.0,0,December,0,42.76,7.65,11186.14272684752
+1130,United States,US,-,Mobile & Tablet,2022-12-06,62525.41999999999,411.0,0,December,0,42.76,7.65,11186.14272684752
+1131,United States,US,-,Mobile & Tablet,2022-12-07,62525.41999999999,450.0,0,December,0,42.76,7.65,11186.14272684752
+1132,United States,US,-,Mobile & Tablet,2022-12-08,62525.41999999999,498.0,0,December,0,42.76,7.65,11186.14272684752
+1133,United States,US,-,Mobile & Tablet,2022-12-09,62525.41999999999,435.0,0,December,0,42.76,7.65,11186.14272684752
+1134,United States,US,-,Mobile & Tablet,2022-12-10,62525.41999999999,332.0,1,December,0,42.76,7.65,11186.14272684752
+1135,United States,US,-,Mobile & Tablet,2022-12-11,62525.41999999999,322.0,1,December,0,42.76,7.65,11186.14272684752
+1136,United States,US,-,Mobile & Tablet,2022-12-12,62525.41999999999,742.0,0,December,0,42.76,7.65,11186.14272684752
+1137,United States,US,-,Mobile & Tablet,2022-12-13,62525.41999999999,659.0,0,December,0,42.76,7.65,11186.14272684752
+1138,United States,US,-,Mobile & Tablet,2022-12-14,62525.41999999999,624.0,0,December,0,42.76,7.65,11186.14272684752
+1139,United States,US,-,Mobile & Tablet,2022-12-15,62525.41999999999,695.0,0,December,0,42.76,7.65,11186.14272684752
+1140,United States,US,-,Mobile & Tablet,2022-12-16,62525.41999999999,618.0,0,December,0,42.76,7.65,11186.14272684752
+1141,United States,US,-,Mobile & Tablet,2022-12-17,62525.41999999999,587.0,1,December,0,42.76,7.65,11186.14272684752
+1142,United States,US,-,Mobile & Tablet,2022-12-18,62525.41999999999,510.0,1,December,0,42.76,7.65,11186.14272684752
+1143,United States,US,-,Mobile & Tablet,2022-12-19,62525.41999999999,925.0,0,December,0,42.76,7.65,11186.14272684752
+1144,United States,US,-,Mobile & Tablet,2022-12-20,62525.41999999999,971.0,0,December,0,42.76,7.65,11186.14272684752
+1145,United States,US,-,Mobile & Tablet,2022-12-21,62525.41999999999,713.0,0,December,0,42.76,7.65,11186.14272684752
+1146,United States,US,-,Mobile & Tablet,2022-12-22,62525.41999999999,557.0,0,December,0,42.76,7.65,11186.14272684752
+1147,United States,US,-,Mobile & Tablet,2022-12-23,62525.41999999999,364.0,0,December,0,42.76,7.65,11186.14272684752
+1148,United States,US,-,Mobile & Tablet,2022-12-24,62525.41999999999,39.0,1,December,0,42.76,7.65,11186.14272684752
+1149,United States,US,-,Mobile & Tablet,2022-12-25,62525.41999999999,13.0,1,December,0,42.76,7.65,11186.14272684752
+1150,United States,US,-,Mobile & Tablet,2022-12-26,62525.41999999999,259.0,0,December,0,42.76,7.65,11186.14272684752
+1151,United States,US,-,Mobile & Tablet,2022-12-27,62525.41999999999,384.0,0,December,0,42.76,7.65,11186.14272684752
+1152,United States,US,-,Mobile & Tablet,2022-12-28,62525.41999999999,363.0,0,December,0,42.76,7.65,11186.14272684752
+1153,United States,US,-,Mobile & Tablet,2022-12-29,62525.41999999999,372.0,0,December,0,42.76,7.65,11186.14272684752
+1154,United States,US,-,Mobile & Tablet,2022-12-30,62525.41999999999,353.0,0,December,0,42.76,7.65,11186.14272684752
+1155,United States,US,-,Mobile & Tablet,2022-12-31,62525.41999999999,63.0,1,December,0,42.76,7.65,11186.14272684752
+1156,United States,US,-,Mobile & Tablet,2023-01-01,62525.41999999999,28.0,1,January,0,42.76,7.65,11186.14272684752
+1157,United States,US,-,Mobile & Tablet,2023-01-02,1044.6599999999999,269.0,0,January,0,42.76,7.65,186.89543966323666
+1158,United States,US,-,Mobile & Tablet,2023-01-03,2701.94,407.0,0,January,0,42.76,7.65,483.3919784845651
+1159,United States,US,-,Mobile & Tablet,2023-01-04,1004.22,388.0,0,January,0,42.76,7.65,179.66050046772688
+1160,United States,US,-,Mobile & Tablet,2023-01-05,1609.5999999999997,382.0,0,January,0,42.76,7.65,287.96632366697844
+1161,United States,US,-,Mobile & Tablet,2023-01-06,649.5899999999999,309.0,0,January,0,42.76,7.65,116.215236202058
+1162,United States,US,-,Mobile & Tablet,2023-01-07,763.28,222.0,1,January,0,42.76,7.65,136.55500467726847
+1163,United States,US,-,Mobile & Tablet,2023-01-08,692.5999999999997,221.0,1,January,0,42.76,7.65,123.90996258185214
+1164,United States,US,-,Mobile & Tablet,2023-01-09,722.7099999999999,404.0,0,January,0,42.76,7.65,129.29680776426568
+1165,United States,US,-,Mobile & Tablet,2023-01-10,1601.6199999999997,388.0,0,January,0,42.76,7.65,286.5386576239476
+1166,United States,US,-,Mobile & Tablet,2023-01-11,509.81000000000006,364.0,0,January,0,42.76,7.65,91.20782273152481
+1167,United States,US,-,Mobile & Tablet,2023-01-12,1035.6800000000003,333.0,0,January,0,42.76,7.65,185.28886810102907
+1168,United States,US,-,Mobile & Tablet,2023-01-13,547.2300000000001,343.0,0,January,0,42.76,7.65,97.90246725912071
+1169,United States,US,-,Mobile & Tablet,2023-01-14,339.55,182.0,1,January,0,42.76,7.65,60.7473690364827
+1170,United States,US,-,Mobile & Tablet,2023-01-15,1256.9399999999998,187.0,1,January,0,42.76,7.65,224.8735032740879
+1171,United States,US,-,Mobile & Tablet,2023-01-16,1832.0099999999998,497.0,0,January,0,42.76,7.65,327.7567001870907
+1172,United States,US,-,Mobile & Tablet,2023-01-17,4437.480000000001,492.0,0,January,0,42.76,7.65,793.88966323667
+1173,United States,US,-,Mobile & Tablet,2023-01-18,2031.88,456.0,0,January,0,42.76,7.65,363.51454630495795
+1174,United States,US,-,Mobile & Tablet,2023-01-19,1218.5799999999997,345.0,0,January,0,42.76,7.65,218.01068755846583
+1175,United States,US,-,Mobile & Tablet,2023-01-20,2276.4,302.0,0,January,0,42.76,7.65,407.26052385406933
+1176,United States,US,-,Mobile & Tablet,2023-01-21,861.36,216.0,1,January,0,42.76,7.65,154.1020579981291
+1177,United States,US,-,Mobile & Tablet,2023-01-22,1537.74,207.0,1,January,0,42.76,7.65,275.11017305893364
+1178,United States,US,-,Mobile & Tablet,2023-01-23,2185.650000000001,462.0,0,January,0,42.76,7.65,391.02484798877475
+1179,United States,US,-,Mobile & Tablet,2023-01-24,3701.7700000000013,452.0,0,January,0,42.76,7.65,662.267083723106
+1180,United States,US,-,Mobile & Tablet,2023-01-25,3357.780000000001,409.0,0,January,0,42.76,7.65,600.7253741814783
+1181,United States,US,-,Mobile & Tablet,2023-01-26,2827.079999999999,437.0,0,January,0,42.76,7.65,505.7802151543497
+1182,United States,US,-,Mobile & Tablet,2023-01-27,1784.9199999999994,293.0,0,January,0,42.76,7.65,319.3320392890551
+1183,United States,US,-,Mobile & Tablet,2023-01-28,1427.0199999999998,241.0,1,January,0,42.76,7.65,255.3017539756782
+1184,United States,US,-,Mobile & Tablet,2023-01-29,676.9399999999999,193.0,1,January,0,42.76,7.65,121.1083021515435
+1185,United States,US,-,Mobile & Tablet,2023-01-30,1233.4400000000003,387.0,0,January,0,42.76,7.65,220.6692235734332
+1186,United States,US,-,Mobile & Tablet,2023-01-31,1440.28,364.0,0,January,0,42.76,7.65,257.6740411599626
+1187,United States,US,-,Mobile & Tablet,2023-02-01,1460.7900000000004,349.0,0,February,0,42.76,7.65,261.34339335827883
+1188,United States,US,-,Mobile & Tablet,2023-02-02,793.4199999999998,349.0,0,February,0,42.76,7.65,141.94721702525723
+1189,United States,US,-,Mobile & Tablet,2023-02-03,783.7600000000001,298.0,0,February,0,42.76,7.65,140.2189897100094
+1190,United States,US,-,Mobile & Tablet,2023-02-04,806.9799999999997,174.0,1,February,0,42.76,7.65,144.37317586529463
+1191,United States,US,-,Mobile & Tablet,2023-02-05,778.0700000000003,191.0,1,February,0,42.76,7.65,139.20101730589343
+1192,United States,US,-,Mobile & Tablet,2023-02-06,1709.0799999999995,410.0,0,February,0,42.76,7.65,305.7638447146865
+1193,United States,US,-,Mobile & Tablet,2023-02-07,2237.85,373.0,0,February,0,42.76,7.65,400.36371608980363
+1194,United States,US,-,Mobile & Tablet,2023-02-08,2424.77,401.0,0,February,0,42.76,7.65,433.8047357343312
+1195,United States,US,-,Mobile & Tablet,2023-02-09,1952.3799999999999,417.0,0,February,0,42.76,7.65,349.29155753040226
+1196,United States,US,-,Mobile & Tablet,2023-02-10,1522.4599999999998,335.0,0,February,0,42.76,7.65,272.3764967259121
+1197,United States,US,-,Mobile & Tablet,2023-02-11,1312.7599999999998,232.0,1,February,0,42.76,7.65,234.8600093545369
+1198,United States,US,-,Mobile & Tablet,2023-02-12,1302.79,185.0,1,February,0,42.76,7.65,233.07632132834428
+1199,United States,US,-,Mobile & Tablet,2023-02-13,5992.580000000001,508.0,0,February,0,42.76,7.65,1072.105636108513
+1200,United States,US,-,Mobile & Tablet,2023-02-14,3142.17,431.0,0,February,0,42.76,7.65,562.151555191768
+1201,United States,US,-,Mobile & Tablet,2023-02-15,2420.94,404.0,0,February,0,42.76,7.65,433.1195275958841
+1202,United States,US,-,Mobile & Tablet,2023-02-16,3514.159999999999,283.0,0,February,0,42.76,7.65,628.702619270346
+1203,United States,US,-,Mobile & Tablet,2023-02-17,2457.7400000000007,270.0,0,February,0,42.76,7.65,439.70325070159043
+1204,United States,US,-,Mobile & Tablet,2023-02-18,1100.29,155.0,1,February,0,42.76,7.65,196.84795369504212
+1205,United States,US,-,Mobile & Tablet,2023-02-19,998.68,140.0,1,February,0,42.76,7.65,178.6693638914874
+1206,United States,US,-,Mobile & Tablet,2023-02-20,1599.8800000000006,330.0,0,February,0,42.76,7.65,286.2273620205801
+1207,United States,US,-,Mobile & Tablet,2023-02-21,1559.2799999999995,295.0,0,February,0,42.76,7.65,278.9637979420018
+1208,United States,US,-,Mobile & Tablet,2023-02-22,3239.14,280.0,0,February,0,42.76,7.65,579.5000233863424
+1209,United States,US,-,Mobile & Tablet,2023-02-23,1294.2299999999996,321.0,0,February,0,42.76,7.65,231.54489008419077
+1210,United States,US,-,Mobile & Tablet,2023-02-24,1423.44,280.0,0,February,0,42.76,7.65,254.6612722170253
+1211,United States,US,-,Mobile & Tablet,2023-02-25,1092.61,187.0,1,February,0,42.76,7.65,195.4739593077643
+1212,United States,US,-,Mobile & Tablet,2023-02-26,1218.1399999999996,210.0,1,February,0,42.76,7.65,217.931969130028
+1213,United States,US,-,Mobile & Tablet,2023-02-27,1860.2899999999995,394.0,0,February,0,42.76,7.65,332.81614826941063
+1214,United States,US,-,Mobile & Tablet,2023-02-28,2138.2400000000002,385.0,0,February,0,42.76,7.65,382.5429373246025
+1215,United States,US,-,Mobile & Tablet,2023-03-01,2370.7300000000005,414.0,0,March,0,42.76,7.65,424.13668147801695
+1216,United States,US,-,Mobile & Tablet,2023-03-02,3865.0199999999986,350.0,0,March,0,42.76,7.65,691.4734097287183
+1217,United States,US,-,Mobile & Tablet,2023-03-03,1709.0900000000001,327.0,0,March,0,42.76,7.65,305.76563376987843
+1218,United States,US,-,Mobile & Tablet,2023-03-04,1150.6599999999996,181.0,1,March,0,42.76,7.65,205.85942469597748
+1219,United States,US,-,Mobile & Tablet,2023-03-05,2462.86,218.0,1,March,0,42.76,7.65,440.6192469597755
+1220,United States,US,-,Mobile & Tablet,2023-03-06,2354.7700000000004,436.0,0,March,0,42.76,7.65,421.2813493919552
+1221,United States,US,-,Mobile & Tablet,2023-03-07,3117.4200000000005,411.0,0,March,0,42.76,7.65,557.7236435921424
+1222,United States,US,-,Mobile & Tablet,2023-03-08,1670.6499999999996,373.0,0,March,0,42.76,7.65,298.88850561272216
+1223,United States,US,-,Mobile & Tablet,2023-03-09,2248.9599999999996,324.0,0,March,0,42.76,7.65,402.3513564078578
+1224,United States,US,-,Mobile & Tablet,2023-03-10,2605.3200000000006,368.0,0,March,0,42.76,7.65,466.10612722170265
+1225,United States,US,-,Mobile & Tablet,2023-03-11,1974.2899999999995,177.0,1,March,0,42.76,7.65,353.2113774555659
+1226,United States,US,-,Mobile & Tablet,2023-03-12,2068.5799999999995,195.0,1,March,0,42.76,7.65,370.0803788587464
+1227,United States,US,-,Mobile & Tablet,2023-03-13,2480.7999999999997,446.0,0,March,0,42.76,7.65,443.8288119738073
+1228,United States,US,-,Mobile & Tablet,2023-03-14,1417.3499999999997,322.0,0,March,0,42.76,7.65,253.5717376052385
+1229,United States,US,-,Mobile & Tablet,2023-03-15,870.0899999999997,358.0,0,March,0,42.76,7.65,155.66390318054252
+1230,United States,US,-,Mobile & Tablet,2023-03-16,1401.0499999999995,315.0,0,March,0,42.76,7.65,250.65557764265665
+1231,United States,US,-,Mobile & Tablet,2023-03-17,1283.2800000000004,307.0,0,March,0,42.76,7.65,229.58587464920498
+1232,United States,US,-,Mobile & Tablet,2023-03-18,791.4300000000001,176.0,1,March,0,42.76,7.65,141.59119504209542
+1233,United States,US,-,Mobile & Tablet,2023-03-19,716.91,183.0,1,March,0,42.76,7.65,128.25915575304023
+1234,United States,US,-,Mobile & Tablet,2023-03-20,1258.8899999999999,428.0,0,March,0,42.76,7.65,225.2223690364827
+1235,United States,US,-,Mobile & Tablet,2023-03-21,1590.4899999999998,354.0,0,March,0,42.76,7.65,284.5474391955098
+1236,United States,US,-,Mobile & Tablet,2023-03-22,1650.7899999999997,342.0,0,March,0,42.76,7.65,295.3354420018709
+1237,United States,US,-,Mobile & Tablet,2023-03-23,1574.8799999999999,353.0,0,March,0,42.76,7.65,281.75472404116
+1238,United States,US,-,Mobile & Tablet,2023-03-24,1242.0699999999993,357.0,0,March,0,42.76,7.65,222.2131782039288
+1239,United States,US,-,Mobile & Tablet,2023-03-25,944.8399999999998,191.0,1,March,0,42.76,7.65,169.0370907390084
+1240,United States,US,-,Mobile & Tablet,2023-03-26,1036.4400000000003,209.0,1,March,0,42.76,7.65,185.42483629560343
+1241,United States,US,-,Mobile & Tablet,2023-03-27,2515.660000000001,480.0,0,March,0,42.76,7.65,450.06545837231084
+1242,United States,US,-,Mobile & Tablet,2023-03-28,3097.85,451.0,0,March,0,42.76,7.65,554.2224625818523
+1243,United States,US,-,Mobile & Tablet,2023-03-29,3748.3700000000003,461.0,0,March,0,42.76,7.65,670.6040809167448
+1244,United States,US,-,Mobile & Tablet,2023-03-30,3148.7099999999996,445.0,0,March,0,42.76,7.65,563.3215972871843
+1245,United States,US,-,Mobile & Tablet,2023-03-31,3123.5,357.0,0,March,0,42.76,7.65,558.8113891487372
+1246,United States,US,-,Mobile & Tablet,2023-04-01,3197.4500000000003,207.0,1,April,0,42.76,7.65,572.0414522918617
+1247,United States,US,-,Mobile & Tablet,2023-04-02,2793.820000000001,235.0,1,April,0,42.76,7.65,499.8298175865297
+1248,United States,US,-,Mobile & Tablet,2023-04-03,5600.799999999998,559.0,0,April,0,42.76,7.65,1002.0140318054254
+1249,United States,US,-,Mobile & Tablet,2023-04-04,4105.839999999999,381.0,0,April,0,42.76,7.65,734.5574368568755
+1250,United States,US,-,Mobile & Tablet,2023-04-05,2048.1499999999996,355.0,0,April,0,42.76,7.65,366.4253391019644
+1251,United States,US,-,Mobile & Tablet,2023-04-06,1405.99,311.0,0,April,0,42.76,7.65,251.5393709073901
+1252,United States,US,-,Mobile & Tablet,2023-04-07,2673.8199999999997,291.0,0,April,0,42.76,7.65,478.3611552853134
+1253,United States,US,-,Mobile & Tablet,2023-04-08,2669.32,180.0,1,April,0,42.76,7.65,477.5560804490178
+1254,United States,US,-,Mobile & Tablet,2023-04-09,1297.06,127.0,1,April,0,42.76,7.65,232.0511927034612
+1255,United States,US,-,Mobile & Tablet,2023-04-10,2858.1400000000003,411.0,0,April,0,42.76,7.65,511.3370205799814
+1256,United States,US,-,Mobile & Tablet,2023-04-11,1616.4199999999996,333.0,0,April,0,42.76,7.65,289.1864593077642
+1257,United States,US,-,Mobile & Tablet,2023-04-12,3548.1600000000008,341.0,0,April,0,42.76,7.65,634.7854069223575
+1258,United States,US,-,Mobile & Tablet,2023-04-13,3342.0000000000005,342.0,0,April,0,42.76,7.65,597.9022450888682
+1259,United States,US,-,Mobile & Tablet,2023-04-14,3386.4999999999995,331.0,0,April,0,42.76,7.65,605.8635406922357
+1260,United States,US,-,Mobile & Tablet,2023-04-15,1748.25,159.0,1,April,0,42.76,7.65,312.77157390084193
+1261,United States,US,-,Mobile & Tablet,2023-04-16,1979.4,173.0,1,April,0,42.76,7.65,354.12558465855943
+1262,United States,US,-,Mobile & Tablet,2023-04-17,5723.32,426.0,0,April,0,42.76,7.65,1023.9335360149673
+1263,United States,US,-,Mobile & Tablet,2023-04-18,1188.5699999999997,314.0,0,April,0,42.76,7.65,212.64173292797003
+1264,United States,US,-,Mobile & Tablet,2023-04-19,1559.4500000000005,312.0,0,April,0,42.76,7.65,278.99421188026207
+1265,United States,US,-,Mobile & Tablet,2023-04-20,1481.1399999999999,320.0,0,April,0,42.76,7.65,264.98412067352666
+1266,United States,US,-,Mobile & Tablet,2023-04-21,1993.6099999999997,293.0,0,April,0,42.76,7.65,356.6678320860617
+1267,United States,US,-,Mobile & Tablet,2023-04-22,7891.440000000002,203.0,1,April,0,42.76,7.65,1411.822170252573
+1268,United States,US,-,Mobile & Tablet,2023-04-23,3096.4100000000003,178.0,1,April,0,42.76,7.65,553.9648386342377
+1269,United States,US,-,Mobile & Tablet,2023-04-24,2346.0399999999986,363.0,0,April,0,42.76,7.65,419.7195042095414
+1270,United States,US,-,Mobile & Tablet,2023-04-25,997.58,311.0,0,April,0,42.76,7.65,178.47256782039292
+1271,United States,US,-,Mobile & Tablet,2023-04-26,1464.2500000000002,288.0,0,April,0,42.76,7.65,261.9624064546306
+1272,United States,US,-,Mobile & Tablet,2023-04-27,861.93,317.0,0,April,0,42.76,7.65,154.20403414405988
+1273,United States,US,-,Mobile & Tablet,2023-04-28,1087.4899999999998,241.0,0,April,0,42.76,7.65,194.55796304957903
+1274,United States,US,-,Mobile & Tablet,2023-04-29,4653.440000000003,183.0,1,April,0,42.76,7.65,832.5260991580924
+1275,United States,US,-,Mobile & Tablet,2023-04-30,2313.089999999999,190.0,1,April,0,42.76,7.65,413.82456735266584
+1276,United States,US,-,Mobile & Tablet,2023-05-01,946.5799999999997,330.0,0,May,0,42.76,7.65,169.34838634237602
+1277,United States,US,-,Mobile & Tablet,2023-05-02,993.48,279.0,0,May,0,42.76,7.65,177.73905519176802
+1278,United States,US,-,Mobile & Tablet,2023-05-03,1218.3899999999994,328.0,0,May,0,42.76,7.65,217.97669550982218
+1279,United States,US,-,Mobile & Tablet,2023-05-04,2016.8799999999999,287.0,0,May,0,42.76,7.65,360.8309635173059
+1280,United States,US,-,Mobile & Tablet,2023-05-05,1248.01,285.0,0,May,0,42.76,7.65,223.2758769878391
+1281,United States,US,-,Mobile & Tablet,2023-05-06,2689.7599999999984,147.0,1,May,0,42.76,7.65,481.21290926099135
+1282,United States,US,-,Mobile & Tablet,2023-05-07,1567.59,176.0,1,May,0,42.76,7.65,280.4505028063611
+1283,United States,US,-,Mobile & Tablet,2023-05-08,1487.5099999999998,420.0,0,May,0,42.76,7.65,266.12374883068287
+1284,United States,US,-,Mobile & Tablet,2023-05-09,1667.7599999999995,255.0,0,May,0,42.76,7.65,298.3714686623012
+1285,United States,US,-,Mobile & Tablet,2023-05-10,1332.4599999999998,293.0,0,May,0,42.76,7.65,238.38444808231992
+1286,United States,US,-,Mobile & Tablet,2023-05-11,1143.75,335.0,0,May,0,42.76,7.65,204.62318755846587
+1287,United States,US,-,Mobile & Tablet,2023-05-12,1067.2699999999998,287.0,0,May,0,42.76,7.65,190.9404934518241
+1288,United States,US,-,Mobile & Tablet,2023-05-13,2165.9100000000017,186.0,1,May,0,42.76,7.65,387.49325304022483
+1289,United States,US,-,Mobile & Tablet,2023-05-14,5492.56,147.0,1,May,0,42.76,7.65,982.6492984097288
+1290,United States,US,-,Mobile & Tablet,2023-05-15,655.8899999999999,365.0,0,May,0,42.76,7.65,117.34234097287182
+1291,United States,US,-,Mobile & Tablet,2023-05-16,547.19,259.0,0,May,0,42.76,7.65,97.89531103835363
+1292,United States,US,-,Mobile & Tablet,2023-05-17,1168.3400000000006,295.0,0,May,0,42.76,7.65,209.0224742750235
+1293,United States,US,-,Mobile & Tablet,2023-05-18,1753.6599999999999,293.0,0,May,0,42.76,7.65,313.7394527595884
+1294,United States,US,-,Mobile & Tablet,2023-05-19,1676.8800000000003,229.0,0,May,0,42.76,7.65,300.00308699719375
+1295,United States,US,-,Mobile & Tablet,2023-05-20,3442.439999999999,148.0,1,May,0,42.76,7.65,615.8715154349859
+1296,United States,US,-,Mobile & Tablet,2023-05-21,3337.82,157.0,1,May,0,42.76,7.65,597.1544200187092
+1297,United States,US,-,Mobile & Tablet,2023-05-22,782.6999999999999,289.0,0,May,0,42.76,7.65,140.02934985968196
+1298,United States,US,-,Mobile & Tablet,2023-05-23,954.2000000000002,229.0,0,May,0,42.76,7.65,170.71164639850332
+1299,United States,US,-,Mobile & Tablet,2023-05-24,1140.5800000000002,226.0,0,May,0,42.76,7.65,204.05605706267545
+1300,United States,US,-,Mobile & Tablet,2023-05-25,639.8500000000004,188.0,0,May,0,42.76,7.65,114.47269644527603
+1301,United States,US,-,Mobile & Tablet,2023-05-26,540.6300000000003,168.0,0,May,0,42.76,7.65,96.72169083255385
+1302,United States,US,-,Mobile & Tablet,2023-05-27,0.2,29.0,1,May,0,42.76,7.65,0.03578110383536016
+1303,United States,US,-,Mobile & Tablet,2023-05-28,1.03,23.0,1,May,0,42.76,7.65,0.1842726847521048
+1304,United States,US,-,Mobile & Tablet,2023-05-29,638.17,73.0,0,May,0,42.76,7.65,114.17213517305895
+1305,United States,US,-,Mobile & Tablet,2023-05-30,259.64,146.0,0,May,0,42.76,7.65,46.45102899906455
+1306,United States,US,-,Mobile & Tablet,2023-05-31,2199.0399999999986,192.0,0,May,0,42.76,7.65,393.42039289055174
+1307,United States,US,-,Mobile & Tablet,2023-06-01,1976.8,241.0,0,June,0,42.76,7.65,353.66043030869974
+1308,United States,US,-,Mobile & Tablet,2023-06-02,2175.9699999999993,262.0,0,June,0,42.76,7.65,389.29304256314305
+1309,United States,US,-,Mobile & Tablet,2023-06-03,2240.8400000000015,166.0,1,June,0,42.76,7.65,400.89864359214255
+1310,United States,US,-,Mobile & Tablet,2023-06-04,1856.2099999999998,183.0,1,June,0,42.76,7.65,332.08621375116934
+1311,United States,US,-,Mobile & Tablet,2023-06-05,3390.0600000000004,469.0,0,June,0,42.76,7.65,606.5004443405053
+1312,United States,US,-,Mobile & Tablet,2023-06-06,2069.5999999999995,281.0,0,June,0,42.76,7.65,370.2628624883068
+1313,United States,US,-,Mobile & Tablet,2023-06-07,2102.230000000001,344.0,0,June,0,42.76,7.65,376.10054957904606
+1314,United States,US,-,Mobile & Tablet,2023-06-08,2310.4700000000003,327.0,0,June,0,42.76,7.65,413.35583489242293
+1315,United States,US,-,Mobile & Tablet,2023-06-09,4753.519999999999,285.0,0,June,0,42.76,7.65,850.4309635173057
+1316,United States,US,-,Mobile & Tablet,2023-06-10,2049.17,150.0,1,June,0,42.76,7.65,366.60782273152483
+1317,United States,US,-,Mobile & Tablet,2023-06-11,1796.4499999999994,154.0,1,June,0,42.76,7.65,321.39481992516363
+1318,United States,US,-,Mobile & Tablet,2023-06-12,1733.94,327.0,0,June,0,42.76,7.65,310.2114359214219
+1319,United States,US,-,Mobile & Tablet,2023-06-13,925.2300000000001,334.0,0,June,0,42.76,7.65,165.5287535079514
+1320,United States,US,-,Mobile & Tablet,2023-06-14,1675.4200000000003,339.0,0,June,0,42.76,7.65,299.7418849391956
+1321,United States,US,-,Mobile & Tablet,2023-06-15,2831.9799999999996,330.0,0,June,0,42.76,7.65,506.65685219831613
+1322,United States,US,-,Mobile & Tablet,2023-06-16,1955.41,325.0,0,June,0,42.76,7.65,349.833641253508
+1323,United States,US,-,Mobile & Tablet,2023-06-17,1177.0299999999997,153.0,1,June,0,42.76,7.65,210.57716323666978
+1324,United States,US,-,Mobile & Tablet,2023-06-18,2520.2400000000007,126.0,1,June,0,42.76,7.65,450.8848456501405
+1325,United States,US,-,Mobile & Tablet,2023-06-19,5792.220000000003,377.0,0,June,0,42.76,7.65,1036.2601262862495
+1326,United States,US,-,Mobile & Tablet,2023-06-20,7595.780000000001,437.0,0,June,0,42.76,7.65,1358.9269644527596
+1327,United States,US,-,Mobile & Tablet,2023-06-21,1270.62,294.0,0,June,0,42.76,7.65,227.3209307764266
+1328,United States,US,-,Mobile & Tablet,2023-06-22,1217.2599999999995,365.0,0,June,0,42.76,7.65,217.77453227315243
+1329,United States,US,-,Mobile & Tablet,2023-06-23,1662.7799999999997,375.0,0,June,0,42.76,7.65,297.4805191768007
+1330,United States,US,-,Mobile & Tablet,2023-06-24,2522.23,244.0,1,June,0,42.76,7.65,451.2408676333022
+1331,United States,US,-,Mobile & Tablet,2023-06-25,2341.520000000001,181.0,1,June,0,42.76,7.65,418.9108512628627
+1332,United States,US,-,Mobile & Tablet,2023-06-26,3556.36,414.0,0,June,0,42.76,7.65,636.2524321796072
+1333,United States,US,-,Mobile & Tablet,2023-06-27,2145.3199999999997,350.0,0,June,0,42.76,7.65,383.8095884003742
+1334,United States,US,-,Mobile & Tablet,2023-06-28,2605.6399999999994,408.0,0,June,0,42.76,7.65,466.16337698783906
+1335,United States,US,-,Mobile & Tablet,2023-06-29,1685.2999999999995,297.0,0,June,0,42.76,7.65,301.50947146866224
+1336,United States,US,-,Mobile & Tablet,2023-06-30,2136.030000000001,324.0,0,June,0,42.76,7.65,382.14755612722195
+1337,United States,US,-,Mobile & Tablet,2023-07-01,4899.4000000000015,174.0,1,July,0,42.76,7.65,876.5297006548179
+1338,United States,US,-,Mobile & Tablet,2023-07-02,2232.640000000001,141.0,1,July,0,42.76,7.65,399.4316183348926
+1339,United States,US,-,Mobile & Tablet,2023-07-03,10201.660000000002,366.0,0,July,0,42.76,7.65,1825.1332787652018
+1340,United States,US,-,Mobile & Tablet,2023-07-04,5527.34,139.0,0,July,0,42.76,7.65,988.871632366698
+1341,United States,US,-,Mobile & Tablet,2023-07-05,9708.680000000004,397.0,0,July,0,42.76,7.65,1736.9364359214228
+1342,United States,US,-,Mobile & Tablet,2023-07-06,3584.48,327.0,0,July,0,42.76,7.65,641.2832553788588
+1343,United States,US,-,Mobile & Tablet,2023-07-07,2229.9399999999996,309.0,0,July,0,42.76,7.65,398.94857343311503
+1344,United States,US,-,Mobile & Tablet,2023-07-08,1543.09,153.0,1,July,0,42.76,7.65,276.06731758652944
+1345,United States,US,-,Mobile & Tablet,2023-07-09,1398.9799999999996,154.0,1,July,0,42.76,7.65,250.28524321796064
+1346,United States,US,-,Mobile & Tablet,2023-07-10,6143.380000000002,367.0,0,July,0,42.76,7.65,1099.0845884003747
+1347,United States,US,-,Mobile & Tablet,2023-07-11,2569.180000000001,339.0,0,July,0,42.76,7.65,459.6404817586532
+1348,United States,US,-,Mobile & Tablet,2023-07-12,1777.53,272.0,0,July,0,42.76,7.65,318.00992750233866
+1349,United States,US,-,Mobile & Tablet,2023-07-13,2240.96,327.0,0,July,0,42.76,7.65,400.92011225444344
+1350,United States,US,-,Mobile & Tablet,2023-07-14,2601.959999999999,277.0,0,July,0,42.76,7.65,465.5050046772684
+1351,United States,US,-,Mobile & Tablet,2023-07-15,1495.4299999999996,147.0,1,July,0,42.76,7.65,267.5406805425631
+1352,United States,US,-,Mobile & Tablet,2023-07-16,2615.0,129.0,1,July,0,42.76,7.65,467.83793264733396
+1353,United States,US,-,Mobile & Tablet,2023-07-17,2875.289999999999,328.0,0,July,0,42.76,7.65,514.4052502338633
+1354,United States,US,-,Mobile & Tablet,2023-07-18,1059.28,274.0,0,July,0,42.76,7.65,189.51103835360152
+1355,United States,US,-,Mobile & Tablet,2023-07-19,1403.3899999999994,237.0,0,July,0,42.76,7.65,251.07421655753032
+1356,United States,US,-,Mobile & Tablet,2023-07-20,1611.1299999999999,242.0,0,July,0,42.76,7.65,288.240049111319
+1357,United States,US,-,Mobile & Tablet,2023-07-21,1522.82,216.0,0,July,0,42.76,7.65,272.4409027128157
+1358,United States,US,-,Mobile & Tablet,2023-07-22,1007.1800000000001,124.0,1,July,0,42.76,7.65,180.1900608044902
+1359,United States,US,-,Mobile & Tablet,2023-07-23,1737.7600000000002,92.0,1,July,0,42.76,7.65,310.8948550046773
+1360,United States,US,-,Mobile & Tablet,2023-07-24,1792.79,240.0,0,July,0,42.76,7.65,320.74002572497665
+1361,United States,US,-,Mobile & Tablet,2023-07-25,560.3699999999999,198.0,0,July,0,42.76,7.65,100.25328578110381
+1362,United States,US,-,Mobile & Tablet,2023-07-26,1070.4399999999996,201.0,0,July,0,42.76,7.65,191.50762394761455
+1363,United States,US,-,Mobile & Tablet,2023-07-27,2013.85,222.0,0,July,0,42.76,7.65,360.28887979420017
+1364,United States,US,-,Mobile & Tablet,2023-07-28,1668.79,225.0,0,July,0,42.76,7.65,298.55574134705336
+1365,United States,US,-,Mobile & Tablet,2023-07-29,1232.4200000000003,136.0,1,July,0,42.76,7.65,220.48673994387286
+1366,United States,US,-,Mobile & Tablet,2023-07-30,2141.42,87.0,1,July,0,42.76,7.65,383.1118568755847
+1367,United States,US,-,Mobile & Tablet,2023-07-31,2272.3399999999992,327.0,0,July,0,42.76,7.65,406.5341674462113
+1368,United States,US,-,Mobile & Tablet,2023-08-01,1654.4699999999998,221.0,0,August,0,42.76,7.65,295.99381431244154
+1369,United States,US,-,Mobile & Tablet,2023-08-02,2123.36,275.0,0,August,0,42.76,7.65,379.88082319925167
+1370,United States,US,-,Mobile & Tablet,2023-08-03,2249.2900000000004,235.0,0,August,0,42.76,7.65,402.4103952291863
+1371,United States,US,-,Mobile & Tablet,2023-08-04,1758.38,225.0,0,August,0,42.76,7.65,314.58388681010297
+1372,United States,US,-,Mobile & Tablet,2023-08-05,1138.6900000000005,94.0,1,August,0,42.76,7.65,203.71792563143137
+1373,United States,US,-,Mobile & Tablet,2023-08-06,1022.2299999999998,102.0,1,August,0,42.76,7.65,182.882588868101
+1374,United States,US,-,Mobile & Tablet,2023-08-07,2166.2300000000005,243.0,0,August,0,42.76,7.65,387.55050280636124
+1375,United States,US,-,Mobile & Tablet,2023-08-08,1265.4800000000002,244.0,0,August,0,42.76,7.65,226.4013564078579
+1376,United States,US,-,Mobile & Tablet,2023-08-09,921.1000000000001,200.0,0,August,0,42.76,7.65,164.7898737137512
+1377,United States,US,-,Mobile & Tablet,2023-08-10,1183.0499999999997,207.0,0,August,0,42.76,7.65,211.6541744621141
+1378,United States,US,-,Mobile & Tablet,2023-08-11,1339.03,186.0,0,August,0,42.76,7.65,239.5598573433115
+1379,United States,US,-,Mobile & Tablet,2023-08-12,1075.9499999999998,93.0,1,August,0,42.76,7.65,192.49339335827872
+1380,United States,US,-,Mobile & Tablet,2023-08-13,1472.2399999999998,111.0,1,August,0,42.76,7.65,263.39186155285313
+1381,United States,US,-,Mobile & Tablet,2023-08-14,2107.7500000000005,314.0,0,August,0,42.76,7.65,377.0881080449019
+1382,United States,US,-,Mobile & Tablet,2023-08-15,788.4,250.0,0,August,0,42.76,7.65,141.04911131898973
+1383,United States,US,-,Mobile & Tablet,2023-08-16,994.1299999999998,227.0,0,August,0,42.76,7.65,177.8553437792329
+1384,United States,US,-,Mobile & Tablet,2023-08-17,2433.5799999999995,232.0,0,August,0,42.76,7.65,435.3808933582787
+1385,United States,US,-,Mobile & Tablet,2023-08-18,884.9700000000001,199.0,0,August,0,42.76,7.65,158.3260173058934
+1386,United States,US,-,Mobile & Tablet,2023-08-19,758.1599999999997,93.0,1,August,0,42.76,7.65,135.6390084190832
+1387,United States,US,-,Mobile & Tablet,2023-08-20,998.7200000000001,109.0,1,August,0,42.76,7.65,178.67652011225448
+1388,United States,US,-,Mobile & Tablet,2023-08-21,2091.1100000000006,281.0,0,August,0,42.76,7.65,374.1111202058
+1389,United States,US,-,Mobile & Tablet,2023-08-22,497.06000000000006,200.0,0,August,0,42.76,7.65,88.9267773620206
+1390,United States,US,-,Mobile & Tablet,2023-08-23,594.9799999999998,215.0,0,August,0,42.76,7.65,106.44520579981288
+1391,United States,US,-,Mobile & Tablet,2023-08-24,865.3499999999998,275.0,0,August,0,42.76,7.65,154.8158910196445
+1392,United States,US,-,Mobile & Tablet,2023-08-25,778.58,240.0,0,August,0,42.76,7.65,139.29225912067355
+1393,United States,US,-,Mobile & Tablet,2023-08-26,827.74,163.0,1,August,0,42.76,7.65,148.08725444340507
+1394,United States,US,-,Mobile & Tablet,2023-08-27,851.2000000000003,145.0,1,August,0,42.76,7.65,152.28437792329285
+1395,United States,US,-,Mobile & Tablet,2023-08-28,1691.3999999999994,278.0,0,August,0,42.76,7.65,302.6007951356407
+1396,United States,US,-,Mobile & Tablet,2023-08-29,3304.8799999999997,338.0,0,August,0,42.76,7.65,591.2612722170253
+1397,United States,US,-,Mobile & Tablet,2023-08-30,1472.7299999999998,307.0,0,August,0,42.76,7.65,263.47952525724975
+1398,United States,US,-,Mobile & Tablet,2023-08-31,1264.1599999999996,266.0,0,August,0,42.76,7.65,226.16520112254437
+1399,United States,US,-,Mobile & Tablet,2023-09-01,1022.6700000000001,213.0,0,September,0,42.76,7.65,182.96130729653885
+1400,United States,US,-,Mobile & Tablet,2023-09-02,1022.6700000000001,40.0,1,September,0,42.76,7.65,182.96130729653885
+1401,United States,US,-,Mobile & Tablet,2023-09-03,1022.6700000000001,26.0,1,September,0,42.76,7.65,182.96130729653885
+1402,United States,US,-,Mobile & Tablet,2023-09-04,1022.6700000000001,48.0,0,September,0,42.76,7.65,182.96130729653885
+1403,United States,US,-,Mobile & Tablet,2023-09-05,1252.0100000000004,319.0,0,September,0,42.76,7.65,223.99149906454642
+1404,United States,US,-,Mobile & Tablet,2023-09-06,1012.7299999999998,304.0,0,September,0,42.76,7.65,181.1829864359214
+1405,United States,US,-,Mobile & Tablet,2023-09-07,1307.9199999999998,279.0,0,September,0,42.76,7.65,233.99410664172123
+1406,United States,US,-,Mobile & Tablet,2023-09-08,1375.1200000000001,265.0,0,September,0,42.76,7.65,246.01655753040228
+1407,United States,US,-,Mobile & Tablet,2023-09-09,1092.63,139.0,1,September,0,42.76,7.65,195.47753741814782
+1408,United States,US,-,Mobile & Tablet,2023-09-10,920.0200000000001,113.0,1,September,0,42.76,7.65,164.59665575304027
+1409,United States,US,-,Mobile & Tablet,2023-09-11,1602.67,375.0,0,September,0,42.76,7.65,286.7265084190833
+1410,United States,US,-,Mobile & Tablet,2023-09-12,1223.92,288.0,0,September,0,42.76,7.65,218.96604303087
+1411,United States,US,-,Mobile & Tablet,2023-09-13,973.01,306.0,0,September,0,42.76,7.65,174.0768592142189
+1412,United States,US,-,Mobile & Tablet,2023-09-14,1179.2800000000007,271.0,0,September,0,42.76,7.65,210.97970065481772
+1413,United States,US,-,Mobile & Tablet,2023-09-15,1128.9400000000003,282.0,0,September,0,42.76,7.65,201.97359681945753
+1414,United States,US,-,Mobile & Tablet,2023-09-16,880.9600000000002,174.0,1,September,0,42.76,7.65,157.60860617399445
+1415,United States,US,-,Mobile & Tablet,2023-09-17,620.4299999999996,144.0,1,September,0,42.76,7.65,110.99835126286243
+1416,United States,US,-,Mobile & Tablet,2023-09-18,1156.44,307.0,0,September,0,42.76,7.65,206.8934985968195
+1417,United States,US,-,Mobile & Tablet,2023-09-19,1342.7300000000002,319.0,0,September,0,42.76,7.65,240.22180776426572
+1418,United States,US,-,Mobile & Tablet,2023-09-20,1129.1899999999998,331.0,0,September,0,42.76,7.65,202.01832319925165
+1419,United States,US,-,Mobile & Tablet,2023-09-21,1317.8099999999997,300.0,0,September,0,42.76,7.65,235.76348222637975
+1420,United States,US,-,Mobile & Tablet,2023-09-22,2437.56,222.0,0,September,0,42.76,7.65,436.0929373246024
+1421,United States,US,-,Mobile & Tablet,2023-09-23,839.7699999999996,117.0,1,September,0,42.76,7.65,150.2394878391019
+1422,United States,US,-,Mobile & Tablet,2023-09-24,636.1199999999999,116.0,1,September,0,42.76,7.65,113.80537885874648
+1423,United States,US,-,Mobile & Tablet,2023-09-25,1177.6899999999996,335.0,0,September,0,42.76,7.65,210.69524087932643
+1424,United States,US,-,Mobile & Tablet,2023-09-26,1264.3000000000002,321.0,0,September,0,42.76,7.65,226.19024789522925
+1425,United States,US,-,Mobile & Tablet,2023-09-27,1096.7599999999998,303.0,0,September,0,42.76,7.65,196.21641721234795
+1426,United States,US,-,Mobile & Tablet,2023-09-28,2161.92,292.0,0,September,0,42.76,7.65,386.7794200187091
+1427,United States,US,-,Mobile & Tablet,2023-09-29,1028.9099999999999,213.0,0,September,0,42.76,7.65,184.07767773620205
+1428,United States,US,-,Mobile & Tablet,2023-09-30,10.1,46.0,1,September,0,42.76,7.65,1.8069457436856877
+1429,United States,US,-,Mobile & Tablet,2023-10-01,613.8699999999999,110.0,1,October,0,42.76,7.65,109.82473105706268
+1430,United States,US,-,Mobile & Tablet,2023-10-02,2819.62,299.0,0,October,0,42.76,7.65,504.44557998129096
+1431,United States,US,-,Mobile & Tablet,2023-10-03,1654.9599999999998,303.0,0,October,0,42.76,7.65,296.08147801683816
+1432,United States,US,-,Mobile & Tablet,2023-10-04,2604.539999999999,290.0,0,October,0,42.76,7.65,465.9665809167445
+1433,United States,US,-,Mobile & Tablet,2023-10-05,1436.93,286.0,0,October,0,42.76,7.65,257.07470767072033
+1434,United States,US,-,Mobile & Tablet,2023-10-06,2423.94,228.0,0,October,0,42.76,7.65,433.65624415341443
+1435,United States,US,-,Mobile & Tablet,2023-10-07,705.3799999999998,125.0,1,October,0,42.76,7.65,126.19637511693168
+1436,United States,US,-,Mobile & Tablet,2023-10-08,553.4399999999998,77.0,1,October,0,42.76,7.65,99.01347053320859
+1437,United States,US,-,Mobile & Tablet,2023-10-09,1276.5600000000002,311.0,0,October,0,42.76,7.65,228.3836295603368
+1438,United States,US,-,Mobile & Tablet,2023-10-10,1502.2799999999995,271.0,0,October,0,42.76,7.65,268.7661833489242
+1439,United States,US,-,Mobile & Tablet,2023-10-11,1459.0299999999997,258.0,0,October,0,42.76,7.65,261.02851964452753
+1440,United States,US,-,Mobile & Tablet,2023-10-12,1545.94,230.0,0,October,0,42.76,7.65,276.5771983161834
+1441,United States,US,-,Mobile & Tablet,2023-10-13,1423.4499999999996,213.0,0,October,0,42.76,7.65,254.663061272217
+1442,United States,US,-,Mobile & Tablet,2023-10-14,880.6699999999998,128.0,1,October,0,42.76,7.65,157.5567235734331
+1443,United States,US,-,Mobile & Tablet,2023-10-15,573.5899999999996,92.0,1,October,0,42.76,7.65,102.61841674462107
+1444,United States,US,-,Mobile & Tablet,2023-10-16,1177.9499999999998,266.0,0,October,0,42.76,7.65,210.74175631431243
+1445,United States,US,-,Mobile & Tablet,2023-10-17,2724.2999999999993,228.0,0,October,0,42.76,7.65,487.39230589335824
+1446,United States,US,-,Mobile & Tablet,2023-10-18,1295.0599999999995,252.0,0,October,0,42.76,7.65,231.69338166510752
+1447,United States,US,-,Mobile & Tablet,2023-10-19,879.6,244.0,0,October,0,42.76,7.65,157.36529466791396
+1448,United States,US,-,Mobile & Tablet,2023-10-20,675.7100000000003,221.0,0,October,0,42.76,7.65,120.88824836295609
+1449,United States,US,-,Mobile & Tablet,2023-10-21,931.44,120.0,1,October,0,42.76,7.65,166.6397567820393
+1450,United States,US,-,Mobile & Tablet,2023-10-22,351.43000000000006,105.0,1,October,0,42.76,7.65,62.8727666043031
+1451,United States,US,-,Mobile & Tablet,2023-10-23,683.2600000000001,290.0,0,October,0,42.76,7.65,122.23898503274091
+1452,United States,US,-,Mobile & Tablet,2023-10-24,840.9100000000002,211.0,0,October,0,42.76,7.65,150.44344013096358
+1453,United States,US,-,Mobile & Tablet,2023-10-25,939.8299999999999,233.0,0,October,0,42.76,7.65,168.14077408793264
+1454,United States,US,-,Mobile & Tablet,2023-10-26,1910.8200000000006,220.0,0,October,0,42.76,7.65,341.85624415341454
+1455,United States,US,-,Mobile & Tablet,2023-10-27,936.82,183.0,0,October,0,42.76,7.65,167.6022684752105
+1456,United States,US,-,Mobile & Tablet,2023-10-28,556.0199999999999,100.0,1,October,0,42.76,7.65,99.47504677268473
+1457,United States,US,-,Mobile & Tablet,2023-10-29,714.1400000000002,73.0,1,October,0,42.76,7.65,127.76358746492055
+1458,United States,US,-,Mobile & Tablet,2023-10-30,1572.3899999999996,238.0,0,October,0,42.76,7.65,281.30924929840967
+1459,United States,US,-,Mobile & Tablet,2023-10-31,1583.0599999999995,186.0,0,October,0,42.76,7.65,283.21817118802613
+1460,United States,US,-,Mobile & Tablet,2023-11-01,1528.43,222.0,0,November,0,42.76,7.65,273.4445626753976
+1461,United States,US,-,Mobile & Tablet,2023-11-02,966.3000000000002,194.0,0,November,0,42.76,7.65,172.8764031805426
+1462,United States,US,-,Mobile & Tablet,2023-11-03,2139.06,237.0,0,November,0,42.76,7.65,382.68963985032747
+1463,United States,US,-,Mobile & Tablet,2023-11-04,1615.78,129.0,1,November,0,42.76,7.65,289.07195977549117
+1464,United States,US,-,Mobile & Tablet,2023-11-05,702.01,97.0,1,November,0,42.76,7.65,125.5934635173059
+1465,United States,US,-,Mobile & Tablet,2023-11-06,3367.7999999999997,265.0,0,November,0,42.76,7.65,602.5180074836295
+1466,United States,US,-,Mobile & Tablet,2023-11-07,2117.810000000001,250.0,0,November,0,42.76,7.65,378.8878975678206
+1467,United States,US,-,Mobile & Tablet,2023-11-08,5122.439999999999,239.0,0,November,0,42.76,7.65,916.432787652011
+1468,United States,US,-,Mobile & Tablet,2023-11-09,4366.9800000000005,272.0,0,November,0,42.76,7.65,781.2768241347055
+1469,United States,US,-,Mobile & Tablet,2023-11-10,2061.3100000000013,285.0,0,November,0,42.76,7.65,368.77973573433144
+1470,United States,US,-,Mobile & Tablet,2023-11-11,1118.1199999999997,126.0,1,November,0,42.76,7.65,200.03783910196444
+1471,United States,US,-,Mobile & Tablet,2023-11-12,1035.4999999999998,85.0,1,November,0,42.76,7.65,185.25666510757716
+1472,United States,US,-,Mobile & Tablet,2023-11-13,4813.04,340.0,0,November,0,42.76,7.65,861.0794200187091
+1473,United States,US,-,Mobile & Tablet,2023-11-14,2296.479999999999,324.0,0,November,0,42.76,7.65,410.8529466791392
+1474,United States,US,-,Mobile & Tablet,2023-11-15,2548.9,279.0,0,November,0,42.76,7.65,456.0122778297475
+1475,United States,US,-,Mobile & Tablet,2023-11-16,4187.180000000001,232.0,0,November,0,42.76,7.65,749.1096117867169
+1476,United States,US,-,Mobile & Tablet,2023-11-17,4463.000000000001,280.0,0,November,0,42.76,7.65,798.4553320860621
+1477,United States,US,-,Mobile & Tablet,2023-11-18,3104.999999999999,163.0,1,November,0,42.76,7.65,555.5016370439662
+1478,United States,US,-,Mobile & Tablet,2023-11-19,1238.8599999999994,135.0,1,November,0,42.76,7.65,221.63889148737132
+1479,United States,US,-,Mobile & Tablet,2023-11-20,3054.49,333.0,0,November,0,42.76,7.65,546.4651192703461
+1480,United States,US,-,Mobile & Tablet,2023-11-21,2806.2700000000004,283.0,0,November,0,42.76,7.65,502.0571913002808
+1481,United States,US,-,Mobile & Tablet,2023-11-22,2638.379999999999,216.0,0,November,0,42.76,7.65,472.0207436856875
+1482,United States,US,-,Mobile & Tablet,2023-11-23,1.29,15.0,0,November,0,42.76,7.65,0.230788119738073
+1483,United States,US,-,Mobile & Tablet,2023-11-24,6105.219999999998,208.0,0,November,0,42.76,7.65,1092.2575537885873
+1484,United States,US,-,Mobile & Tablet,2023-11-25,5014.240000000001,157.0,1,November,0,42.76,7.65,897.0752104770817
+1485,United States,US,-,Mobile & Tablet,2023-11-26,2330.8,200.0,1,November,0,42.76,7.65,416.99298409728726
+1486,United States,US,-,Mobile & Tablet,2023-11-27,8791.039999999999,419.0,0,November,0,42.76,7.65,1572.7655753040224
+1487,United States,US,-,Mobile & Tablet,2023-11-28,3831.73,376.0,0,November,0,42.76,7.65,685.5176449953228
+1488,United States,US,-,Mobile & Tablet,2023-11-29,4375.6900000000005,451.0,0,November,0,42.76,7.65,782.8350912067355
+1489,United States,US,-,Mobile & Tablet,2023-11-30,4948.300000000001,394.0,0,November,0,42.76,7.65,885.2781805425634
+1490,United States,US,-,Mobile & Tablet,2023-12-01,4307.81,431.0,0,December,0,42.76,7.65,770.6909845650141
+1491,United States,US,-,Mobile & Tablet,2023-12-02,6975.080000000004,282.0,1,December,0,42.76,7.65,1247.8803086997202
+1492,United States,US,-,Mobile & Tablet,2023-12-03,3087.519999999999,287.0,1,December,0,42.76,7.65,552.3743685687557
+1493,United States,US,-,Mobile & Tablet,2023-12-04,8040.960000000005,585.0,0,December,0,42.76,7.65,1438.5721234798887
+1494,United States,US,-,Mobile & Tablet,2023-12-05,6603.959999999999,515.0,0,December,0,42.76,7.65,1181.484892422825
+1495,United States,US,-,Mobile & Tablet,2023-12-06,6528.639999999999,572.0,0,December,0,42.76,7.65,1168.0097287184285
+1496,United States,US,-,Mobile & Tablet,2023-12-07,5420.630000000001,499.0,0,December,0,42.76,7.65,969.7806244153418
+1497,United States,US,-,Mobile & Tablet,2023-12-08,4856.03,485.0,0,December,0,42.76,7.65,868.7705682881199
+1498,United States,US,-,Mobile & Tablet,2023-12-09,3752.460000000001,358.0,1,December,0,42.76,7.65,671.3358044901779
+1499,United States,US,-,Mobile & Tablet,2023-12-10,3554.1700000000005,357.0,1,December,0,42.76,7.65,635.8606290926101
+1500,United States,US,-,Mobile & Tablet,2023-12-11,5910.199999999998,768.0,0,December,0,42.76,7.65,1057.3673994387275
+1501,United States,US,-,Mobile & Tablet,2023-12-12,9028.41,710.0,0,December,0,42.76,7.65,1615.23237839102
+1502,United States,US,-,Mobile & Tablet,2023-12-13,5060.309999999999,720.0,0,December,0,42.76,7.65,905.3173877455565
+1503,United States,US,-,Mobile & Tablet,2023-12-14,5463.55,813.0,0,December,0,42.76,7.65,977.4592492984098
+1504,United States,US,-,Mobile & Tablet,2023-12-15,2022.6500000000003,649.0,0,December,0,42.76,7.65,361.86324836295614
+1505,United States,US,-,Mobile & Tablet,2023-12-16,1952.3700000000001,496.0,1,December,0,42.76,7.65,349.2897684752105
+1506,United States,US,-,Mobile & Tablet,2023-12-17,2244.85,465.0,1,December,0,42.76,7.65,401.6160547240412
+1507,United States,US,-,Mobile & Tablet,2023-12-18,2196.1800000000003,983.0,0,December,0,42.76,7.65,392.9087231057063
+1508,United States,US,-,Mobile & Tablet,2023-12-19,1698.8200000000002,549.0,0,December,0,42.76,7.65,303.9282740879327
+1509,United States,US,-,Mobile & Tablet,2023-12-20,2349.9799999999996,635.0,0,December,0,42.76,7.65,420.4243919550982
+1510,United States,US,-,Mobile & Tablet,2023-12-21,2465.62,515.0,0,December,0,42.76,7.65,441.11302619270344
+1511,United States,US,-,Mobile & Tablet,2023-12-22,1567.0300000000002,344.0,0,December,0,42.76,7.65,280.3503157156222
+1512,United States,US,-,Mobile & Tablet,2023-12-23,1681.95,230.0,1,December,0,42.76,7.65,300.9101379794201
+1513,United States,US,-,Mobile & Tablet,2023-12-24,12.52,32.0,1,December,0,42.76,7.65,2.2398971000935455
+1514,United States,US,-,Mobile & Tablet,2023-12-25,12.52,29.0,0,December,0,42.76,7.65,2.2398971000935455
+1515,United States,US,-,Mobile & Tablet,2023-12-26,1804.6399999999994,306.0,0,December,0,42.76,7.65,322.86005612722164
+1516,United States,US,-,Mobile & Tablet,2023-12-27,1278.2599999999998,321.0,0,December,0,42.76,7.65,228.6877689429373
+1517,United States,US,-,Mobile & Tablet,2023-12-28,503.43,209.0,0,December,0,42.76,7.65,90.06640551917681
+1518,United States,US,-,Mobile & Tablet,2023-12-29,503.43,92.0,0,December,0,42.76,7.65,90.06640551917681
+1519,United States,US,-,Mobile & Tablet,2023-12-30,503.43,47.0,1,December,0,42.76,7.65,90.06640551917681
+1520,United States,US,-,Mobile & Tablet,2023-12-31,503.43,32.0,1,December,0,42.76,7.65,90.06640551917681
+1521,United States,US,-,Mobile & Tablet,2024-01-01,648.7000000000002,68.0,0,January,0,42.76,7.65,116.05601028999068
+1522,United States,US,-,Mobile & Tablet,2024-01-02,361.44000000000005,175.0,0,January,0,42.76,7.65,64.66361085126287
+1523,United States,US,-,Mobile & Tablet,2024-01-03,1122.9,273.0,0,January,0,42.76,7.65,200.8930074836296
+1524,United States,US,-,Mobile & Tablet,2024-01-04,1453.6099999999997,288.0,0,January,0,42.76,7.65,260.0588517305893
+1525,United States,US,-,Mobile & Tablet,2024-01-05,1726.9600000000005,251.0,0,January,0,42.76,7.65,308.9626753975679
+1526,United States,US,-,Mobile & Tablet,2024-01-06,1835.1499999999996,168.0,1,January,0,42.76,7.65,328.3184635173059
+1527,United States,US,-,Mobile & Tablet,2024-01-07,2421.9799999999996,197.0,1,January,0,42.76,7.65,433.30558933582785
+1528,United States,US,-,Mobile & Tablet,2024-01-08,3183.0800000000013,296.0,0,January,0,42.76,7.65,569.4705799812913
+1529,United States,US,-,Mobile & Tablet,2024-01-09,4129.080000000001,254.0,0,January,0,42.76,7.65,738.7152011225446
+1530,United States,US,-,Mobile & Tablet,2024-01-10,3102.939999999999,254.0,0,January,0,42.76,7.65,555.133091674462
+1531,United States,US,-,Mobile & Tablet,2024-01-11,1579.72,272.0,0,January,0,42.76,7.65,282.62062675397567
+1532,United States,US,-,Mobile & Tablet,2024-01-12,1259.4999999999998,265.0,0,January,0,42.76,7.65,225.33150140318054
+1533,United States,US,-,Mobile & Tablet,2024-01-13,1948.9799999999993,202.0,1,January,0,42.76,7.65,348.68327876520107
+1534,United States,US,-,Mobile & Tablet,2024-01-14,1640.9499999999996,134.0,1,January,0,42.76,7.65,293.5750116931712
+1535,United States,US,-,Mobile & Tablet,2024-01-15,1140.9000000000003,189.0,0,January,0,42.76,7.65,204.11330682881203
+1536,United States,US,-,Mobile & Tablet,2024-01-16,898.0199999999998,252.0,0,January,0,42.76,7.65,160.66073433115056
+1537,United States,US,-,Mobile & Tablet,2024-01-17,870.89,239.0,0,January,0,42.76,7.65,155.80702759588402
+1538,United States,US,-,Mobile & Tablet,2024-01-18,1010.0699999999999,246.0,0,January,0,42.76,7.65,180.70709775491113
+1539,United States,US,-,Mobile & Tablet,2024-01-19,608.6199999999999,221.0,0,January,0,42.76,7.65,108.88547708138447
+1540,United States,US,-,Mobile & Tablet,2024-01-20,840.61,168.0,1,January,0,42.76,7.65,150.3897684752105
+1541,United States,US,-,Mobile & Tablet,2024-01-21,1066.5399999999997,159.0,1,January,0,42.76,7.65,190.80989242282504
+1542,United States,US,-,Mobile & Tablet,2024-01-22,922.32,316.0,0,January,0,42.76,7.65,165.00813844714688
+1543,United States,US,-,Mobile & Tablet,2024-01-23,1847.84,267.0,0,January,0,42.76,7.65,330.58877455565954
+1544,United States,US,-,Mobile & Tablet,2024-01-24,1003.62,274.0,0,January,0,42.76,7.65,179.55315715622078
+1545,United States,US,-,Mobile & Tablet,2024-01-25,574.6100000000001,255.0,0,January,0,42.76,7.65,102.80090037418152
+1546,United States,US,-,Mobile & Tablet,2024-01-26,430.43000000000006,241.0,0,January,0,42.76,7.65,77.00630261927037
+1547,United States,US,-,Mobile & Tablet,2024-01-27,259.65000000000003,155.0,1,January,0,42.76,7.65,46.452818054256326
+1548,United States,US,-,Mobile & Tablet,2024-01-28,1212.1800000000003,164.0,1,January,0,42.76,7.65,216.86569223573443
+1549,United States,US,-,Mobile & Tablet,2024-01-29,1119.0800000000002,362.0,0,January,0,42.76,7.65,200.20958840037423
+1550,United States,US,-,Mobile & Tablet,2024-01-30,267.84999999999997,269.0,0,January,0,42.76,7.65,47.91984331150608
+1551,United States,US,-,Mobile & Tablet,2024-01-31,339.9499999999999,257.0,0,January,0,42.76,7.65,60.818931244153404
+1552,United States,US,-,Mobile & Tablet,2024-02-01,782.0399999999996,240.0,0,February,0,42.76,7.65,139.91127221702519
+1553,United States,US,-,Mobile & Tablet,2024-02-02,783.8999999999997,246.0,0,February,0,42.76,7.65,140.24403648269407
+1554,United States,US,-,Mobile & Tablet,2024-02-03,1198.18,205.0,1,February,0,42.76,7.65,214.36101496725917
+1555,United States,US,-,Mobile & Tablet,2024-02-04,2541.8799999999997,162.0,1,February,0,42.76,7.65,454.75636108512623
+1556,United States,US,-,Mobile & Tablet,2024-02-05,1439.1500000000003,380.0,0,February,0,42.76,7.65,257.4718779232929
+1557,United States,US,-,Mobile & Tablet,2024-02-06,1599.19,321.0,0,February,0,42.76,7.65,286.10391721234805
+1558,United States,US,-,Mobile & Tablet,2024-02-07,2228.5300000000016,310.0,0,February,0,42.76,7.65,398.69631665107613
+1559,United States,US,-,Mobile & Tablet,2024-02-08,855.6699999999997,333.0,0,February,0,42.76,7.65,153.08408559401306
+1560,United States,US,-,Mobile & Tablet,2024-02-09,641.3499999999999,234.0,0,February,0,42.76,7.65,114.74105472404115
+1561,United States,US,-,Mobile & Tablet,2024-02-10,817.8799999999999,179.0,1,February,0,42.76,7.65,146.32324602432178
+1562,United States,US,-,Mobile & Tablet,2024-02-11,907.51,188.0,1,February,0,42.76,7.65,162.35854770813845
+1563,United States,US,-,Mobile & Tablet,2024-02-12,1136.9799999999993,348.0,0,February,0,42.76,7.65,203.41199719363883
+1564,United States,US,-,Mobile & Tablet,2024-02-13,962.83,264.0,0,February,0,42.76,7.65,172.25560102899908
+1565,United States,US,-,Mobile & Tablet,2024-02-14,926.3499999999997,334.0,0,February,0,42.76,7.65,165.72912768942933
+1566,United States,US,-,Mobile & Tablet,2024-02-15,762.5100000000001,296.0,0,February,0,42.76,7.65,136.41724742750236
+1567,United States,US,-,Mobile & Tablet,2024-02-16,1930.0199999999998,276.0,0,February,0,42.76,7.65,345.291230121609
+1568,United States,US,-,Mobile & Tablet,2024-02-17,1120.4100000000005,223.0,1,February,0,42.76,7.65,200.44753274087944
+1569,United States,US,-,Mobile & Tablet,2024-02-18,989.9900000000001,185.0,1,February,0,42.76,7.65,177.11467492984102
+1570,United States,US,-,Mobile & Tablet,2024-02-19,1251.2099999999996,382.0,0,February,0,42.76,7.65,223.84837464920483
+1571,United States,US,-,Mobile & Tablet,2024-02-20,2229.1400000000012,379.0,0,February,0,42.76,7.65,398.80544901777387
+1572,United States,US,-,Mobile & Tablet,2024-02-21,2875.5399999999986,332.0,0,February,0,42.76,7.65,514.4499766136574
+1573,United States,US,-,Mobile & Tablet,2024-02-22,2193.96,318.0,0,February,0,42.76,7.65,392.5115528531338
+1574,United States,US,-,Mobile & Tablet,2024-02-23,2020.799999999999,292.0,0,February,0,42.76,7.65,361.5322731524788
+1575,United States,US,-,Mobile & Tablet,2024-02-24,1613.9399999999998,182.0,1,February,0,42.76,7.65,288.7427736202058
+1576,United States,US,-,Mobile & Tablet,2024-02-25,658.42,168.0,1,February,0,42.76,7.65,117.79497193638915
+1577,United States,US,-,Mobile & Tablet,2024-02-26,2019.9999999999993,350.0,0,February,0,42.76,7.65,361.3891487371374
+1578,United States,US,-,Mobile & Tablet,2024-02-27,2044.22,315.0,0,February,0,42.76,7.65,365.72224041159967
+1579,United States,US,-,Mobile & Tablet,2024-02-28,1206.6000000000001,306.0,0,February,0,42.76,7.65,215.86739943872783
+1580,United States,US,-,Mobile & Tablet,2024-02-29,180.02000000000004,166.0,0,February,0,42.76,7.65,32.20657156220768
+1581,United States,US,-,Mobile & Tablet,2024-03-01,1815.66,238.0,0,March,0,42.76,7.65,324.8315949485501
+1582,United States,US,-,Mobile & Tablet,2024-03-02,856.9699999999999,184.0,1,March,0,42.76,7.65,153.31666276894293
+1583,United States,US,-,Mobile & Tablet,2024-03-03,768.41,186.0,1,March,0,42.76,7.65,137.47278999064548
+1584,United States,US,-,Mobile & Tablet,2024-03-04,1350.9900000000007,387.0,0,March,0,42.76,7.65,241.69956735266618
+1585,United States,US,-,Mobile & Tablet,2024-03-05,3308.150000000001,362.0,0,March,0,42.76,7.65,591.8462932647336
+1586,United States,US,-,Mobile & Tablet,2024-03-06,1746.5599999999997,387.0,0,March,0,42.76,7.65,312.4692235734331
+1587,United States,US,-,Mobile & Tablet,2024-03-07,2870.6,365.0,0,March,0,42.76,7.65,513.5661833489243
+1588,United States,US,-,Mobile & Tablet,2024-03-08,1410.2899999999988,324.0,0,March,0,42.76,7.65,252.30866463985015
+1589,United States,US,-,Mobile & Tablet,2024-03-09,1055.9500000000003,188.0,1,March,0,42.76,7.65,188.9152829747428
+1590,United States,US,-,Mobile & Tablet,2024-03-10,1853.96,170.0,1,March,0,42.76,7.65,331.6836763330216
+1591,United States,US,-,Mobile & Tablet,2024-03-11,4041.1799999999994,418.0,0,March,0,42.76,7.65,722.9894059869036
+1592,United States,US,-,Mobile & Tablet,2024-03-12,3886.139999999999,416.0,0,March,0,42.76,7.65,695.2518942937323
+1593,United States,US,-,Mobile & Tablet,2024-03-13,2889.6200000000013,389.0,0,March,0,42.76,7.65,516.9689663236672
+1594,United States,US,-,Mobile & Tablet,2024-03-14,1706.0199999999998,337.0,0,March,0,42.76,7.65,305.21639382600557
+1595,United States,US,-,Mobile & Tablet,2024-03-15,1622.98,274.0,0,March,0,42.76,7.65,290.36007951356413
+1596,United States,US,-,Mobile & Tablet,2024-03-16,1047.7199999999998,199.0,1,March,0,42.76,7.65,187.44289055191766
+1597,United States,US,-,Mobile & Tablet,2024-03-17,894.56,194.0,1,March,0,42.76,7.65,160.0417212347989
+1598,United States,US,-,Mobile & Tablet,2024-03-18,3326.4999999999995,423.0,0,March,0,42.76,7.65,595.1292095416277
+1599,United States,US,-,Mobile & Tablet,2024-03-19,1894.36,416.0,0,March,0,42.76,7.65,338.9114593077643
+1600,United States,US,-,Mobile & Tablet,2024-03-20,2532.270000000002,400.0,0,March,0,42.76,7.65,453.0370790458376
+1601,United States,US,-,Mobile & Tablet,2024-03-21,2093.990000000001,404.0,0,March,0,42.76,7.65,374.62636810102924
+1602,United States,US,-,Mobile & Tablet,2024-03-22,1805.3099999999995,339.0,0,March,0,42.76,7.65,322.9799228250701
+1603,United States,US,-,Mobile & Tablet,2024-03-23,1624.4099999999996,217.0,1,March,0,42.76,7.65,290.61591440598687
+1604,United States,US,-,Mobile & Tablet,2024-03-24,2765.579999999999,260.0,1,March,0,42.76,7.65,494.7775257249765
+1605,United States,US,-,Mobile & Tablet,2024-03-25,2619.4200000000005,471.0,0,March,0,42.76,7.65,468.62869504209556
+1606,United States,US,-,Mobile & Tablet,2024-03-26,3282.6599999999994,426.0,0,March,0,42.76,7.65,587.2859915809167
+1607,United States,US,-,Mobile & Tablet,2024-03-27,3116.42,330.0,0,March,0,42.76,7.65,557.5447380729654
+1608,United States,US,-,Mobile & Tablet,2024-03-28,2187.189999999999,221.0,0,March,0,42.76,7.65,391.30036248830675
+1609,United States,US,-,Mobile & Tablet,2024-03-29,2034.8799999999999,304.0,0,March,0,42.76,7.65,364.05126286248833
+1610,United States,US,-,Mobile & Tablet,2024-03-30,1886.52,196.0,1,March,0,42.76,7.65,337.50884003741817
+1611,United States,US,-,Mobile & Tablet,2024-03-31,1449.2900000000004,164.0,1,March,0,42.76,7.65,259.2859798877456
+1612,United States,US,-,Mobile & Tablet,2024-04-01,2365.750000000001,334.0,0,April,0,42.76,7.65,423.24573199251654
+1613,United States,US,-,Mobile & Tablet,2024-04-02,5287.060000000001,297.0,0,April,0,42.76,7.65,945.8842142188965
+1614,United States,US,-,Mobile & Tablet,2024-04-03,4716.520000000004,325.0,0,April,0,42.76,7.65,843.8114593077651
+1615,United States,US,-,Mobile & Tablet,2024-04-04,2631.380000000002,262.0,0,April,0,42.76,7.65,470.7684050514503
+1616,United States,US,-,Mobile & Tablet,2024-04-05,2375.9899999999993,209.0,0,April,0,42.76,7.65,425.0777245088867
+1617,United States,US,-,Mobile & Tablet,2024-04-06,2379.1400000000012,147.0,1,April,0,42.76,7.65,425.641276894294
+1618,United States,US,-,Mobile & Tablet,2024-04-07,1932.7599999999998,157.0,1,April,0,42.76,7.65,345.7814312441534
+1619,United States,US,-,Mobile & Tablet,2024-04-08,3035.1,331.0,0,April,0,42.76,7.65,542.996141253508
+1620,United States,US,-,Mobile & Tablet,2024-04-09,2944.749999999999,278.0,0,April,0,42.76,7.65,526.8320275958839
+1621,United States,US,-,Mobile & Tablet,2024-04-10,2403.42,259.0,0,April,0,42.76,7.65,429.9851028999065
+1622,United States,US,-,Mobile & Tablet,2024-04-11,2161.409999999999,264.0,0,April,0,42.76,7.65,386.6881782039287
+1623,United States,US,-,Mobile & Tablet,2024-04-12,2157.3200000000015,220.0,0,April,0,42.76,7.65,385.9564546304961
+1624,United States,US,-,Mobile & Tablet,2024-04-13,1666.9899999999993,156.0,1,April,0,42.76,7.65,298.23371141253494
+1625,United States,US,-,Mobile & Tablet,2024-04-14,1308.02,147.0,1,April,0,42.76,7.65,234.01199719363896
+1626,United States,US,-,Mobile & Tablet,2024-04-15,2371.62,334.0,0,April,0,42.76,7.65,424.2959073900842
+1627,United States,US,-,Mobile & Tablet,2024-04-16,2392.0400000000004,277.0,0,April,0,42.76,7.65,427.9491580916746
+1628,United States,US,-,Mobile & Tablet,2024-04-17,2115.3299999999986,312.0,0,April,0,42.76,7.65,378.4442118802617
+1629,United States,US,-,Mobile & Tablet,2024-04-18,4499.339999999998,290.0,0,April,0,42.76,7.65,804.9567586529464
+1630,United States,US,-,Mobile & Tablet,2024-04-19,2001.1999999999987,218.0,0,April,0,42.76,7.65,358.02572497661345
+1631,United States,US,-,Mobile & Tablet,2024-04-20,1752.6200000000003,108.0,1,April,0,42.76,7.65,313.5533910196446
+1632,United States,US,-,Mobile & Tablet,2024-04-21,1600.34,137.0,1,April,0,42.76,7.65,286.3096585594013
+1633,United States,US,-,Mobile & Tablet,2024-04-22,6175.720000000002,327.0,0,April,0,42.76,7.65,1104.8703928905522
+1634,United States,US,-,Mobile & Tablet,2024-04-23,6143.079999999999,273.0,0,April,0,42.76,7.65,1099.0309167446212
+1635,United States,US,-,Mobile & Tablet,2024-04-24,2265.79,270.0,0,April,0,42.76,7.65,405.36233629560337
+1636,United States,US,-,Mobile & Tablet,2024-04-25,2089.6800000000007,212.0,0,April,0,42.76,7.65,373.8552853133772
+1637,United States,US,-,Mobile & Tablet,2024-04-26,1931.5600000000004,189.0,0,April,0,42.76,7.65,345.5667446211413
+1638,United States,US,-,Mobile & Tablet,2024-04-27,1554.2099999999996,136.0,1,April,0,42.76,7.65,278.0567469597754
+1639,United States,US,-,Mobile & Tablet,2024-04-28,1295.79,129.0,1,April,0,42.76,7.65,231.82398269410666
+1640,United States,US,-,Mobile & Tablet,2024-04-29,4675.510000000001,267.0,0,April,0,42.76,7.65,836.4745439663238
+1641,United States,US,-,Mobile & Tablet,2024-04-30,2429.850000000002,216.0,0,April,0,42.76,7.65,434.7135757717498
