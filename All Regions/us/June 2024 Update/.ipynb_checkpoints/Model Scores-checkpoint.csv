@@ -1,0 +1,19 @@
+market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+US,Bing Ads,Brand,2024-02-01,33713.0,29377.71,12.86,12.26,0.5599999999999999,OverPredicted
+US,Bing Ads,Brand,2024-03-01,26701.0,32211.52,-20.64,12.26,0.5599999999999999,OverPredicted
+US,Bing Ads,Brand,2024-04-01,21698.0,20983.77,3.29,12.26,0.5599999999999999,OverPredicted
+US,Bing Ads,Competitor,2024-02-01,17148.0,16285.11,5.029999999999999,4.69,3.1300000000000003,UnderPredicted
+US,Bing Ads,Competitor,2024-03-01,18079.0,18419.38,-1.8800000000000001,4.69,3.1300000000000003,UnderPredicted
+US,Bing Ads,Competitor,2024-04-01,14394.0,13363.3,7.16,4.69,3.1300000000000003,UnderPredicted
+US,Bing Ads,Generic,2024-02-01,179.0,102.89,42.52,42.2,56.8,UnderPredicted
+US,Bing Ads,Generic,2024-03-01,66.0,67.49,-2.26,42.2,56.8,UnderPredicted
+US,Bing Ads,Generic,2024-04-01,258.0,46.91,81.82000000000001,42.2,56.8,UnderPredicted
+US,Google AdWords,Brand,2024-02-01,397813.0,315728.17,20.630000000000003,7.61,6.75,UnderPredicted
+US,Google AdWords,Brand,2024-03-01,398146.0,401785.22000000003,-0.91,7.61,6.75,UnderPredicted
+US,Google AdWords,Brand,2024-04-01,308179.0,312114.59,-1.28,7.61,6.75,UnderPredicted
+US,Google AdWords,Competitor,2024-02-01,10002.0,12304.18,-23.02,26.24,26.35,OverPredicted
+US,Google AdWords,Competitor,2024-03-01,9612.0,12650.5,-31.61,26.24,26.35,OverPredicted
+US,Google AdWords,Competitor,2024-04-01,7598.0,9428.99,-24.099999999999998,26.24,26.35,OverPredicted
+US,Google AdWords,Generic,2024-02-01,8218.0,8134.91,1.01,5.04,4.08,OverPredicted
+US,Google AdWords,Generic,2024-03-01,7017.0,7783.9,-10.93,5.04,4.08,OverPredicted
+US,Google AdWords,Generic,2024-04-01,6738.0,6951.75,-3.17,5.04,4.08,OverPredicted

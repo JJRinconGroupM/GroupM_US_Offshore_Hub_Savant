@@ -1,0 +1,15 @@
+market,account_type,funnel,Month,Actual,Forecast,Percentage Error,MAPE,Forecast Period MAE,Predict Status
+Mexico,-,Brand,2023-10-01,2222.0,3090.68,-39.09,28.42,28.33,OverPredicted
+Mexico,-,Brand,2023-11-01,2157.0,3179.75,-47.42,28.42,28.33,OverPredicted
+Mexico,-,Brand,2023-12-01,2530.0,2936.86,-16.08,28.42,28.33,OverPredicted
+Mexico,-,Brand,2024-01-01,1834.0,2647.25,-44.34,28.42,28.33,OverPredicted
+Mexico,-,Brand,2024-02-01,2170.0,2541.79,-17.130000000000003,28.42,28.33,OverPredicted
+Mexico,-,Brand,2024-03-01,1942.0,2389.67,-23.05,28.42,28.33,OverPredicted
+Mexico,-,Brand,2024-04-01,1750.0,1956.34,-11.790000000000001,28.42,28.33,OverPredicted
+Mexico,-,Non_Brand,2023-10-01,300.0,344.52,-14.84,28.46,3.58,OverPredicted
+Mexico,-,Non_Brand,2023-11-01,1169.0,682.37,41.63,28.46,3.58,OverPredicted
+Mexico,-,Non_Brand,2023-12-01,740.0,994.58,-34.4,28.46,3.58,OverPredicted
+Mexico,-,Non_Brand,2024-01-01,423.0,409.31,3.2399999999999998,28.46,3.58,OverPredicted
+Mexico,-,Non_Brand,2024-02-01,296.0,365.38,-23.44,28.46,3.58,OverPredicted
+Mexico,-,Non_Brand,2024-03-01,265.0,306.69,-15.73,28.46,3.58,OverPredicted
+Mexico,-,Non_Brand,2024-04-01,328.0,544.31,-65.95,28.46,3.58,OverPredicted
