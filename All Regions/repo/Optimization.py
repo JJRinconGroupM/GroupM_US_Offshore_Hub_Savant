@@ -49,7 +49,8 @@ class SavantPSO:
 
         try:
             variable_list_before = [ x for x in self.decisionVariableArray if any(month in x for month in pre_optimization_months) ]
-            variable_list_latest = [ x for x in self.decisionVariableArray if any(month not in x for month in pre_optimization_months) ]
+            variable_list_latest = list( set(self.decisionVariableArray) - set(variable_list_before) )
+            variable_list_latest = sorted(variable_list_latest)
         except error:
             variable_list_latest = self.decisionVariableArray
             
@@ -107,14 +108,14 @@ class SavantPSO:
         spend_df_for_forecast['ds'] = pd.to_datetime(spend_df_for_forecast.ds)
         
         future = MakeFuture(unpickled_model, training_dataset, i, i.periods, spend_df_for_forecast)
-
+        
         forecast = unpickled_model.predict(future)
         remove_negs(forecast)
         round_forecast(forecast)
-    
+        
         for j in range(1,num_breakdowns+1):
             forecast[self.config_file['CLIENTINFO'][f'breakdown{j}']] = i[j]
-        
+            
         return forecast
     
     def _objective_funtion(self, inputWeights):
@@ -169,6 +170,7 @@ class SavantPSO:
             return total_yhat
             
     def _predict(self, inputWeights, variable_list_before, variable_list_latest):
+
         analytical_file_copy = self.analytical_file.copy()
         # create a template for optimized spend
         analytical_file_temp = analytical_file_copy.copy()
@@ -226,6 +228,7 @@ class SavantPSO:
         # print('pre_forecast_period_budget:', self.pre_forecast_period_budget)
         # print("after adjust the weight, the previous period period spend is:", spend_previous_period)
 
+        
         daily_simulated_forecast = analytical_file_temp.copy()
     #     daily_simulated_forecast['yhat'] = np.nan
 
@@ -233,10 +236,13 @@ class SavantPSO:
 
         for i in self.cuts_df.itertuples():
             forecast = self._forecast_fn(i, analytical_file_temp)
-            forecasts_df = pd.concat([forecasts_df, forecast], ignore_index=True)
+            forecasts_df = pd.concat([forecasts_df, forecast], ignore_index=True)            
+        
 
         # put forecasted y to daily_simulated_forecast
         daily_simulated_forecast = daily_simulated_forecast.merge(forecasts_df[['market', 'account_type', 'funnel', 'ds', 'yhat']], how = 'left', on = ['market', 'account_type', 'funnel', 'ds'])
+        
+        
         return daily_simulated_forecast, inputWeights
     
     

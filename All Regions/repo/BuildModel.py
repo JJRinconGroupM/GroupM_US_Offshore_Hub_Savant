@@ -19,44 +19,34 @@ import gcsfs
 import numpy as np
 
 # Holidays
-Blackfriday = pd.DataFrame({
-    'holiday': 'Blackfriday', 
-    'ds': pd.to_datetime(['2018-11-23', '2019-11-29', '2020-11-27', '2021-11-26', '2022-11-25','2023-11-24','2024-11-29']),
-    'lower_window': -7,
-    'upper_window': 7})
 
-CyberMon = pd.DataFrame({
-    'holiday': 'CyberMon', 
-    'ds': pd.to_datetime(['2018-11-26', '2019-12-02', '2020-11-29', '2021-11-29', '2022-11-28','2023-11-27','2024-11-27']),
-    'lower_window': 0,
-    'upper_window': 7})
-
-Valentines = pd.DataFrame({
-    'holiday': 'Valentines', 
-    'ds': pd.to_datetime(['2018-02-14', '2019-02-14', '2020-02-14', '2021-02-14', '2022-02-14','2023-02-14','2024-02-14']),
+Die= pd.DataFrame({
+    'holiday': 'Die', 
+    'ds': pd.to_datetime(['2018-11-01', '2019-11-01', '2020-11-01', '2021-11-01', '2022-11-01','2023-11-01','2024-11-01']),
     'lower_window': -3,
-    'upper_window': 1})
+    'upper_window': 3})
 
-Mothers = pd.DataFrame({
-    'holiday': 'Mothers',
-    'ds': pd.to_datetime(['2018-05-13', '2019-05-12', '2020-05-26', '2021-05-09', '2022-05-08','2023-05-14','2024-05-12']),
+Benito = pd.DataFrame({
+    'holiday': 'Benito',
+    'ds': pd.to_datetime(['2018-03-21', '2019-03-21', '2020-03-21', '2021-03-21', '2022-03-21','2023-03-21','2024-03-21']),
     'lower_window': -7,
-    'upper_window': 1
+    'upper_window': 5
 })
 
 Independence = pd.DataFrame({
     'holiday': 'Independence',
-    'ds': pd.to_datetime(['2018-07-04', '2019-07-04', '2020-07-03', '2021-07-05', '2022-07-04','2023-07-04','2023-07-04','2024-07-04']),
-    'lower_window': -7,
-    'upper_window': 1
+    'ds': pd.to_datetime(['2018-09-16', '2019-09-16', '2020-09-16', '2021-09-16', '2022-09-16','2023-09-16','2023-09-16','2024-09-16']),
+    'lower_window': -1,
+    'upper_window': 5
 })
 
-Labor = pd.DataFrame({
-    'holiday': 'Labor',
-    'ds': pd.to_datetime(['2018-09-03', '2019-09-02', '2020-09-07', '2021-09-06', '2022-09-05','2023-09-04','2024-09-02']),
-    'lower_window': -7,
-    'upper_window': 1
+Workers = pd.DataFrame({
+    'holiday': 'Workers',
+    'ds': pd.to_datetime(['2018-05-01', '2019-05-01', '2020-05-01', '2021-05-01', '2022-05-01','2023-05-01','2024-05-01']),
+    'lower_window': -1,
+    'upper_window': 7
 })
+
 Christmas = pd.DataFrame({
     'holiday': 'Christmas',
     'ds': pd.to_datetime(['2018-12-25', '2019-12-25', '2020-12-25', '2021-12-25', '2022-12-25','2023-12-25','2024-12-25']),
@@ -64,7 +54,7 @@ Christmas = pd.DataFrame({
     'upper_window': 1
 })
 
-customized_holidays = pd.concat(( Blackfriday, CyberMon, Valentines, Mothers, Independence, Labor, Christmas))
+customized_holidays = pd.concat(( Die, Benito, Independence, Workers, Christmas))
 
 def CreateModel(training_dataset, row):
     """
@@ -146,7 +136,7 @@ class GenerateModelFile:
                 training_dataset = model_df[(model_df['ds'] < new_cut_off_point) & (model_df['ds'] >= values.starting_date)]
             except:
                 training_dataset = model_df[(model_df['ds'] < values.cutoff_month)]
-#             print(values.cutoff_month, training_dataset.head())
+                
             model = CreateModel(training_dataset, values)
 
             pickle_file_name = ' '.join([values[i] for i in breakdown_ls])

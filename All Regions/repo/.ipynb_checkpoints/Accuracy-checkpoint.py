@@ -99,8 +99,13 @@ def MakeFuture(model, model_df, values, periods, future_input_df: pd.DataFrame =
     """
     Function used to make fbprophet future dataframe.
     """
-
+    
+    future_ = model.make_future_dataframe(periods = int(1))
+    print(f'Min date in future_ {future_.ds.min()}, max date in future_ {future_.ds.max()}')
+    
     future = model.make_future_dataframe(periods = int(periods))
+    print(f'Min date in future {future.ds.min()}, max date in future {future.ds.max()}')
+    
     try:
         
         if len(future_input_df.columns)>0:

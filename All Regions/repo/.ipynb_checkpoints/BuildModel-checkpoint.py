@@ -146,7 +146,7 @@ class GenerateModelFile:
                 training_dataset = model_df[(model_df['ds'] < new_cut_off_point) & (model_df['ds'] >= values.starting_date)]
             except:
                 training_dataset = model_df[(model_df['ds'] < values.cutoff_month)]
-#             print(values.cutoff_month, training_dataset.head())
+                
             model = CreateModel(training_dataset, values)
 
             pickle_file_name = ' '.join([values[i] for i in breakdown_ls])

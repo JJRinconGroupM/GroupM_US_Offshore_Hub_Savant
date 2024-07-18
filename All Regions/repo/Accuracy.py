@@ -99,8 +99,9 @@ def MakeFuture(model, model_df, values, periods, future_input_df: pd.DataFrame =
     """
     Function used to make fbprophet future dataframe.
     """
-
+        
     future = model.make_future_dataframe(periods = int(periods))
+    
     try:
         
         if len(future_input_df.columns)>0:
@@ -130,8 +131,7 @@ def MakeFuture(model, model_df, values, periods, future_input_df: pd.DataFrame =
         future.drop(future[(future['ds'] >= '2020-01-01')&(future['ds']<='2020-12-31')].index, axis = 0, inplace = True)
         
     if values.anomaly_2021 in ('additive', 'multiplicative'):
-        future['anomaly_2021'] = future['ds'].apply(lambda x: 1 if (x >= datetime.date(2021,8,1))\
-                                     & (x <= datetime.date(2021,10,31)) else 0)
+        future['anomaly_2021'] = future['ds'].apply(lambda x: 1 if (x.date() >=    datetime.date(2021,8, 1)) and (x.date() <= datetime.date(2021, 10, 31)) else 0)
         
     if values.new_confirmed in ('additive', 'multiplicative'):
         future = future.merge(model_df[['ds', 'new_confirmed']], how = 'left', on = 'ds')  
@@ -169,7 +169,7 @@ def MakeFuture(model, model_df, values, periods, future_input_df: pd.DataFrame =
     
     if values.growth == 'logistic':
         future['cap'] = future.ROAS * future.X / future.AOV
-        future.loc[future.cap == 0, 'cap'] = future.cap.max()
+        future.loc[future.cap == 0, 'cap'] = future.cap.mean()
         future['floor'] = 0
 #     print(values)
 #     print("a0:", future.cap.min())
