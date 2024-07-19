@@ -128,7 +128,7 @@ def _Reindex(updated_df, config_dict):
 
 
 
-def Combine(df, identifier = 'L', small_market_str = '', config_dict = None):
+def Combine(df, identifier = 'L', small_market_str = 'null', config_dict = None):
     """
         Function used to combine some breakdowns into smaller groups of breakdowns. 
         It combines multiple market breakdowns into a small markets (SM) market breakdown, and Generic and Competitor funnel breakdown into Non_Brand funnel breakdown
@@ -245,33 +245,34 @@ def Combine(df, identifier = 'L', small_market_str = '', config_dict = None):
     except Exception as err:
         print(f"Unexpected {err}, {type(err)} while handling small market group.")
     
+    
+    # update cost_brand for large markets 
+    large_markets.loc[:,'cost_brand'] = np.where(large_markets['new_funnel']=='brand',large_markets['X'],0) 
+    
+    # update cost_split_brand for large markets 
+    large_markets.loc[:,'cost_split_brand'] = np.where(large_markets['new_funnel']=='brand',1,0) 
+                                           
+        
     # concat small markets df and large markets df 
     updated_df = pd.concat([small_markets, large_markets]).reset_index(drop = True).rename(columns = {'new_funnel': 'funnel'})
-
-    # update cost_brand for large markets 
-    updated_df.loc[:,'cost_brand'] = np.where(updated_df['funnel']=='brand',1, 
-                                            np.where(updated_df['funnel']=='non_brand',0,updated_df['cost_brand'])
-                                            )
-
-    # update cost_split_brand for large markets 
-    updated_df.loc[:,'cost_split_brand'] = np.where(updated_df['funnel']=='brand',1, 
-                                            np.where(updated_df['funnel']=='non_brand',0,updated_df['cost_split_brand'])
-                                            )
-
+    
     # reindex data frame 
     updated_df = _Reindex(updated_df,config_dict)
     
     return updated_df
 
-'''
-def GetCovidData(region):
+
+def GetCovidData(country_name=None,region=None):
     """
         Function used to get Covid data (new confirmed cases by date) from a BigQuery table.
         
         Parameter:
         -------
+            country_name: string
+                name to identify the country to get the covid data 
+                
             region: string
-                name to identify the country or region to get the covid data 
+                name to identify the region to get the covid data 
                 
         Returns:
         -------
@@ -279,12 +280,35 @@ def GetCovidData(region):
                DataFrame which contains covid data for the selected region. 
         """
     
-    # create the query to get the covid data in BQ. get date, country, and new confirmed (new confirmed cases of covid).
-    query_string = f"""
-    SELECT date, country_name, new_confirmed
-    FROM `ups-analytics.bx_forecast_optimization.covid_confirmed_cases_with_country_name` 
-    where region = '{region}'
-    """
+    if country_name == None and region == None:
+        
+        raise Exception('Either country_name or region must be an string argument')
+        
+    if country_name == None and region != None:
+        
+        # create the query to get the covid data in BQ. get date, country, and new confirmed (new confirmed cases of covid).
+        query_string = f"""
+        SELECT date, country_name, new_confirmed
+        FROM `ups-analytics.bx_forecast_optimization.covid_confirmed_cases_with_country_name` 
+        where region = '{region}'
+        """
+        
+    elif country_name != None and region == None:
+        
+        # create the query to get the covid data in BQ. get date, country, and new confirmed (new confirmed cases of covid).
+        query_string = f"""
+        SELECT date, country_name, new_confirmed
+        FROM `ups-analytics.bx_forecast_optimization.covid_confirmed_cases_with_country_name` 
+        where country_name = '{country_name}'
+        """
+
+    
+        # create the query to get the covid data in BQ. get date, country, and new confirmed (new confirmed cases of covid).
+        query_string = f"""
+        SELECT date, country_name, new_confirmed
+        FROM `ups-analytics.bx_forecast_optimization.covid_confirmed_cases_with_country_name` 
+        where country_name = '{country_name}'
+        """
 
     # set the BQ client to pass the query to 
     #client = bigquery.Client()
@@ -319,4 +343,3 @@ def GetCovidData(region):
     
     # return covid df 
     return covid_df
-'''
