@@ -267,22 +267,8 @@ class AccuracyCalculator:
             # create and train the prophet model with the model hyper parameters set on values and the market customized_holidays
             model  = CreateModel(training_dataset = training_dataset, params = values, customized_holidays = customized_holidays)
 
-
-
-
-            future = MakeFuture_(model, model_df, values, values.periods_for_acc_cal)
-            forecast = model.predict(future)
-            remove_negs_(forecast)
-            round_forecast_(forecast)
-
-
-
-
-
-
-
             # create the forecast with the model 
-            #forecast = forecast_model_predict(model, model_df, params = values, forecasting_periods = values.periods_for_acc_cal, future_input_df = model_df)
+            forecast = forecast_model_predict(model, model_df, params = values, forecasting_periods = values.periods_for_acc_cal, future_input_df = model_df)
 
             # calculate the forecasting period monthly MAPE and forecasting percentage error, and get a monthly forecast df with the monthly percentage error and forecasting period monthly MAPE and forecasting period percentage error
             MAPE, period_APE, monthly_acc_df_temp = monthly_MAPE_calcuation(forecast_df = forecast, actual_df = model_df, start_date = new_cut_off_point)         
@@ -378,12 +364,14 @@ def PlotAccuracyCharts(accuracy_df, cuts_df, query_item_list):
 
     # iterate over each row of cuts_df, over each breakdown 
     for key, values in cuts_df.iterrows():
+        
+        df = accuracy_df.copy()
 
         # create a query filtering conditions for every of the breakdown columns that need to be filtered to create the breakdown dataframe to plot its accuracy  
-        query = ' & '.join([f"(accuracy_df['{col}'] == '{values[col]}')" for col in query_item_list])
+        query = ' & '.join([f"(df['{col}'] == '{values[col]}')" for col in query_item_list])
 
         # filter the accuracy_df dataset with the query to create the the breakdown dataframe to plot its accuracy  
-        df_for_plt = eval(f"accuracy_df[{query}]").reset_index(drop=True)
+        df_for_plt = eval(f"df[{query}]").reset_index(drop=True)
 
         # plot the percentage error, the actual and forecast for the brwakdown accuracy df 
         df_for_plt.set_index('Month').plot(y=['Actual', 'Forecast','Percentage Error'], secondary_y=['Percentage Error'], title=' '.join([f'{values[col]}' for col in query_item_list]))
@@ -752,107 +740,3 @@ class ProphetParameterSearch:
 
 
 
-
-
-
-
-
-
-
-
-
-def MakeFuture_(model, model_df, values, periods, future_input_df: pd.DataFrame = None):
-    """
-    Function used to make fbprophet future dataframe.
-    """
-
-    future = model.make_future_dataframe(periods = int(periods))
-    try:
-        
-        if len(future_input_df.columns)>0:
-            future_col_ls_default = ['X', 'generic_cost_split', 'competitor_cost_split', 'new_confirmed', 'ROAS', 'AOV']
-            future_col_ls = future_col_ls_default.copy()
-            for i in future_col_ls_default:
-                if i not in future_input_df.columns:
-                    future_col_ls.remove(i)
-            
-            for i in future_col_ls:
-                future = future.merge(future_input_df[['ds']  + list([i])], how = 'left', on = 'ds')
-                if i in ['generic_cost_split', 'competitor_cost_split']:
-                    future[i] = future[i].fillna(.5)
-                else:
-                    future[i] = future[i].fillna(future[i].min())
-    except:
-        pass    
-
-    
-    if values.weekday_or_weekend in ('additive', 'multiplicative'):
-        future['weekday_or_weekend'] = future['ds'].apply(lambda x: 1 if x.dayofweek > 4 else 0)
-
-    if values.covid_year_dummy in ('additive', 'multiplicative'):
-        future['covid_year_dummy'] = future['ds'].apply(lambda x: 1 if (x >= datetime.date(2020,1,1)) & (x <= datetime.date(2020,12,31)) else 0)
-
-    if values.covid_year_exclude == 'Exclude':
-        future.drop(future[(future['ds'] >= '2020-01-01')&(future['ds']<='2020-12-31')].index, axis = 0, inplace = True)
-        
-    if values.anomaly_2021 in ('additive', 'multiplicative'):
-        future['anomaly_2021'] = future['ds'].apply(lambda x: 1 if (x >= datetime.date(2021,8,1))\
-                                     & (x <= datetime.date(2021,10,31)) else 0)
-        
-    if values.new_confirmed in ('additive', 'multiplicative'):
-        future = future.merge(model_df[['ds', 'new_confirmed']], how = 'left', on = 'ds')  
-
-    if values.cost_split_generic in ('additive', 'multiplicative'):
-        future = future.merge(model_df[['ds', 'cost_split_generic']], how = 'left', on = 'ds')
-            
-    if values.cost_split_competitor in ('additive', 'multiplicative'):
-
-        future = future.merge(model_df[['ds', 'cost_split_competitor']], how = 'left', on = 'ds')  
-
-    future['Mar_2018'] = 0
-    future.loc[(future['ds'] <= '2018-03-31') & (future['ds'] >= '2018-03-01'), 'Mar_2018'] = 1
-
-    future['Nov_Dec_2018'] = 0
-    future.loc[(future['ds'] <= '2018-12-31') & (future['ds'] >= '2018-11-01'), 'Nov_Dec_2018'] = 1
-
-    future['Apr_2019'] = 0
-    future.loc[(future['ds'] <= '2019-04-30') & (future['ds'] >= '2019-04-01'), 'Apr_2019'] = 1
-
-    future['May_2019'] = 0
-    future.loc[(future['ds'] <= '2019-05-31') & (future['ds'] >= '2019-05-01'), 'May_2019'] = 1
-
-    future['Jul_Dec_2019'] = 0
-    future.loc[(future['ds'] <= '2019-12-31') & (future['ds'] >= '2019-07-01'), 'Jul_Dec_2019'] = 1
-    
-    future = pd.merge(future, model_df, how = 'left', on = ['ds']).fillna(0) 
-    ls = future.columns
-
-    for i in ls:
-        if i.endswith(('_x', '_y')):
-            new_col_name = re.search(r"(.+?)(_x|_y)", i).group(1)
-            future[new_col_name] = future.apply(lambda x: max(x[new_col_name+'_x'], x[new_col_name+'_y']), axis=1)
-    future = future.fillna(0)
-    
-    if values.growth == 'logistic':
-        future['cap'] = future.ROAS * future.X / future.AOV
-        future.loc[future.cap == 0, 'cap'] = future.cap.max()
-        future['floor'] = 0
-#     print(values)
-#     print("a0:", future.cap.min())
-
-#     print("a:", future.cap.min())
-    return future
-
-
-
-#function to remove any negative forecasted values.
-def remove_negs_(ts):
-    ts['yhat'] = ts['yhat'].clip(lower=0)
-    ts['yhat_lower'] = ts['yhat_lower'].clip(lower=0)
-    ts['yhat_upper'] = ts['yhat_upper'].clip(lower=0)
-
-#function to round up dicimal forecasted values.
-def round_forecast_(ts):
-    ts['yhat'] = ts['yhat'].round(2)
-    ts['yhat_lower'] = ts['yhat_lower'].round(2)
-    ts['yhat_upper'] = ts['yhat_upper'].round(2)
